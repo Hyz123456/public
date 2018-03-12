@@ -1,0 +1,70 @@
+/index.php/11
+/controller/11 load fail.
+2017-12-22 00:08:31
+27.26.52.254
+
+/index.php/11/11
+/controller/11 load fail.
+2017-12-22 00:08:34
+27.26.52.254
+
+/index.php/test/checkout/1
+/controller/test load fail.
+2017-12-22 00:08:42
+27.26.52.254
+
+/index.php/pay/dlb_dalipay/1
+/controller/pay load fail.
+2017-12-22 00:10:32
+27.26.52.254
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 00:12:26
+27.26.52.254
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 00:13:43
+27.26.52.254
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 00:49:36
+113.111.113.166
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 02:50:46
+111.125.84.149
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 10:20:43
+180.178.61.58
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 11:22:55
+123.108.253.130
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 11:33:53
+27.26.52.254
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 11:33:54
+27.26.52.254
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 15:49:33
+119.123.149.74
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-22 16:10:57
+175.41.30.178
+

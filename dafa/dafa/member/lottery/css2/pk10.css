@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-6-23, 14:12:33
+    Author     : admin
+*/
+
+.kick img {
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 8px;
+    margin-top: 0px;
+}
+.fot {
+    line-height: 22px !important;
+    text-align: left !important;
+    color: #000;
+    margin-left: 10px;
+}
+.summary {
+    background: #f9f7f4;
+    padding: 7px 0;
+    min-height: 40px;
+}
+.sj {
+    position: absolute !important;
+    left: 187px !important;;
+    top: 103px !important;;
+    width: 180px !important;
+    height: 24px;
+    text-align: center;
+}
+.ssc_left .touzhu .bian .bian_tr_bg{
+        background: #a69b91;
+}
+.ssc_left .touzhu .bian .xing{
+    background: #f9f7f4;
+    color: #000;
+}

@@ -1,0 +1,29 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,li,dl,dt,dd,input{margin:0;padding:0;}
+*{list-style:none; }
+body{background:#fff; font:normal 12px  "微软雅黑"; }
+img{ border:0;  }
+a{   
+	color: #666;
+    text-decoration:none;
+}
+i{ font-style:normal}
+
+.both{clear:both; height:0px; line-height:0px; font-size:0px; overflow:hidden; }
+
+.left{float: left;}
+.right{float: right;}
+
+.headr{height: 112px;}
+.headr .inner{width: 1200px;margin: 0 auto;}
+.head_l img{margin-top: 20px;}
+.head_r li{float: left;margin-right: 108px;}
+.head_r li a{height: 112px;line-height: 112px;font-size: 18px;}
+.banner{height: 600px;width: 100%;}
+.banner img{height: 100%;width: 100%;}
+.bottom .inner{width: 1200px;margin: 0 auto;text-align: center;padding: 60px 0 53px 0;}
+.bottom li{width: 200px;margin-right: 133px;/*padding-top: 60px;*/float: left;}
+.bottom .bot_img{margin-bottom: 18px;}
+.bottom .bot_title{font-size: 24px;color: #666666;padding-bottom: 16px;font-weight: 600;}
+.bottom .bot_txt{font-size: 14px;color: #666666;line-height: 19px;}
+.bottom .margin_r_0{margin-right: 0!important;}
+.footer{height: 80px;line-height: 80px;color: #666666;text-align: center;background-color: #e0e8f9;}

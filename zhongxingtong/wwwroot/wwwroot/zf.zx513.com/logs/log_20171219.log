@@ -1,0 +1,1310 @@
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:57:45
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:57:45
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:57:45
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:00
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:58:00
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:00
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:04
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:58:04
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:04
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:05
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:07
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:58:07
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:58:07
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:59:09
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 10:59:09
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 10:59:09
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:28:35
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:28:35
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:28:35
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:25
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:32:25
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:25
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:32
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:32:32
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:32
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:40
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:32:40
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:40
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:43
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:32:43
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:43
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:48
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:32:48
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:32:48
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:33:01
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:01
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:33:01
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:32
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:32
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:32
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:32
+119.108.70.232
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-19 15:33:32
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:34
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:33:34
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:38
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:38
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:38
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:38
+119.108.70.232
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-19 15:33:38
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:39
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:41
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:33:41
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:43
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-19 15:33:46
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-19 15:33:46
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:33:46
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:49
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:51
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:51
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:51
+119.108.70.232
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:33:51
+119.108.70.232
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-19 15:33:51
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.is_state=? and a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:00
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]68
+[class]WY\app\libs\Model
+2017-12-19 15:34:00
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]75
+[class]WY\app\libs\Model
+2017-12-19 15:34:00
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]76
+[class]WY\app\libs\Model
+2017-12-19 15:34:00
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-19 15:34:01
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-19 15:34:01
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:34:01
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:01
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:02
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:34:02
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:04
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.is_state=? and a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:06
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]63
+[class]WY\app\libs\Model
+2017-12-19 15:34:07
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*(gprice-uprice)) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid  ORDER BY agentid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:34:07
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*(gprice-uprice)) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid  ORDER BY agentid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]71
+[class]WY\app\libs\Model
+2017-12-19 15:34:07
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]68
+[class]WY\app\libs\Model
+2017-12-19 15:34:08
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]75
+[class]WY\app\libs\Model
+2017-12-19 15:34:08
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]76
+[class]WY\app\libs\Model
+2017-12-19 15:34:08
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-19 15:34:09
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-19 15:34:09
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:34:09
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:10
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:11
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:34:11
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:15
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:34:15
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:30
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.is_state=? and a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:32
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]63
+[class]WY\app\libs\Model
+2017-12-19 15:34:33
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*(gprice-uprice)) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid  ORDER BY agentid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:34:33
+119.108.70.232
+
+/index.php/bielai/ordersha
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select agentid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*(gprice-uprice)) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where agentid<>? and addtime>=? and addtime<=? GROUP BY agentid  ORDER BY agentid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersha.php
+[line]71
+[class]WY\app\libs\Model
+2017-12-19 15:34:33
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]68
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]75
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where channelid<>? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersca.php
+[line]76
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-19 15:34:34
+119.108.70.232
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:35
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:34:37
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:34:37
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:40:07
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:40:07
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:42:39
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:39
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:42:39
+119.108.70.232
+
+/index.php/member/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<>? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:44
+119.108.70.232
+
+/index.php/member/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid from wy_orders  where channelid<>? and userid = ? and is_state<=? and addtime>=? and addtime<=? GROUP BY channelid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\member\ordersca.php
+[line]38
+[class]WY\app\libs\Model
+2017-12-19 15:42:45
+119.108.70.232
+
+/index.php/member/ordersca
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select channelid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income from wy_orders  where channelid<>? and userid = ? and is_state<=? and addtime>=? and addtime<=? GROUP BY channelid  ORDER BY channelid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\member\ordersca.php
+[line]45
+[class]WY\app\libs\Model
+2017-12-19 15:42:45
+119.108.70.232
+
+/index.php/bielai
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:48
+119.108.70.232
+
+/index.php/bielai
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:48
+119.108.70.232
+
+/index.php/bielai
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:48
+119.108.70.232
+
+/index.php/bielai
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:48
+119.108.70.232
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-19 15:42:48
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:50
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:42:50
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 15:42:53
+119.108.70.232
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 15:42:53
+119.108.70.232
+
+/index.php/fonts/glyphicons-halflings-regular.eot
+/controller/fonts load fail.
+2017-12-19 16:25:55
+106.2.234.12
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 16:28:32
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-19 16:28:32
+119.108.70.232
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-19 16:28:32
+119.108.70.232
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 16:28:37
+119.108.70.232
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 16:28:43
+61.151.178.172
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 16:28:55
+183.3.239.162
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 16:30:43
+106.2.234.12
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 16:32:04
+106.2.234.12
+
+/index.php/fonts/glyphicons-halflings-regular.eot
+/controller/fonts load fail.
+2017-12-19 16:32:04
+106.2.234.12
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-19 21:02:42
+106.2.234.14
+

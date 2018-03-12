@@ -1,0 +1,195 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-6-27, 10:29:54
+    Author     : admin
+*/
+.mainBox{
+   background: url("/pic/bg.jpg?v=u91dedfdb");
+   background-size: cover;
+}
+    
+
+/*头部 开始*/
+#headerBox{background: #d48031;}
+#headerBox .logo{left: 0.1em;}
+.header-item ul {margin-right: 2.5em;}
+.header-item ul li{float: right;    margin-right: 0.5em;}
+.header-item ul li a{color: #000;}
+/*头部 结束*/
+
+
+
+/* flexslider */
+/*.flexslider{position:relative;height:632px;}
+.slides{position:relative;z-index:1;}
+.slides li{height:632px;background-position:center;} */
+.flex-control-nav{position:absolute;z-index:2;width:100%;bottom: 5px;right: 5px;text-align: right;}
+.flex-control-nav li{display:inline-block;width:14px;height:14px;margin:0 5px;*display:inline;zoom:1;}
+.flex-control-nav a{display:inline-block;width:14px;height:14px;line-height:5em;overflow:hidden;background:#FFF;cursor:pointer;border-radius: 50%;}
+.flex-control-nav .flex-active{background:#FFE503;}
+
+/*.flex-direction-nav{position:absolute;z-index:3;width:100%;top:45%;}
+.flex-direction-nav li a{display:block;width:45px;height:100px;overflow:hidden;cursor:pointer;position:absolute;opacity:0.1;}
+.flex-direction-nav li a:hover{opacity:0.5;}
+.flex-direction-nav li a.flex-prev{left:40px;background:url(../pic/prev.png)  left center no-repeat;}
+.flex-direction-nav li a.flex-next{right:40px;background:url(../pic/next.png) right center no-repeat;}*/
+
+
+.tip{background: #CCC;padding: 0 10px;border-bottom: 1px solid #fff;}    
+.tip .yu{padding: 0;font-size: 24px;background: url("/pic/icon-notice.png?v=u705f4885") center no-repeat;background-size: 20px;height: 29px; width: 28px;border: none;}
+#noticeContext{line-height: 25px !important;color: #000;font-size: 14px;}
+#user {display: none;}
+
+.quicklink{
+    padding: 0 5px;
+    height: 100px;
+    background: none;
+    border-top: none;
+}
+.quicklink ul{
+    width: 100%;
+    background: none;
+    height: 100px;
+    display: block;
+    border-bottom: 1px solid #fff;
+}
+.quicklink ul li{
+    padding: 5px 0;
+    float: left;
+    width: 25%;
+    height: 90px;
+    text-align: center;
+    position: relative;
+}
+.quicklink ul li.active {
+    border-bottom: 2px solid #e00013;
+}
+.quicklink ul li a{
+    color: #e00013;
+    font-weight: 600;
+    display: block;
+    text-decoration: none;
+    
+}
+.quicklink ul li.lm_1 a{width: 72px;
+    height: 90px;
+    display: block;
+    background: url("/pic/live.png") no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+.quicklink ul li.lm_2 a{
+    width: 72px;
+    height: 90px;
+    display: block;
+    background: url("/pic/lottery.png")  no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+.quicklink ul li.lm_3 a{
+    width: 72px;
+    height: 90px;
+    display: block;
+
+    background: url("/pic/sport.png") no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+.quicklink ul li.lm_4 a{
+    width: 72px;
+    height: 90px;
+    display: block;
+    background: url("/pic/game.png") no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+
+
+.game-list{
+    background: transparent;
+    margin: 0.1rem 0;
+    padding: 0 5px;
+}
+
+.game-list .tab-pane{
+    display: none;
+}
+.game-list .active{
+    display: block;
+}
+.game-list dl{
+    width: 30%;
+    border-radius: 10px;
+    background: rgba(255,255,255,.5);
+    padding: 10px 0;
+    margin: 1.3%;
+    border: 1px solid #fff; 
+}
+.game-list dt img{
+    width: 40%;
+        
+}
+
+
+.jw{
+    margin-bottom: 0.5rem;
+    text-align: center;
+    margin-top: 20px;
+}
+.jw a {
+    padding-left: 25px;
+    height: 30px;
+    font-size: 16px;
+    line-height: 30px;
+    display: inline-block;
+    color: #FFF;
+}
+
+.jw .computer {
+    background: url("/pic/icon-computer.png?v=u705f4885") center left no-repeat;
+    background-size: 22px;
+}
+
+.jw .superLink {
+    background: url("/pic/ico-link.png?v=u705f4885") center left no-repeat;
+    background-size: 22px;
+}
+.jw p {
+    color: #000;
+    opacity: .5;
+    margin: 0 0 10px;
+    font-size: 0.5em;
+}
+
+
+.footer {
+    border-top: 1px solid #fff;
+    background: url("/pic/bg.jpg?v=u91dedfdb") no-repeat;
+    background-size: cover;
+    background-position:0;
+}
+.footer a{
+    color: #000;
+        background: rgba(255,255,255,0.3);
+}
+.footer>a>span{
+    background: url(/pic/footerx2_1.png) no-repeat;
+    background-size: cover;
+}
+.footer>a:nth-child(2)>span{
+    background: url(/pic/icon-service.png) no-repeat;
+    background-size: 1.9em;
+}
+.footer>a:nth-child(3)>span{
+    background: url(/pic/icon-coin.png) no-repeat;
+    background-size: 1.9em;
+}
+.footer>a:nth-child(4)>span{
+    background: url(/pic/icon-transfer.png) no-repeat;
+    background-size: 1.9em;
+}

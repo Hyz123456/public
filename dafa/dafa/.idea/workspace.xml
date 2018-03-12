@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bec89a1-dc0d-482a-8385-4d6f6cd40eb9" name="Default" comment="" />
+    <ignored path="1428.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1428" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="list_ag4.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/casino/list_ag4.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.285714" vertical-offset="2442" max-vertical-offset="8316">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="79" />
+              <folding>
+                <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/left.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.8809524" vertical-offset="20882" max-vertical-offset="44550">
+              <caret line="650" column="0" selection-start-line="650" selection-start-column="0" selection-end-line="650" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setreamount.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/casino/setreamount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4983108" vertical-offset="7031" max-vertical-offset="13134">
+              <caret line="222" column="45" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="45" />
+              <folding>
+                <marker date="1505552913340" expanded="true" signature="221:346" placeholder="SELECT agfsb..." />
+                <marker date="1505552913340" expanded="true" signature="605:677" placeholder="SELECT * FRO..." />
+                <marker date="1505552913340" expanded="true" signature="896:995" placeholder="insert into ..." />
+                <marker date="1505552913340" expanded="true" signature="1234:1336" placeholder="select * fro..api_agbetdetail..." />
+                <marker date="1505552913340" expanded="true" signature="3340:3414" placeholder="SELECT * FRO..." />
+                <marker date="1505552913340" expanded="true" signature="3633:3734" placeholder="insert into ..." />
+                <marker date="1505552913340" expanded="true" signature="3973:4073" placeholder="select * fro..api_bbbetdetail..." />
+                <marker date="1505552913340" expanded="true" signature="6167:6239" placeholder="SELECT * FRO..." />
+                <marker date="1505552913340" expanded="true" signature="6458:6557" placeholder="insert into ..." />
+                <marker date="1505552913340" expanded="true" signature="6796:6884" placeholder="select * fro..api_mgbetdetail..." />
+                <marker date="1505552913340" expanded="true" signature="8931:9003" placeholder="SELECT * FRO..." />
+                <marker date="1505552913340" expanded="true" signature="9222:9321" placeholder="insert into ..." />
+                <marker date="1505552913340" expanded="true" signature="9560:9656" placeholder="select * fro..api_ptbetdetail..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ptbets.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/casino/ptbets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.595238" vertical-offset="5216" max-vertical-offset="6402">
+              <caret line="169" column="41" selection-start-line="169" selection-start-column="38" selection-end-line="169" selection-end-column="41" />
+              <folding>
+                <marker date="1505549573042" expanded="true" signature="4043:4084" placeholder="select id fr..api_ptbetdetail..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/member/include/mysql.php" />
+        <option value="$PROJECT_DIR$/newmg2/index.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbapi.php" />
+        <option value="$PROJECT_DIR$/admin/top.php" />
+        <option value="$PROJECT_DIR$/newmg2/mgapi.php" />
+        <option value="$PROJECT_DIR$/class/bbapi.php" />
+        <option value="$PROJECT_DIR$/verify/pt.php" />
+        <option value="$PROJECT_DIR$/newpt2/index.php" />
+        <option value="$PROJECT_DIR$/member/lottery2/dzyy.php" />
+        <option value="$PROJECT_DIR$/newpt2/pt/index.html" />
+        <option value="$PROJECT_DIR$/pttjj/js/jquery.function.js" />
+        <option value="$PROJECT_DIR$/pttjj/one.php" />
+        <option value="$PROJECT_DIR$/newpt2/playgame.php" />
+        <option value="$PROJECT_DIR$/member/zhenren/mylive.php" />
+        <option value="$PROJECT_DIR$/newbbin2/index.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbin/one.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbin/two.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbin/three.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbin/four.php" />
+        <option value="$PROJECT_DIR$/newbbin2/bbin/five.php" />
+        <option value="$PROJECT_DIR$/newpt2/cha.php" />
+        <option value="$PROJECT_DIR$/newpt2/get_credit.php" />
+        <option value="$PROJECT_DIR$/newpt2/ptapi.php" />
+        <option value="$PROJECT_DIR$/newab2/cha.php" />
+        <option value="$PROJECT_DIR$/newab2/get_credit.php" />
+        <option value="$PROJECT_DIR$/cl/index.php" />
+        <option value="$PROJECT_DIR$/admin/right.php" />
+        <option value="$PROJECT_DIR$/newag2/index.php" />
+        <option value="$PROJECT_DIR$/MgGame/startSlotGame.php" />
+        <option value="$PROJECT_DIR$/newab2/index.php" />
+        <option value="$PROJECT_DIR$/css/red_wap.css" />
+        <option value="$PROJECT_DIR$/newpt2/wappt.php" />
+        <option value="$PROJECT_DIR$/wap.php" />
+        <option value="$PROJECT_DIR$/newpt2/pt/pt.html" />
+        <option value="$PROJECT_DIR$/newab2/abapi.php" />
+        <option value="$PROJECT_DIR$/app/member/class/auto_transfer.php" />
+        <option value="$PROJECT_DIR$/moneychange4.php" />
+        <option value="$PROJECT_DIR$/money_change2.php" />
+        <option value="$PROJECT_DIR$/admin/user/list.php" />
+        <option value="$PROJECT_DIR$/agline/live_money_admin.php" />
+        <option value="$PROJECT_DIR$/admin/casino/list_ag4.php" />
+        <option value="$PROJECT_DIR$/admin/casino/ptbets.php" />
+        <option value="$PROJECT_DIR$/admin/casino/list_mg1.php" />
+        <option value="$PROJECT_DIR$/admin/admin_index.php" />
+        <option value="$PROJECT_DIR$/admin/casino/group_edit.php" />
+        <option value="$PROJECT_DIR$/admin/casino/group_save.php" />
+        <option value="$PROJECT_DIR$/admin/casino/Credit.php" />
+        <option value="$PROJECT_DIR$/admin/left.php" />
+        <option value="$PROJECT_DIR$/admin/casino/setreamount.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1598" />
+    <option name="height" value="850" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zfpay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1428" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="casino" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/phpStudy/wj/1428/admin/left.php&#10;onfig.inc.php&#9;FILE&#9;file://C:/phpStudy/wj/1428/app/member/include/config.inc.php" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../www" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\phpStudy\wj\1428\admin\casino" />
+      <recent name="C:\phpStudy\wj\1428\newpt2\wapimage" />
+      <recent name="C:\phpStudy\wj\1428\newpt2\pt" />
+      <recent name="C:\phpStudy\wj\1428" />
+      <recent name="C:\phpStudy\wj\1428\newpt2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\phpStudy\wj\1428\newpt2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bec89a1-dc0d-482a-8385-4d6f6cd40eb9" name="Default" comment="" />
+      <created>1505384899197</created>
+      <option name="number" value="Default" />
+      <updated>1505384899197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1598" height="850" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1993421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pttjj/one.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7837838" vertical-offset="1652" max-vertical-offset="33099">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/member/zhenren/mylive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6534" max-vertical-offset="12045">
+          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbin/two.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="90.18446" vertical-offset="4474" max-vertical-offset="53196">
+          <caret line="1543" column="297" selection-start-line="1543" selection-start-column="297" selection-end-line="1543" selection-end-column="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbin/three.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="31.873787" vertical-offset="4474" max-vertical-offset="22506">
+          <caret line="633" column="183" selection-start-line="633" selection-start-column="183" selection-end-line="633" selection-end-column="183" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26019418" vertical-offset="5278" max-vertical-offset="13101">
+          <caret line="164" column="9" selection-start-line="164" selection-start-column="9" selection-end-line="164" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbin/one.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-105.4958" vertical-offset="13978" max-vertical-offset="28116">
+          <caret line="804" column="274" selection-start-line="804" selection-start-column="274" selection-end-line="804" selection-end-column="274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0777027" vertical-offset="5498" max-vertical-offset="7656">
+          <caret line="168" column="10" selection-start-line="168" selection-start-column="10" selection-end-line="168" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbin/four.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-274.86554" vertical-offset="4383" max-vertical-offset="38478">
+          <caret line="1124" column="237" selection-start-line="1124" selection-start-column="237" selection-end-line="1124" selection-end-column="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbin/five.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="29.118446" vertical-offset="4606" max-vertical-offset="21054">
+          <caret line="594" column="216" selection-start-line="594" selection-start-column="216" selection-end-line="594" selection-end-column="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newag2/get_credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newmg2/get_credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285" vertical-offset="0" max-vertical-offset="264">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/bbapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22297297" vertical-offset="594" max-vertical-offset="6831">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newpt2/get_credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="264">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newab2/cha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="330">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newpt2/ptapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="773" max-vertical-offset="10329">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newpt2/cha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="330">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8957" max-vertical-offset="23100">
+          <caret line="262" column="18" selection-start-line="262" selection-start-column="18" selection-end-line="262" selection-end-column="18" />
+          <folding>
+            <marker date="1505486346923" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505486346923" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1505486346923" expanded="true" signature="-1:-1" placeholder="delete from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/member/include/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1775" max-vertical-offset="2409">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/member/include/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285" vertical-offset="0" max-vertical-offset="264">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/get_credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285" vertical-offset="0" max-vertical-offset="264">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/right.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3950617" vertical-offset="10211" max-vertical-offset="12342">
+          <caret line="306" column="34" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="34" />
+          <folding>
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..user_list..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..user_list..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..user_list..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..k_bet..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..k_bet_cg_group..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..order_lottery_sub..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..six_lottery_order_sub..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select order..money..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select count..money..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select * fro..money..." />
+            <marker date="1505529911678" expanded="true" signature="-1:-1" placeholder="select ag_ha..sys_config..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newab2/get_credit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10909091" vertical-offset="0" max-vertical-offset="605">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic/index_ogsx.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newag2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.625" vertical-offset="851" max-vertical-offset="1584">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MgGame/MgImg/BTN_AllAmerican1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newmg2/mgapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5236486" vertical-offset="3419" max-vertical-offset="10824">
+          <caret line="113" column="20" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newbbin2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44256756" vertical-offset="1025" max-vertical-offset="1617">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="40" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MgGame/startSlotGame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7454545" vertical-offset="0" max-vertical-offset="1650">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newpt2/playgame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.857143" vertical-offset="792" max-vertical-offset="1518">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MgGame/game.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5238096" vertical-offset="11519" max-vertical-offset="13629">
+          <caret line="351" column="17" selection-start-line="351" selection-start-column="8" selection-end-line="351" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.452381" vertical-offset="9281" max-vertical-offset="16599">
+          <caret line="292" column="21" selection-start-line="292" selection-start-column="21" selection-end-line="292" selection-end-column="21" />
+          <folding>
+            <marker date="1505537641224" expanded="true" signature="-1:-1" placeholder="select money..user_list..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newab2/abapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6351351" vertical-offset="4079" max-vertical-offset="8877">
+          <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newab2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45777026" vertical-offset="851" max-vertical-offset="1551">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newpt2/pt/pt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36824325" vertical-offset="13840" max-vertical-offset="15246">
+          <caret line="426" column="11" selection-start-line="426" selection-start-column="11" selection-end-line="426" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#label#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/member/class/auto_transfer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.271605" vertical-offset="36545" max-vertical-offset="45903">
+          <caret line="1113" column="27" selection-start-line="1113" selection-start-column="27" selection-end-line="1113" selection-end-column="27" />
+          <folding>
+            <marker date="1505529872369" expanded="true" signature="-1:-1" placeholder="select * fro..user_list..." />
+            <marker date="1505529872369" expanded="true" signature="-1:-1" placeholder="SELECT user_..user_list..." />
+            <marker date="1505529872369" expanded="true" signature="-1:-1" placeholder="update user_..." />
+            <marker date="1505529872369" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1505529872369" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moneychange4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0370371" vertical-offset="693" max-vertical-offset="33594">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+          <folding>
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505543112888" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/money_change2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5679011" vertical-offset="20072" max-vertical-offset="22605">
+          <caret line="617" column="142" selection-start-line="617" selection-start-column="142" selection-end-line="617" selection-end-column="142" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#4;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#5;n#tr#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#body#0;n#!!top" expanded="true" />
+            <marker date="1505543112894" expanded="true" signature="-1:-1" placeholder="select * fro..user_list..." />
+            <marker date="1505543112894" expanded="true" signature="-1:-1" placeholder="select * fro..user_list..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/user/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5679011" vertical-offset="10007" max-vertical-offset="12210">
+          <caret line="312" column="42" selection-start-line="312" selection-start-column="36" selection-end-line="312" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#td#1;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#td#2;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select u.use..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select u.use..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select group..user_group..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select sum(m..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select sum(m..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select sum(m..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select sum(m..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="select u.use..user_list..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505544170128" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agline/live_money_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52380955" vertical-offset="3091" max-vertical-offset="3795">
+          <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+          <folding>
+            <marker date="1505544468962" expanded="true" signature="-1:-1" placeholder="select user_..user_list..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/list_bbin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8514">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1488990448000" expanded="true" signature="-1:-1" placeholder="select id , ..api_bbbetdetail..." />
+            <marker date="1488990448000" expanded="true" signature="-1:-1" placeholder="select sum(P..api_bbbetdetail..." />
+            <marker date="1488990448000" expanded="true" signature="-1:-1" placeholder="select * fro..api_bbbetdetail..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/group.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285" vertical-offset="0" max-vertical-offset="3861">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="77" />
+          <folding>
+            <marker date="1486980260000" expanded="true" signature="-1:-1" placeholder="Delete from ..." />
+            <marker date="1486980260000" expanded="true" signature="-1:-1" placeholder="select count..." />
+            <marker date="1486980260000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/list_mg1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0370371" vertical-offset="8745" max-vertical-offset="12738">
+          <caret line="270" column="63" selection-start-line="270" selection-start-column="63" selection-end-line="270" selection-end-column="63" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#table#1;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#1;n#table#0;n#td#0;n#tr#0;n#table#1;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <marker date="1505549808858" expanded="true" signature="-1:-1" placeholder="select bb_us..user_list..." />
+            <marker date="1505549808858" expanded="true" signature="-1:-1" placeholder="select id fr..agbetdetail..." />
+            <marker date="1505549808858" expanded="true" signature="-1:-1" placeholder="select a.*,b..*..." />
+            <marker date="1505549808858" expanded="true" signature="-1:-1" placeholder="select * fro..agbetdetail..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/admin_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33783785" vertical-offset="827" max-vertical-offset="1782">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/group_save.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="24.404762" vertical-offset="8318" max-vertical-offset="8910">
+          <caret line="221" column="30" selection-start-line="221" selection-start-column="30" selection-end-line="221" selection-end-column="30" />
+          <folding>
+            <marker date="1505551550444" expanded="true" signature="-1:-1" placeholder="select * fro..k_group..." />
+            <marker date="1505551550444" expanded="true" signature="-1:-1" placeholder="Insert Into ..." />
+            <marker date="1505551550444" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1505551550444" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/group_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5714285" vertical-offset="0" max-vertical-offset="4818">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="77" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#form#0;n#body#0;n#HTML#0;n#!!top" expanded="true" />
+            <marker date="1505551260670" expanded="true" signature="-1:-1" placeholder="select * fro..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/list_ab.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.689189" vertical-offset="3960" max-vertical-offset="7821">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496975305000" expanded="true" signature="-1:-1" placeholder="select a.id ..agbetdetail..." />
+            <marker date="1496975305000" expanded="true" signature="-1:-1" placeholder="select a.*,b..*..." />
+            <marker date="1496975305000" expanded="true" signature="-1:-1" placeholder="select * fro..agbetdetail..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.8809524" vertical-offset="20882" max-vertical-offset="44550">
+          <caret line="650" column="0" selection-start-line="650" selection-start-column="0" selection-end-line="650" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/ptbets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.595238" vertical-offset="5216" max-vertical-offset="6402">
+          <caret line="169" column="41" selection-start-line="169" selection-start-column="38" selection-end-line="169" selection-end-column="41" />
+          <folding>
+            <marker date="1505549573042" expanded="true" signature="4043:4084" placeholder="select id fr..api_ptbetdetail..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/list_ag4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.285714" vertical-offset="2442" max-vertical-offset="8316">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/casino/setreamount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4983108" vertical-offset="7031" max-vertical-offset="13134">
+          <caret line="222" column="45" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="45" />
+          <folding>
+            <marker date="1505552913340" expanded="true" signature="221:346" placeholder="SELECT agfsb..." />
+            <marker date="1505552913340" expanded="true" signature="605:677" placeholder="SELECT * FRO..." />
+            <marker date="1505552913340" expanded="true" signature="896:995" placeholder="insert into ..." />
+            <marker date="1505552913340" expanded="true" signature="1234:1336" placeholder="select * fro..api_agbetdetail..." />
+            <marker date="1505552913340" expanded="true" signature="3340:3414" placeholder="SELECT * FRO..." />
+            <marker date="1505552913340" expanded="true" signature="3633:3734" placeholder="insert into ..." />
+            <marker date="1505552913340" expanded="true" signature="3973:4073" placeholder="select * fro..api_bbbetdetail..." />
+            <marker date="1505552913340" expanded="true" signature="6167:6239" placeholder="SELECT * FRO..." />
+            <marker date="1505552913340" expanded="true" signature="6458:6557" placeholder="insert into ..." />
+            <marker date="1505552913340" expanded="true" signature="6796:6884" placeholder="select * fro..api_mgbetdetail..." />
+            <marker date="1505552913340" expanded="true" signature="8931:9003" placeholder="SELECT * FRO..." />
+            <marker date="1505552913340" expanded="true" signature="9222:9321" placeholder="insert into ..." />
+            <marker date="1505552913340" expanded="true" signature="9560:9656" placeholder="select * fro..api_ptbetdetail..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

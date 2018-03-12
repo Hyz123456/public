@@ -1,0 +1,189 @@
+.mod-promotions .area-main .more-btn{background:url(/images/dz/play_btn_spirit.png) no-repeat;}
+.mod-home,.mod-live-casino,.mod-lottery,.mod-games,.mod-promotions{padding-bottom:30px;}
+.mod-banner{background:#000;height:280px;overflow:hidden;}
+.slide-wrap{position:relative;text-align:center;}
+.slide-wrap .num{position:absolute;bottom:25px;right:25px;float:right;z-index:1;}
+.slide-wrap .num span{display:inline-block;*float:left;*display:inline;margin:0 5px;text-indent:-999em;cursor:pointer;background:url(/images/dz/slide_dot.png) no-repeat 0px 0;width:13px;height:13px;}
+.slide-wrap .num span.current{background-position:-13px 0;}
+.slide-wrap ul li{position:absolute;left:0;top:0;display:none;}
+.slide-wrap ul li img{width:100%;*width:1000px;}
+.mod-home .mod-banner{height:395px;}
+.mod-home .slide-wrap .num{top:350px;}
+.notice{height:50px;line-height:50px;background:#303030;font-size:14px;}
+.notice .notice-tit{display:inline;color:#da5538;float:left;width:120px;text-align:center;font-weight:bold;}
+.notice .marquee{float:left;height:50px;color:#ccc;width:860px;overflow:hidden;}
+.home-menu .menu-sport{width:324px;height:350px;position:relative;cursor:pointer;overflow:hidden;}
+.home-menu .menu-sport .menu-info h3{padding:20px;}
+.home-menu .menu-sport .menu-info p{padding-bottom:10px;}
+.home-menu ul{width:676px;height:350px;overflow:hidden;}
+.home-menu ul li{width:320px;height:166px;margin:0 0 18px 18px;overflow:hidden;float:left;display:inline;position:relative;cursor:pointer;}
+.home-menu img{width:100%;}
+.home-menu .menu-mask{background:#000;filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity:0.5;opacity:0.5;width:100%;height:100%;position:absolute;top:0;left:0;}
+.home-menu ul li:hover .menu-mask,.home-menu .menu-sport:hover .menu-mask{filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0;-webkit-transition:all 0.2s linear;-moz-transition:all 0.2s linear;-ms-transition:all 0.2s linear;-o-transition:all 0.2s linear;transition:all 0.2s linear;}
+.home-menu .menu-tit{position:absolute;background:#e04220;top:0;left:0;color:#fff;height:34px;font:18px/34px "Microsoft YaHei";padding:0 10px;}
+.home-menu .menu-info{position:absolute;bottom:0;background:url(/images/dz/mask_60p.png) repeat;padding-bottom:10px;width:100%;}
+.home-menu .menu-info h3{color:#fff;font:20px/1 "Microsoft YaHei";padding:10px 20px;}
+.home-menu .menu-info p{color:#999;padding:0 10px 0 20px;}
+.home-menu .menu-info p em{background-position:-185px -607px;width:12px;height:12px;display:inline-block;vertical-align:-1px;margin-left:5px;}
+.mod-sports .layout1020{margin-top:5px;}
+.mod-tags{width:336px;height:32px;overflow:hidden;margin:15px auto 0;background:#353535;}
+.mod-tags a{width:168px;display:inline-block;float:left;text-align:center;color:#888;font-size:14px;line-height:32px;overflow:hidden;}
+.mod-tags a:hover{color:#fff;}
+.mod-tags a.current{color:#fff;overflow:hidden;background:#e04220;}
+.mod-sports .bb-sport{padding:20px 0 30px;width:1000px;height:450px;margin:0 auto;}
+.mod-sports .bb-wrap{background:url(/images/dz/bb_sports_spirits.png) no-repeat;}
+.mod-sports .bb-wrap{position:relative;width:100%;height:100%;}
+.mod-sports .bb-wrap a{display:block;background:#e04220;width:225px;height:46px;text-align:center;color:#fff;font:20px/46px "Microsoft YaHei";position:absolute;top:300px;left:486px;}
+.mod-sports .bb-wrap a:hover{background:#b8160e;}
+.l-c-platform li{float:left;display:inline;width:320px;margin-top:20px;}
+.l-c-platform li.mid-platform{margin:20px 20px 0;}
+.l-c-platform li div{background:#2c2c2c;padding-bottom:40px;}
+.l-c-platform li img{width:100%;}
+.l-c-platform li h2{font:22px/60px "Microsoft YaHei";text-align:center;background:#000;color:#fff;}
+.l-c-platform li p{padding:20px 25px 35px;color:#ccc;line-height:24px;}
+.l-c-platform li a.l-c-play-btn{background:#e04220;display:block;margin:0 25px;height:40px;font:18px/40px "Microsoft YaHei";text-align:center;color:#fff;}
+.l-c-platform li a.l-c-play-btn:hover{background:#b8160e;}
+.l-c-platform .platform-tit{background:#000;border:1px solid #333;border-left:4px solid #189e9e;cursor:pointer;height:111px;}
+.l-c-platform .platform-icon{margin:45px 6px 45px 26px;background:url(/images/dz/platform_tit_icon.png) no-repeat;height:20px;width:20px;}
+.l-c-platform li:first-child .platform-icon{background-position:0 -20px;}
+.l-c-platform .platform-logo{margin:8px;padding:10px 15px;border-right:1px dashed #40403f;}
+.l-c-platform .platform-text span{font-size:28px;font-family:"Microsoft YaHei";color:#189e9e;}
+.l-c-platform .platform-text{font-size:14px;width:523px;padding:30px 10px 10px 10px;color:#7f7f7f;}
+.l-c-platform .platform-go{margin:30px 0px 0px 33px;width:157px;height:48px;}
+.l-c-platform .platform-list{border:1px solid #333;border-top:none;background:#333;padding-bottom:20px;display:none;}
+.l-c-platform .platform-list dd{width:193px;float:left;background:#189e9e;padding:3px;margin:20px 25px 0px 25px;-moz-box-shadow:1px 1px 10px #222;-webkit-box-shadow:1px 1px 10px #222;box-shadow:1px 1px 10px #222;}
+.l-c-platform .platform-list dd a{position:relative;}
+.l-c-platform .platform-list dd a .l-c-go{position:absolute;top:65px;left:40px;-moz-box-shadow:1px 2px 10px #000;-webkit-box-shadow:1px 2px 10px #000;box-shadow:1px 2px 10px #000;background-position:0 -128px;width:114px;height:35px;display:none;}
+.l-c-platform h3{font-size:14px;font-family:"Microsoft YaHei";text-align:center;line-height:35px;color:#252525;cursor:default;}
+.l-c-platform .platform-list dd:hover h3{color:#fff;}
+.games-hd-menu{position:relative;z-index:2;margin-top:20px;}
+.games-hd-menu ul li{float:left;display:inline;height:50px;width:25%;background:#000;}
+.games-hd-menu ul li span{display:block;color:#fff;font:18px/50px "Microsoft YaHei";text-align:center;cursor:pointer;}
+.games-hd-menu ul li.bb-menu{width:332px;margin:0;}
+.games-hd-menu ul li span:hover{color:#e04220;}
+.games-hd-menu ul .current{background:#e04220;}
+.games-hd-menu ul li.current span:hover{color:#fff;}
+.games-panes{padding-top:30px;min-height:500px;}
+.games-sub-menu{width:190px;float:left;display:inline;margin-left:10px;}
+.games-sub-menu li{font-size:14px;color:#595959;padding-left:35px;background:url(/images/dz/game_sub_menu_icon.gif) no-repeat;height:20px;line-height:20px;margin-bottom:15px;cursor:pointer;}
+.games-sub-menu li:hover{color:#999;}
+.games-sub-menu li.current,.games-sub-menu li.current:hover{color:#fff;}
+.games-sub-menu li.tab1{background-position:0 2px;}
+.games-sub-menu li.tab1:hover{background-position:0 -567px;}
+.games-sub-menu li.tab1.current{background-position:0 -1136px;}
+.games-sub-menu li.tab2{background-position:0 -454px;}
+.games-sub-menu li.tab2:hover{background-position:0 -1023px;}
+.games-sub-menu li.tab2.current{background-position:0 -1592px;}
+.games-sub-menu li.tab3{background-position:0 -113px;}
+.games-sub-menu li.tab3:hover{background-position:0 -682px;}
+.games-sub-menu li.tab3.current{background-position:0 -1251px;}
+.games-sub-menu li.tab4{background-position:0 -343px;}
+.games-sub-menu li.tab4:hover{background-position:0 -912px;}
+.games-sub-menu li.tab4.current{background-position:0 -1481px;}
+.games-sub-menu li.tab5{background-position:0 -399px;}
+.games-sub-menu li.tab5:hover{background-position:0 -968px;}
+.games-sub-menu li.tab5.current{background-position:0 -1537px;}
+.games-sub-menu li.tab6{background-position:0 -511px;}
+.games-sub-menu li.tab6:hover{background-position:0 -1080px;}
+.games-sub-menu li.tab6.current{background-position:0 -1649px;}
+.games-sub-menu li.tab7{background-position:0 -228px;}
+.games-sub-menu li.tab7:hover{background-position:0 -797px;}
+.games-sub-menu li.tab7.current{background-position:0 -1366px;}
+.games-sub-menu li.tab8{background-position:0 -55px;}
+.games-sub-menu li.tab8:hover{background-position:0 -624px;}
+.games-sub-menu li.tab8.current{background-position:0 -1193px;}
+.games-sub-menu li.tab9{background-position:0 -285px;}
+.games-sub-menu li.tab9:hover{background-position:0 -854px;}
+.games-sub-menu li.tab9.current{background-position:0 -1423px;}
+.games-sub-menu li.tab10{background-position:0 -171px;}
+.games-sub-menu li.tab10:hover{background-position:0 -740px;}
+.games-sub-menu li.tab10.current{background-position:0 -1309px;}
+.mod-games .games-list{width:800px;float:right;display:inline;}
+.mod-games .games-item li{display:inline;float:left;width:178px;overflow:hidden;margin:0 0 35px 22px;cursor:pointer;text-align:center;position:relative;}
+.mod-games .games-item li .game-name{color:#999;margin-top:10px;}
+.mod-games .games-item li:hover .game-name{color:#fff;}
+.mod-games .games-item li .game-rollover a{background:#343434;margin-top:15px;height:28px;width:100%;line-height:28px;display:block;color:#727272;display:none;}
+.mod-games .games-item li:hover .game-rollover a{background:#e04220;color:#fff;}
+.pt-item .games-item .game-progressive{position:absolute;top:97px;left:-1px;background:url(/images/dz/progressive_bg.png) repeat;height:24px;width:180px;font:14px/24px "Microsoft YaHei";color:#fff;text-align:center;z-index:3;}
+.mod-games .mg-item .games-item li em{background-repeat:no-repeat;width:146px;height:120px;background-position:0 -8px;display:block;margin:0 auto;}
+.mod-games .mg-item .games-item li:hover em{background-position:-145px -8px;}
+.mod-games .pt-item .games-item li em{width:180px;height:120px;display:block;margin:0 auto;}
+.mod-games .bb-item .games-item li em{background-repeat:no-repeat;width:180px;height:120px;background-position:0 -170px;display:block;margin:0 auto;}
+.mod-games .bb-item .games-item li:hover em{background-position:0 -20px;}
+.mod-lottery .lotto-wrap{float:left;display:inline;width:485px;height:190px;background:#000;border:1px solid #333;margin-top:30px;overflow:hidden;}
+.mod-lottery .mod-sgwin{margin-right:25px;}
+.mod-lottery .lotto-wrap .img-area{background:url(/images/dz/keno_icon.png) no-repeat;width:155px;height:124px;float:left;margin:35px 20px 35px 30px;}
+.mod-lottery .mod-bb .img-area{background-position:0 -124px;}
+.mod-lottery .lotto-wrap .main-area{margin:0 20px 0 205px;}
+.mod-lottery .lotto-wrap h2{font:30px/1 "Microsoft YaHei";padding:20px 0;color:#fff;}
+.mod-lottery .lotto-wrap p{color:#999;height:38px;overflow:hidden;}
+.mod-lottery .lotto-wrap a{width:160px;height:38px;background:#e04220;text-align:center;display:inline-block;*display:inline;*zoom:1;margin-top:20px;font:18px/38px "Microsoft YaHei";color:#fff;}
+.mod-lottery .lotto-wrap a:hover{background:#b8160e;}
+.mod-promotions .menu-sub{background:#1e1e1e;width:230px;}
+.mod-promotions .menu-sub ul li{height:34px;line-height:34px;border-left:6px solid #e04220;margin-bottom:5px;}
+.mod-promotions .menu-sub ul li a{padding-left:10px;color:#999;display:block;font-size:14px;}
+.mod-promotions .menu-sub ul li a:hover{background:#353535;}
+.mod-promotions .menu-sub ul .current a,.mod-promotions .menu-sub ul .current a:hover{color:#fff;background:#353535;}
+.mod-promotions .area-main{width:750px;overflow:hidden;}
+.mod-promotions .area-main>li{margin-bottom:5px;background:#000;*width:750px;}
+.mod-promotions .info-tit{cursor:pointer;width:750px;}
+.mod-promotions .info-tit img{width:100%;}
+.mod-promotions .info-cont{background:#333;color:#aaa;padding:0 20px 30px;line-height:24px;font-size:14px;display:none;}
+.mod-promotions .info-cont h3{font:22px/1.5 "Microsoft YaHei";color:#fff;padding:15px 0;}
+.mod-promotions .info-cont table{margin:15px 0;width:100%;}
+.mod-promotions .info-cont table td,.mod-promotions .info-cont table th{border:1px solid #999;text-align:center;padding:5px 0;}
+.mod-promotions .info-cont table th{color:#fff;}
+.mod-promotions .info-cont ol,.mod-promotions .info-cont ul{list-style:decimal;margin-left:5px;}
+.mod-promotions .info-cont li{list-style-type:inherit;margin:0 0 5px 16px;padding-left:5px;}
+.mod-mobile .section .layout{padding:30px 0;}
+.mod-mobile .section h3{font:40px/1.5 "Microsoft YaHei";color:#fff;}
+.mod-mobile .section .f18px{font:18px/1.5 "Microsoft YaHei";color:#fff;padding:20px 0;}
+.mod-mobile .section .f14px{font:14px/1.5 "Microsoft YaHei";color:#b5ab99;}
+.mod-mobile .section1 .layout{border-bottom:1px solid #353535;padding:50px 0;}
+.mod-mobile .section1 .section-info{width:570px;}
+.mod-mobile .section1 .inner{padding-top:30px;}
+.mod-mobile .section1 .inner .fl{display:inline;}
+.mod-mobile .section1 .inner .qr-code{margin:22px 30px 0 0;}
+.mod-mobile .section1 h3{padding-top:40px;}
+.mod-mobile .section1 .link a{width:180px;height:38px;background:#e04220;text-align:center;display:block;margin-top:20px;font:18px/36px "Microsoft YaHei";color:#fff;}
+.mod-mobile .section1 .link a:hover{background:#b8160e;}
+.mod-mobile .section2{padding:60px 0;}
+.mod-mobile .section2 .section-img{margin-top:30px;}
+.mod-mobile .section2 .section-info{width:410px;}
+.mod-mobile .section2 h3{font-size:35px;}
+.mod-mobile .section2 .pt-user-prefix{font:22px/1.5 "Microsoft YaHei";color:#ffc600;}
+.mod-mobile .pt-player-name{border:1px solid #595959;height:40px;width:380px;margin-top:15px;}
+.mod-mobile .pt-player-name label{background:#595959;color:#fff;float:left;display:inline;width:100px;height:100%;padding-right:20px;line-height:19px;text-align:right;}
+.mod-mobile .pt-player-name span,.mod-mobile .pt-login-notice i,.mod-mobile .pt-login-notice a:hover{color:#ffc600;}
+.mod-mobile .pt-player-name span{float:left;display:inline;width:260px;height:100%;font:22px/40px "Microsoft YaHei";text-align:center;}
+.mod-mobile .pt-login-notice{color:#ccc;line-height:24px;margin-top:10px;}
+.mod-mobile .pt-login-notice a{color:#fcff00;text-decoration:underline;}
+.mod-mobile .pt-download{width:382px;margin-top:35px;padding-top:30px;border-top:1px solid #444;}
+.mod-mobile .pt-download a,.mod-mobile .pt-download .pt-download-qr{background:url(/images/dz/mobile_pt_spirits.png) no-repeat;}
+.mod-mobile .pt-download a{display:block;width:222px;height:52px;line-height:500px;overflow:hidden;}
+.mod-mobile .pt-download a.pt-download-pc:hover{background-position:0 -106px;}
+.mod-mobile .pt-download a.pt-download-android{background-position:0 -53px;margin-top:11px;}
+.mod-mobile .pt-download a.pt-download-android:hover{background-position:0 -159px;}
+.mod-mobile .pt-download .pt-download-qr{width:145px;padding-top:120px;font-size:14px;background-position:15px -230px;text-align:center;color:#ccc;}
+@media screen and (min-width:1139px){.mod-banner{height:320px;}
+.slide-wrap .num{top:270px;}
+.mod-home .mod-banner{height:450px;}
+.mod-home .slide-wrap .num{top:400px;}
+.notice .marquee{width:1000px;}
+.home-menu .menu-sport{width:371px;height:400px;}
+.home-menu ul{width:769px;height:400px;}
+.home-menu ul li{width:365px;height:190px;margin:0 0 20px 19px;}
+.home-menu .menu-sport .menu-info p{padding-right:20px;}
+.home-menu .menu-info p em{margin-left:10px;}
+.mod-lottery .lotto-wrap{width:544px;}
+.mod-lottery .lotto-wrap .img-area{margin:35px 25px 35px 35px;}
+.mod-lottery .mod-sgwin{margin-right:48px;}
+.l-c-platform li{width:364px;}
+.l-c-platform li.mid-platform{margin:20px 24px 0;}
+.games-hd-menu{margin-top:30px;}
+.games-hd-menu ul li.bb-menu{width:380px;}
+.mod-games .games-list{width:940px;}
+.mod-games .games-item li{margin-left:10px;}
+.mod-promotions .menu-sub{width:250px;}
+.mod-promotions .area-main,.mod-promotions .info-tit{width:870px;}
+.mod-mobile .section .layout{padding:30px 50px;width:1040px;}}

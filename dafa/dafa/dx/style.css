@@ -1,0 +1,569 @@
+@charset "utf-8";
+/* CSS Document */
+
+.top_bg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: rgba(0,0,0,.6);
+	z-index: 1;
+}
+.top_box{
+	width: 1100px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	width: 320px;
+	height: 80px;
+	background: url(../images/logo.png) center no-repeat;
+}
+.top_info_box{
+	float: right;
+	margin-right: 10px;
+	overflow: hidden;
+}
+.top_info_box div{
+	float: left;
+	margin: 0 20px;
+	overflow: hidden;
+}
+.top_info_box div span{
+	float: left;
+	height: 80px;
+	line-height: 80px;
+	font-size: 16px;
+	color: #fff;
+}
+.hall_bg{
+	min-height: 800px;
+	background: url(../images/hall_bg.jpg) top center repeat;
+	overflow: hidden;
+}
+.hall_box{
+	width: 1000px;
+	margin: 5px auto;
+}
+.banner_btn_box{
+	overflow: hidden;
+}
+.banner_box{
+	float: left;
+	width: 826px;
+	height: 310px;
+	border: 1px solid rgba(255,255,255,.5);
+	overflow: hidden;
+}
+.banner_box ul li{
+	float: left;
+	width: 826px;
+	height: 310px;
+}
+.banner_box ul li.banner1{
+	background: url(../images/banner1.jpg) center no-repeat;
+}
+.download_box{
+	float: left;
+	width: 271px;
+	height: 310px;
+	border: 1px solid rgba(255,255,255,.5);
+	background: url(../images/download_box.jpg) center no-repeat;
+	margin-left: -1px;
+	overflow: hidden;
+}
+.download_btn_box{
+	overflow: hidden;
+}
+.download_title{
+	display: block;
+	line-height: 36px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 4px;
+}
+.download_btn{
+	width: 240px;
+	height: 79px;
+	background: url(../images/download_btn.jpg) center no-repeat;
+	margin: 0 auto 10px;
+	cursor: pointer;
+}
+.download_btn:hover{
+	transform: scale(1.03);
+	-webkit-transform: scale(1.03);
+}
+.download_btn:active{
+	transform: scale(1);
+	-webkit-transform: scale(1);
+}
+.download_code{
+	float: left;
+	width: 110px;
+	background: #fff;
+	margin-left: 16px;
+	overflow: hidden;
+}
+.download_code_title{
+	height: 24px;
+	line-height: 24px;
+	text-align: center;
+	font-size: 12px;
+	color: #1d6ac0;
+}
+.download_code img{
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin: 0 auto 5px;
+}
+.announcement_box{
+	height: 40px;
+	color: #fff;
+	background: rgba(0,0,0,.6);
+}
+.game_phb_box{
+	margin: 20px auto;
+	padding: 10px 0 100px;
+	overflow: hidden;
+}
+.game_box{
+	float: left;
+	width: 726px;
+	height: 561px;
+	background: rgba(0,0,0,.6);
+	border: 1px solid #fedb70;
+	box-shadow: 0 3px 5px rgba(0,0,0,.75);
+	overflow: hidden;
+}
+.game_box ul{
+	overflow: hidden;
+}
+.game_box ul li{
+	float: left;
+	margin: 40px 15px 20px;
+	overflow: hidden;
+}
+.game_box ul li div{
+	position: relative;
+	width: 150px;
+	height: 150px;
+}
+.game_box ul li div span{
+	display: none;
+	position: absolute;
+	top: 1px;
+	left: 3px;
+	width: 145px;
+	height: 145px;
+	background: rgba(0,0,0,.5);
+	border-radius: 22px;
+	overflow: hidden;
+}
+.game_box ul li div span label{
+	display: block;
+	width: 88px;
+	height: 36px;
+	line-height: 36px;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	background: #ff8800;
+	border-radius: 5px;
+	margin: 57px auto;
+	cursor: pointer;
+}
+.game_box ul li:hover div span{
+	display: block;
+}
+.game_box ul li div span label:hover{
+	background: #ffa033;
+}
+.game_box ul li > span{
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 18px;
+	color: #f6cc68;
+}
+.game_box ul li div i{
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+.game_box ul li div i.game_bcbm{
+	background: url(../images/game_bcbm.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_bjl{
+	background: url(../images/game_bjl.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_bndr{
+	background: url(../images/game_bndr.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_brnn{
+	background: url(../images/game_brnn.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_dntg{
+	background: url(../images/game_dntg.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_ernn{
+	background: url(../images/game_ernn.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_fqzs{
+	background: url(../images/game_fqzs.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_gssm{
+	background: url(../images/game_gssm.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_hcpy{
+	background: url(../images/game_hcpy.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_hhw{
+	background: url(../images/game_hhw.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_hlddz{
+	background: url(../images/game_hlddz.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_hlwz{
+	background: url(../images/game_hlwz.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_jcby{
+	background: url(../images/game_jcby.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_lhdb{
+	background: url(../images/game_lhdb.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_lrnn{
+	background: url(../images/game_lrnn.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_qpby{
+	background: url(../images/game_qpby.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_sgj{
+	background: url(../images/game_sgj.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_shz{
+	background: url(../images/game_shz.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_srnn{
+	background: url(../images/game_srnn.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_yqs{
+	background: url(../images/game_yqs.png) center no-repeat;
+	background-size: contain;
+}
+.game_box ul li div i.game_zjh{
+	background: url(../images/game_zjh.png) center no-repeat;
+	background-size: contain;
+}
+.phb_box{
+	float: right;
+	width: 350px;
+	background: rgba(0,0,0,.6);
+	border: 1px solid #fedb70;
+	box-shadow: 0 3px 5px rgba(0,0,0,.75);
+}
+.phb_tab_box{
+	overflow: hidden;
+	border-bottom: 1px solid #fedb70;
+}
+.phb_tab_box .phb_tab_today{
+	float: left;
+	width: 174px;
+	height: 60px;
+	background: url(../images/phb_tab_today.jpg) center no-repeat;
+	border-right: 1px solid #404040;
+	cursor: pointer;
+}
+.phb_tab_box .phb_tab_totle{
+	float: left;
+	width: 174px;
+	height: 60px;
+	background: url(../images/phb_tab_totle.jpg) center no-repeat;
+	border-left: 1px solid #202022;
+	cursor: pointer;
+}
+.phb_tab_box .phb_tab_today:hover,
+.phb_tab_box .phb_tab_today.phb_tab_xz{
+	background: url(../images/phb_tab_today_xz.jpg) center no-repeat;
+}
+.phb_tab_box .phb_tab_totle:hover,
+.phb_tab_box .phb_tab_totle.phb_tab_xz{
+	background: url(../images/phb_tab_totle_xz.jpg) center no-repeat;
+}
+.phb_list_box ul li{
+	position: relative;
+	height: 48px;
+	background: rgba(255,255,255,.2);
+    background: linear-gradient(to right,rgba(255,255,255,0) 0%, rgba(255,255,255,0) 60%, rgba(255,255,255,.2) 100%);
+    background: -webkit-linear-gradient(left,rgba(255,255,255,0) 0%, rgba(255,255,255,0) 60%, rgba(255,255,255,.2) 100%);
+	border: 1px solid rgba(0,0,0,.3);
+	box-shadow: 0 0 1px #fff;
+}
+.phb_list_box ul li .phb_list_con_box{
+	margin: 1px;
+	overflow: hidden;
+}
+.phb_list_con_box .phb_list_num{
+	float: left;
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 16px;
+	color: #fff;
+	margin: 0 0 0 20px;
+}
+.phb_list_num i{
+	float: right;
+	width: 21px;
+	height: 46px;
+}
+.phb_list_first{
+	background: url(../images/phb_list_first.png) center no-repeat;
+}
+.phb_list_second{
+	background: url(../images/phb_list_second.png) center no-repeat;
+}
+.phb_list_third{
+	background: url(../images/phb_list_third.png) center no-repeat;
+}
+.phb_list_con_box .phb_list_name{
+	float: left;
+	width: 90px;
+	height: 46px;
+	line-height: 46px;
+	font-size: 16px;
+	color: #fff;
+	white-space: nowrap;
+    text-overflow: ellipsis;
+	overflow: hidden;
+	margin: 0 0 0 30px;
+}
+.phb_list_con_box .phb_list_money{
+	float: left;
+	height: 46px;
+	line-height: 46px;
+	font-size: 16px;
+	color: #fff;
+	white-space: nowrap;
+    text-overflow: ellipsis;
+	overflow: hidden;
+	margin: 0 0 0 30px;
+}
+.phb_list_con_box .phb_list_money label{
+	color: #ffd905;
+}
+.phb_list_box ul li .phb_popup_box{
+	display: none;
+	position: absolute;
+	top: 40px;
+	left: -2px;
+	width: 352px;
+	overflow: hidden;
+	z-index: 5;
+}
+.phb_list_box ul li:hover{
+    background: linear-gradient(to right,rgba(255,255,255,0) 0%, rgba(255,255,255,.2) 60%, rgba(255,255,255,.2) 100%);
+    background: -webkit-linear-gradient(left,rgba(255,255,255,0) 0%, rgba(255,255,255,.2) 60%, rgba(255,255,255,.2) 100%);
+	transition: all .5s;
+}
+.phb_list_box ul li:hover .phb_popup_box{
+	display: block;
+}
+.phb_popup_top_icon{
+	display: block;
+	width: 26px;
+	height: 9px;
+	background: url(../images/phb_popup_top_icon.png) center no-repeat;
+	margin: 0 auto;
+}
+.phb_popup_title{
+	background: url(../images/phb_popup_title.jpg) center no-repeat;
+	overflow: hidden;
+}
+.phb_popup_title span{
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	font-size: 16px;
+	color: #fff;
+	text-shadow: 0 2px 2px rgba(0,0,0,.57);
+	margin-left: 10px;
+}
+.phb_popup_title label{
+	float: right;
+	height: 26px;
+	line-height: 26px;
+	font-size: 12px;
+	color: #fff;
+	text-shadow: 0 2px 2px rgba(0,0,0,.57);
+	margin: 4px 5px 0 0;
+}
+.phb_popup_table{
+	display: block;
+	width: 350px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+	background: rgba(0,0,0,.9);
+	border: 1px solid #fedb70;
+}
+.phb_popup_table tr:first-child{
+	border-bottom: 1px solid #fedb70;
+}
+.phb_popup_table tr td{
+	width: 88px;
+}
+.phb_popup_table i{
+	display: block;
+	width: 30px;
+	height: 30px;
+	margin: 0 auto;
+}
+.gameroom_box{
+	position: relative;
+}
+.gameroom_list_box{
+	width: 912px;
+	margin: 0 auto;
+}
+.gameroom_list_box ul{
+	overflow: hidden;
+}
+.gameroom_list_box ul li{
+	float: left;
+	width: 254px;
+	height: 365px;
+	background: url(../images/gameroom_bg.png) center no-repeat;
+	border-radius: 2px;
+	box-shadow: 0 0 5px rgba(0,0,0,.6);
+	margin: 20px 25px;
+	cursor: pointer;
+}
+.gameroom_list_box ul li:hover{
+	transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+}
+.gameroom_list_box ul li:active{
+	transform: scale(1);
+	-webkit-transform: scale(1);
+}
+.gameroom_list_box ul li > div{
+	overflow: hidden;
+}
+.gameroom_list_box ul li h5{
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-size: 30px;
+	color: #fff5d4;
+}
+.gameroom_list_box ul li p{
+	width: 230px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 18px;
+	color: #fff;
+	background: rgba(0,0,0,.3);
+	border-radius: 2px;
+	margin: 10px auto;
+}
+.gameroom_list_box ul li p span{
+	float: left;
+	width: 72px;
+	margin-left: 30px;
+}
+.gameroom_list_box ul li p span.gameroom_df{
+	letter-spacing: 36px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.gameroom_list_box ul li i{
+	display: block;
+	width: 254px;
+	height: 365px;
+	margin: -50px 0 -90px;
+}
+.gameroom_list_box ul li i.gameroom_bcbm{
+	background: url(./images/gameroom_bcbm.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_bjl{
+	background: url(./images/gameroom_bjl.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_bndr{
+	background: url(./images/gameroom_bndr.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_brnn{
+	background: url(./images/gameroom_brnn.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_dntg{
+	background: url(./images/gameroom_dntg.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_ernn{
+	background: url(./images/gameroom_ernn.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_fqzs{
+	background: url(./images/gameroom_fqzs.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_gssm{
+	background: url(./images/gameroom_gssm.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_hcpy{
+	background: url(./images/gameroom_hcpy.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_hhw{
+	background: url(./images/gameroom_hhw.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_hlddz{
+	background: url(./images/gameroom_hlddz.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_hlwz{
+	background: url(./images/gameroom_hlwz.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_jcby{
+	background: url(./images/gameroom_jcby.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_lrnn{
+	background: url(./images/gameroom_lrnn.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_qpby{
+	background: url(./images/gameroom_qpby.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_sgj{
+	background: url(./images/gameroom_sgj.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_shz{
+	background: url(./images/gameroom_shz.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_srnn{
+	background: url(./images/gameroom_srnn.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_yqs{
+	background: url(./images/gameroom_yqs.png) center no-repeat;
+}
+.gameroom_list_box ul li i.gameroom_zjh{
+	background: url(./images/gameroom_zjh.png) center no-repeat;
+}

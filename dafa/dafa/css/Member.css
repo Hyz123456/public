@@ -1,0 +1,131 @@
+/* reset */
+*{ margin:0; padding:0; }
+em { font-style:normal; }
+li { list-style:none; }
+a { text-decoration:none; }
+img { border:none; vertical-align:top; }
+textarea { resize:none; overflow:auto; }
+em{ font-style:normal; }
+/* !£nd reset*/
+
+html{ height:100%; background:#1A1309; }
+body{ font-size:0.14rem; height:100%;  font-family: "Arial","Microsoft YaHei","ºÚÌå","ËÎÌå",sans-serif;}
+.mainBox{ width:100%; height:100%; background:#1A1309; }
+#headerBox{ width:100%; height:0.35rem; line-height:0.35rem;  background: #130d35; box-sizing:border-box; overflow:hidden;  position:relative;  }
+/*#headerBox a{ padding:0.12rem; border-radius:0.12rem; background:rgba(0,0,0,0.3) url(../img/index_ico.png) center center no-repeat; background-size:70%; position:absolute; left:0.1rem; top:calc(0.18rem - 0.12rem); }*/
+#headerBox .logo{ display:block; position:absolute; left:calc(1.5rem - 0.54rem); top:calc(0.18rem - 0.16rem); height:0.3rem; }
+
+#picList{ width:3rem; height:auto;border-bottom:2px solid #000000; box-sizing:border-box; overflow:auto;}
+
+#contant{ width:100%; overflow:hidden; }
+
+#contant .memberList{ width:100%; overflow:hidden; }
+.memberList>a{ display:block; width:100%; height:0.6rem; text-indent:0.5rem; line-height:0.6rem; color:#fff; font-size:0.13rem; border-bottom:1px solid #000; position:relative; }
+.memberList>a:nth-of-type(1){ background:url(../img/history.png) no-repeat 0.15rem center; background-size:0.2rem; }
+.memberList>a:nth-of-type(2){ background:url(../img/deal.png) no-repeat 0.15rem center; background-size:0.2rem; }
+.memberList>a:nth-of-type(3){ background:url(../img/transform.png) no-repeat 0.15rem center; background-size:0.2rem; }
+.memberList>a span{ display:block; position:absolute; width:0.15rem; height:0.15rem; right:0.2rem; top:calc(0.3rem - 0.075rem); border-radius:0.075rem; background:rgba(178,178,178,0.3) url(../img/right.png) center no-repeat; background-size:contain; }
+.memberList>p{ width:100%; height:0; transition:.5s; overflow:hidden; background:rgba(22, 60, 161, 0.08); }
+.memberList>p>a{ display:block; width:100%; height:0.4rem; text-indent:0.5rem; line-height:0.4rem; color:rgba(255,255,255,0.6); font-size:0.12rem; border-bottom:1px solid #000; }
+.user{ width:100%; height:0.6rem; line-height:0.6rem;  font-weight:bolder; font-size: 0.16rem; border-bottom:3px solid #000; }
+
+/*.user span:nth-of-type(1){ float:left; margin-left:0.45rem; color:#fff; font-weight:normal; font-size:0.14rem; }
+.user span:nth-of-type(2){ float:right; margin-right:0.2rem; color:rgb(255, 0, 0);}*/
+.active{ background:none; text-align:center; border:none; height:0.15rem; line-height:0.2rem; }
+.active span{ float:none !important; margin:0 !important; color:#F6D372 !important; }
+.user:nth-of-type(2){ background:url(../img/moneys.png) no-repeat 0.15rem center !important; background-size:0.2rem; }
+
+.footer {background:white;border-top:1px solid #F90;position:fixed;left:0;bottom:0;height:0.38rem;overflow:visible;width:100%;}
+.footer>a {float:left;width:20%;color:#929292;height:100%;}
+.footer>a>span {display:block;height:0.22rem;width:0.24rem;margin:0.02rem auto 0;background:url(../img/footerx2.png) no-repeat;background-size:cover;}
+.footer>a:nth-child(1)>span {background-position:-0.22rem center;}
+.footer>a:nth-child(2)>span {background-position:-0.45rem center;}
+.footer>a:nth-child(3)>span {background-position:-0.67rem center;}
+.footer>a:nth-child(4)>span {background-position:-0.9rem center;}
+.footer>a:nth-child(5)>span {background-position:0 center;}
+.footer>a>p {text-align:center;font-size:0.09rem;}
+.footer .float {width:20%;height:2px;background:#fe4902;position:absolute;left:0;top:-2px;transition:.4s all linear;}
+
+/* flexslider */
+.flexslider{position:relative;height:1.2rem;overflow:hidden;}
+.slides{position:relative;z-index:1;}
+.slides li{height:1rem;background-size:cover;}
+.slides li img{width:100%;}
+
+
+
+/*new*/
+/*头部 开始*/
+.mainBox{
+    background: url("/pic/bg.jpg?v=u91dedfdb");
+    background-size: cover;
+}
+#headerBox{
+    border-bottom: 1px solid rgba(255,255,255,.6);
+    background: rgba(255,255,255,.2);
+    text-align: center;    
+}
+#headerBox a.shouye{ padding:0.12rem; border-radius:0.12rem;background: url(../img/index_ico.png) left no-repeat; background-size:70%; position:absolute; left:0.1rem; top:calc(0.18rem - 0.12rem); }
+#headerBox a.account{ position:absolute; right:0.1rem;color: #000;font-weight: normal;}
+#picList{
+        display: none;
+}
+/*头部 结束*/
+
+
+nav.active {
+    height: initial;
+    padding: 5px;
+    padding-top: 16px;
+}
+.active ul li{
+    margin-left: 30%;
+    text-align: left;
+}
+.active ul li#one{
+    margin-bottom: 8px;
+}
+.active ul li#one span{
+    font-size: 0.9em;
+    color: #000 !important;
+}
+
+.active span{
+    font-size: 0.7em;
+    color: #64717a !important;
+    font-weight: normal;
+}
+.active span span.money{
+    color: red !important;
+}
+.active span span#rmb{
+    font-size: 0.5em; 
+}
+.active span img{
+        width: 8%;  
+}
+
+.memberList table{  
+    margin-top: 2em;
+}    
+.memberList table{
+    width: 100%;
+    text-align: center;    
+    border-collapse: collapse;
+    background: rgba(255,255,255,.5);
+}
+.memberList table td{
+    border: 1px solid rgba(255,255,255,.7);
+}
+.memberList table td a{
+    display: block;
+    padding: 1em;
+}
+.memberList table td a img{
+        width: 74%;
+}
+.memberList table td a p{
+        font-size: 0.8em;
+        font-weight: lighter; 
+        color: #000;
+}

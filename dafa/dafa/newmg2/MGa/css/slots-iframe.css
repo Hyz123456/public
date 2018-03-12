@@ -1,0 +1,981 @@
+body {background-color: #000000;font-size: 14px;line-height: 24px;color: #ffffff;}
+html *{font-family: "Century Gothic", Arial, Helvetica, sans-serif, "Microsoft YaHei", "微软雅黑";}
+ul, ol{margin: 0;padding: 0;list-style-position: inside;}
+p{margin-bottom: 20px;}
+a{color: #e68200;}
+a:hover, a.active, a:focus{color: #ffffff;text-decoration: none;outline: none;}
+a, img { outline:0; border:0;}
+img{max-width: 100%;height: auto;vertical-align: middle;border: 0 none;}
+sub {vertical-align: sub;font-size: smaller;} 
+sup {vertical-align: super;font-size: smaller;}
+input, textarea{font: normal 18px/30px "Century Gothic", Arial, Helvetica, sans-serif, "Microsoft YaHei", "微软雅黑";vertical-align: middle;
+background: #ffffff;border: 1px solid #999999;}
+textarea {resize: none;overflow: auto;}
+select, input, textarea, button{outline: 0 !important;}
+input[placeholder] {color: #fff !important;}
+::-webkit-input-placeholder {color: #fff;}
+:-moz-placeholder { /* Firefox 18- */color: #fff;}
+::-moz-placeholder {  /* Firefox 19+ */color: #fff;}
+:-ms-input-placeholder {color: #fff;}
+.clearfix {height: 0px;line-height: 0px;clear: both;*zoom:1;}
+.clearfix:before, .clearfix:after {content:""; display:table;}
+.clearfix:after { clear:both;}
+.no-padding{padding: 0 !important;}
+
+/************************************ Slot Iframe ***********************************/
+#slots-iframe{background: #131314;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;width: 100%;padding-bottom: 10px;}
+.slots-main-content{background: #1a1b1d;border-bottom: 40px solid #171719;width: 100%;overflow: hidden;}
+.slots-game-tab{margin: 0 0 10px 0;overflow: hidden;}
+.f-nav{z-index: 9999;position: fixed;left: 0;top: 0;}
+.slots-game-tab > div{
+    float: left;
+    text-align: center;
+    display: block;
+    background: #000000;
+    color: #fff;
+    font-size: 12px;
+    line-height: 30px;
+    border-bottom: 2px solid #ffff00;
+}
+.slots-game-tab > div.active, .slots-game-tab > div:hover{
+    background: #0e0f11 url(../pic/bg-slot-tab-on.jpg) repeat-x 0 0;
+}
+.slots-game-tab >div.disabled:hover{
+    background: #000000;
+}
+.logo-ge{
+    background: url("../pic/logo-ge-on.png") no-repeat 50% 50%;
+}
+.logo-ge.disabled{
+    background: url("../pic/logo-ge-dis.png") no-repeat 50% 50%;
+}
+.logo-pt{
+    background: url("../pic/logo-pt-on.png") no-repeat 50% 50%;
+}
+.logo-pt.disabled{
+    background: url("../pic/logo-pt-dis.png") no-repeat 50% 50%;
+}
+.logo-mg{
+    background: url("../pic/logo-mg-on.png") no-repeat 50% 50%;
+}
+.logo-mg.disabled{
+    background: url("../pic/logo-mg-dis.png") no-repeat 50% 50%;
+}
+.logo-spade{
+    background: url("../pic/logo-spade-on.png") no-repeat 50% 50%;
+}
+.logo-spade.disabled{
+    background: url("../pic/logo-spade-dis.png") no-repeat 50% 50%;
+}
+.logo-ag{
+    background: url("../pic/logo-ag-on.png") no-repeat 50% 50%;
+}
+.logo-ag.disabled{
+    background: url("../pic/logo-ag-dis.png") no-repeat 50% 50%;
+}
+.logo-bbin{
+    background: url("../pic/logo-bbin-on.png") no-repeat 50% 50%;
+}
+.logo-bbin.disabled{
+    background: url("../pic/logo-bbin-dis.png") no-repeat 50% 50%;
+}
+@media (min-width:320px) and (max-width:800px){
+    .logo-ge{
+        background: url("../pic/logo-ge-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-ge.disabled{
+        background: url("../pic/logo-ge-dis-xs.png") no-repeat 50% 50%;
+    }
+    .logo-pt{
+        background: url("../pic/logo-pt-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-pt.disabled{
+        background: url("../pic/logo-pt-dis-xs.png") no-repeat 50% 50%;
+    }
+    .logo-mg{
+        background: url("../pic/logo-mg-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-mg.disabled{
+        background: url("../pic/logo-mg-dis-xs.png") no-repeat 50% 50%;
+    }
+    .logo-spade{
+        background: url("../pic/logo-spade-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-spade.disabled{
+        background: url("../pic/logo-spade-dis-xs.png") no-repeat 50% 50%;
+    }
+    .logo-ag{
+        background: url("../pic/logo-ag-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-ag.disabled{
+        background: url("../pic/logo-ag-dis-xs.png") no-repeat 50% 50%;
+    }
+    .logo-bbin{
+        background: url("../pic/logo-bbin-on-xs.png") no-repeat 50% 50%;
+    }
+    .logo-bbin.disabled{
+        background: url("../pic/logo-bbin-dis-xs.png") no-repeat 50% 50%;
+    }
+    .slots-game-tab{
+        height: 70px;
+        padding: 5px 0;
+    }
+    .slots-game-tab > div, .slots-game-tab > div.active{
+        max-width: 100%;
+        height: 60px;
+        overflow: hidden;
+        background-size: contain;
+        display: block;
+        text-align: center;
+        padding: 0;
+    }
+    .logo-ge, .logo-pt, .logo-mg, .logo-spade, .logo-ag, .logo-bbin, .logo-ge.disabled, .logo-pt.disabled, .logo-mg.disabled, .logo-spade.disabled, .logo-ag.disabled, .logo-bbin.disabled{
+        width: 50px !important;
+        height: 50px !important;
+    }
+}
+@media (min-width:320px) and (max-width:359px){
+    .slots-game-tab{
+        height: 60px;
+        padding: 5px 0;
+    }
+    .slots-game-tab > div, .slots-game-tab > div.active{
+        max-width: 100%;
+        height: 50px;
+        overflow: hidden;
+        background-size: contain;
+        display: block;
+        text-align: center;
+        padding: 0;
+    }
+    .logo-ge, .logo-pt, .logo-mg, .logo-spade, .logo-ag, .logo-bbin, .logo-ge.disabled, .logo-pt.disabled, .logo-mg.disabled, .logo-spade.disabled, .logo-ag.disabled, .logo-bbin.disabled{
+        width: 40px !important;
+        height: 40px !important;
+    }
+}
+.logo-ge, .logo-pt, .logo-mg, .logo-spade, .logo-ag, .logo-bbin, .logo-ge.disabled, .logo-pt.disabled, .logo-mg.disabled, .logo-spade.disabled, .logo-ag.disabled, .logo-bbin.disabled{
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-size: contain;
+    display: inline-block;
+}
+.logo-ge:hover, .logo-pt:hover, .logo-mg:hover, .logo-spade:hover, .logo-ag:hover, .logo-bbin:hover{
+    filter:brightness(1.8);
+    -webkit-filter:brightness(1.8);
+    -moz-filter:brightness(1.8);
+    -ms-filter:brightness(1.8);
+    -o-filter:brightness(1.8);
+}
+.slots-game-tab a.disabled:hover{
+    cursor: default;
+    filter:brightness(1);
+    -webkit-filter:brightness(1);
+    -moz-filter:brightness(1);
+    -ms-filter:brightness(1);
+    -o-filter:brightness(1);
+}
+@media (min-width: 980px) and (max-width: 1280px){
+    .logo-ge, .logo-pt, .logo-mg, .logo-spade, .logo-ag, .logo-bbin, .logo-ge.disabled, .logo-pt.disabled, .logo-mg.disabled, .logo-spade.disabled, .logo-ag.disabled, .logo-bbin.disabled{
+        height: 90px;
+    }
+}
+.slots-game-sb{
+    background: #000000 url("../pic/bg-sb-slot-heading.jpg") no-repeat 0 0;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-size: contain;    
+    border-radius: 5px;
+}
+.slots-game-cnt{
+    background: url("../pic/bg-sb-slot-bottom.jpg") no-repeat 0 100%;
+    max-width: 100%;
+    height: auto;
+    background-size: contain;
+    overflow: hidden;
+    padding: 0 0 200px 0;
+    border-radius: 5px;
+}
+@media(min-width:1450px){
+    .slots-game-cnt{
+        padding-bottom: 240px;
+    }
+}
+.slots-game-sb ul{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.slots-game-sb ul li{
+    width: 100%;
+    display: block;
+    margin: 0 0 5px 0;
+    text-align: center;
+    background: url("../pic/bg-sb-slot-item.jpg") repeat-x 0 0;
+    list-style: none;
+    height: 48px;
+    border: 1px solid #161718;
+    border-radius: 5px;
+}
+.slots-game-sb ul li a{
+    color: #ffffff;
+    display: block;
+    line-height: 20px;
+    font-size: 15px;
+    height: 48px;
+    padding-top: 3px;
+}
+.slots-game-sb ul li a:hover, .slots-game-sb ul li a.active{
+    color: #000000;
+    background: url("../pic/bg-sb-slot-item-on.jpg") repeat-x 0 0;
+    border-radius: 5px;
+    border: 1px solid transparent;
+}
+.slots-game-sb-icon{
+    background: #000000 url("../pic/bg-sb-slot-heading.jpg") no-repeat 0 0;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-size: contain;    
+    border-radius: 5px;
+}
+.slots-game-sb-icon h1{
+    margin-top: 0px;
+}
+.slots-game-sb-icon .slots-game-cnt{
+    padding-bottom: 100px;
+}
+.slots-game-sb-icon ul li{
+    list-style: none;
+    margin-bottom: 30px;
+    text-align: center;
+}
+@media(max-width: 360px){
+    .slots-game-sb-icon .slots-game-cnt{
+        padding-bottom: 50px;
+    }    
+    .slots-game-sb-icon ul li{
+        margin-bottom: 15px;
+    }
+}
+@media(min-width: 800px) and (max-width: 980px){
+    .slots-game-sb-icon .slots-game-cnt{
+        padding-bottom: 120px;
+    }    
+}
+.frm-gw.slots-search{
+    margin: 0 0 20px 0 !important;
+    overflow: hidden;
+}
+.slots-search .btn-search{
+    background: url("../pic/btn-slot-search.png") no-repeat 0 0;
+    width: auto;
+    height: auto;
+    display: block;
+    /*    float: left;*/
+    line-height: 40px;
+    color: #000;
+    font-size: 16px;
+    text-indent: 45px;
+    padding: 0 40px 0 0;
+    margin-left: 10px;
+    margin-right: 7px;
+}
+.frm-gw.slots-search input.form-control{
+    background: #ffffff;
+    height: 40px;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    color: #848484;
+    line-height: 40px;
+    padding: 0 10px;
+    margin-left: 8px;
+}
+.frm-gw.slots-search input[placeholder]{
+    color: #848484 !important;
+}
+.lst-slots-game{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.lst-slots-game > div{
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 15px !important;    
+}
+.slots-game-item{
+    position: relative;
+    background: #e0e0e0;
+    padding: 15px 15px 5px 15px;
+    color: #000000;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+.slots-game-item p{
+    text-align: center;
+    margin: 5px 0;
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+						.pai {width:100%;margin:auto;text-align:center;}
+						.pai ul li{    display: inline-block;  list-style:none;padding-left:8px;}
+						.curren:hover{background: #ffff00;z-index:900;}
+						.pai ul{text-align:center;}
+					.curren{list-style: none;    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 11px;
+    padding-left: 11px;line-height:31px;background: #f8f8f8;color: #333333;}
+	
+	.current{background: #ffff00;  padding-top: 10px;line-height:31px;
+    padding-bottom: 10px;
+    padding-right: 11px;
+    padding-left: 11px;
+color: #000000;}
+.slots-game-item .btn-play{
+    background: #ffff00;
+    height: 40px;
+    display: block;
+    float: left;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    line-height: 40px;
+    font-size: 18px;
+    padding: 0 20px;
+    cursor: pointer;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    opacity: 0;
+}
+	
+.slots-game-item:hover{
+    cursor: pointer;
+}
+.slots-game-item:hover .btn-play{
+    -webkit-transition: opacity 0.4s ease-in;
+    -moz-transition: opacity 0.4s ease-in;
+    -o-transition: opacity 0.4s ease-in;
+    opacity: 1;
+}
+.slots-game-item a{
+	
+	overflow: hidden;
+    margin: 0 auto;
+    width: 172px;
+    height: 129px;
+
+    display: block;
+  
+}
+.slots-game-item a img:hover{
+    filter:brightness(1.8);
+    -webkit-filter:brightness(1.8);
+    -moz-filter:brightness(1.8);
+    -ms-filter:brightness(1.8);
+    -o-filter:brightness(1.8);
+}
+.slots-game-item .watermark{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #edb000;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -60px;
+    padding: 0;
+    width: 120px;
+    display: block;
+    background: rgba(0,0,0,0.55);
+    border-radius: 5px;
+}
+
+@media(max-width:360px){
+    .slots-game-item{
+        padding: 5px;
+        height: 125px;
+    }
+    .slots-game-item .btn-play{
+        left: 15%;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .slots-search .btn-search{
+        text-indent: -3000px;
+        width: 45px;
+        margin-left: 1px;
+        margin-right: 0px;
+    }
+    .slots-game-item p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .slots-game-item a{
+        display: block;
+        height: 65px;
+    }
+    .slots-game-item p{
+        text-overflow: clip;
+        overflow: hidden;
+        white-space: normal;
+        line-height: 16px;
+    }
+    .slots-game-item .watermark{
+        top: 25px;
+        left: 0;
+        font-size: 12px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0 5px;
+        padding: 0;
+        width: 82px;
+        display: block;
+    }
+}
+@media(min-width:320px) and (max-width:359px){
+    .slots-game-item .watermark{
+        top: 20px;
+        font-size: 10px;
+        height: 24px;
+        line-height: 24px;
+        margin: 0 5px;
+        padding: 0;
+        width: 66px;
+        display: block;
+    }
+}
+@media(min-width:361px) and (max-width:639px){
+    .slots-game-item .watermark{
+        top: 40px;
+        left: 50%;
+        font-size: 14px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: -50px;
+        padding: 0;
+        width: 100px;
+        display: block;
+    }
+}
+
+@media(min-width:320px) and (max-width:480px){
+    .slots-game-sb-icon ul li img{
+        width: 80%;
+    }
+}
+@media(min-width: 361px) and (max-width:640px){
+    .slots-search .btn-search{
+        text-indent: -3000px;
+        width: 50px;
+    }
+}
+@media(min-width: 641px) and (max-width:768px){
+    .slots-search .btn-search{
+        text-indent: 40px;
+    }
+}
+
+/**********Slots Pagination*************/
+.slots-pagination{
+    margin: 20px auto;
+    padding: 0;
+}
+.slots-pagination li{
+    display: inline-block;
+    margin: 5px;
+    list-style: none;
+    background: #f8f8f8;
+    height: 30px;
+    line-height: 30px;
+    color: #333333;
+}
+.slots-pagination li a,.slots-pagination li span{
+    color: #333333;
+    display: inline-block;
+    padding: 0 10px;
+}
+.slots-pagination li a:hover, .slots-pagination li.active a,.slots-pagination li a:hover, .slots-pagination li.active span{
+    background: #ffff00;
+    color: #000000;
+}
+@media(max-width: 360px){
+    .slots-pagination li, .slots-pagination li a{
+        font-size: 12px;
+        height: 24px;
+        line-height: 24px;
+    }
+}
+
+/*Fish Game for AG Slots*/
+.block-game-ag{
+    width: 100%;
+    overflow: hidden;
+}
+.block-game-ag .ag-item{
+    margin: 10px 0 20px 0;
+}
+.block-game-ag h2{
+    font-size: 24px;
+    color: #f7c518;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.block-game-ag h4{
+    font-size: 18px;
+    color: #f7c518;
+    margin-bottom: 20px;
+}
+@media (max-width: 640px){
+    .block-game-ag h2{
+        font-size: 18px;
+    }
+    .block-game-ag h4{
+        font-size: 16px;
+    }
+}
+.banner-ag-slots{
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    max-width: 640px;
+}
+.banner-ag-slots .banner-btn-play{
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    line-height: 34px;
+    padding: 5px 0;
+    margin-left: -85px;
+    margin-top: -17px;
+    background: url("../pic/bg-btn-play.jpg") repeat-x 50% 0;
+    border-radius: 5px;
+    color: #111111;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 170px;
+}
+.banner-btn-play:hover{
+    color: #000000;
+}
+.banner-ag-slots:hover .banner-btn-play{
+    display: block;
+}
+@media (max-width: 480px){
+    .banner-ag-slots .banner-btn-play{
+        line-height: 24px;
+        padding: 3px 0;
+        font-size: 14px;
+        width: 110px;
+        margin-left: -55px;
+        margin-top: -15px;
+    }
+}
+
+.banner-ag-slots:hover > img{
+    filter:brightness(120%);
+    -webkit-filter:brightness(120%);
+    -moz-filter:brightness(120%);
+    -ms-filter:brightness(120%);
+    -o-filter:brightness(120%);
+}
+.block-game-ag .intro-text, .block-game-ag .ag-img{
+    margin-top: 30px;
+}
+.block-game-ag .ag-img > div{
+    margin-bottom: 20px;
+}
+.block-game-ag .txt-note{
+    color: #757575;
+    line-height: 18px;
+    font-size: 12px;
+}
+.m-slots-fish{
+    position: relative;
+}
+.m-slots-fish .icon-new{
+    position: absolute;
+    top: 10px;
+    left: 60%;
+    width: 21px !important;
+    height: 13px !important;
+}
+@media (min-width: 981px){
+    .m-slots-fish .icon-new{
+        top: 5px;
+        left: 65%;
+    }
+}
+
+
+.modal {display: none;position: fixed;z-index: 1000;top: 0;left: 0; background: rgba(34, 33, 33, 0.50) url('loading.gif') 50% 50% no-repeat;}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+#slot-content.loading {   }
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+#slot-content.loading .modal {display: block;}
+
+
+#imgs{width:145px;height:136px;margin:auto;}
+#imgs:hover{background-position: -145px 0px;}
+.img1{background:url(../pic/BTN_LuckyFirecracker.png); background-position: 0px 0px;}
+.img2{ background:url(../pic/BTN_WhataHoot3.png); background-position: 0px 0px;}
+.img3{ background:url(../pic/BTN_StarlightKiss1.png); background-position:0px 0px;}
+.img4{ background:url(../pic/BTN_AgeofDiscovery3.png); background-position: 0px 0px;}
+.img5{ background:url(../pic/BTN_KaratePig1.png); background-position: 0px 0px;}
+.img6{ background:url(../pic/BTN_GoldFactory1.png); background-position: 0px 0px;}
+.img7{ background:url(../pic/BTN_Carnaval2.png); background-position: 0px 0px;}
+.img8{ background:url(../pic/BTN_BustTheBank1.png); background-position: 0px 0px;}
+.img9{ background:url(../pic/BTN_BreakAway1.png); background-position: 0px 0px;}
+.img10{ background:url(../pic/BTN_Avalon_HD.png); background-position: 0px 0px;}
+.img11{ background:url(../pic/BTN_LuckyZodiac.png); background-position: 0px 0px;}
+.img12{ background:url(../pic/BTN_PeekaBoo5Reel.png); background-position: 0px 0px;}
+.img13{ background:url(../pic/BTN_LuckyTwins.png); background-position: 0px 0px;}
+.img14{ background:url(../pic/BTN_Chainmail.png); background-position: 0px 0px;}
+.img15{ background:url(../pic/BTN_HotasHades.png); background-position: 0px 0px;}
+.img16{ background:url(../pic/BTN_Pistoleras.png); background-position: 0px 0px;}
+.img17{ background:url(../pic/BTN_LuckyLeprechaun.png); background-position: 0px 0px;}
+.img18{ background:url(../pic/BTN_KittyCabana.png); background-position: 0px 0px;}
+.img19{ background:url(../pic/BTN_HoundHotel.png); background-position: 0px 0px;}
+.img20{ background:url(../pic/BTN_Ariana.png); background-position: 0px 0px;}
+.img21{ background:url(../pic/BTN_LuckyFirecracker.png); background-position: 0px 0px;}
+.img22{ background:url(../pic/BTN_VegasDreams.png); background-position: 0px 0px;}
+/**全部**/
+.img23{ background:url(../pic/BTN_WhataHoot3.png); background-position: 0px 0px;}
+.img24{ background:url(../pic/BTN_WesternFrontier.png); background-position: 0px 0px;}
+.img25{ background:url(../pic/BTN_UntamedCrownedEagle.png); background-position: 0px 0px;}
+.img26{ background:url(../pic/BTN_UntamedBengalTiger1.png); background-position: 0px 0px;}
+.img27{ background:url(../pic/BTN_TombRaider2.png); background-position: 0px 0px;}
+.img28{ background:url(../pic/BTN_TigerMoon.png); background-position: 0px 0px;}
+.img29{ background:url(../pic/BTN_ThroneOfEgypt1.png); background-position: 0px 0px;}
+.img30{ background:url(../pic/BTN_SterlingSilver3D1.png); background-position: 0px 0px;}
+.img31{ background:url(../pic/BTN_StarlightKiss1.png); background-position: 0px 0px;}
+.img32{ background:url(../pic/BTN_SkullDuggery1.png); background-position: 0px 0px;}
+.img33{ background:url(../pic/BTN_SicBo1.png); background-position: 0px 0px;}
+.img34{ background:url(../pic/BTN_SecretSanta.png); background-position: 0px 0px;}
+.img35{ background:url(../pic/BTN_SecretAdmirer1.png); background-position: 0px 0px;}
+.img36{ background:url(../pic/BTN_Scratch1.png); background-position: 0px 0px;}
+.img37{ background:url(../pic/BTN_WitchesWealth1.png); background-position: 0px 0px;}
+.img38{ background:url(../pic/BTN_WheelofRiches2.png); background-position: 0px 0px;}
+.img39{ background:url(../pic/BTN_WhackaJackpot1.png); background-position: 0px 0px;}
+.img40{ background:url(../pic/BTN_GoldSeries_TriplePocket.png); background-position: 0px 0px;}
+.img41{ background:url(../pic/BTN_TotemTreasure1.png); background-position: 0px 0px;}
+.img42{ background:url(../pic/BTN_TombRaiderSotS1.png); background-position: 0px 0px;}
+.img43{ background:url(../pic/BTN_SuperBonusBingo1.png); background-position: 0px 0px;}
+.img44{ background:url(../pic/BTN_SpaceEvader1.png); background-position: 0px 0px;}
+.img45{ background:url(../pic/BTN_SixShooterLooter1.png); background-position: 0px 0px;}
+.img46{ background:url(../pic/BTN_Scrooge1.png); background-position: 0px 0px;}
+.img47{ background:url(../pic/BTN_RapidReels5.png); background-position: 0px 0px;}
+.img48{ background:url(../pic/BTN_PrimeProperty1.png); background-position: 0px 0px;}
+.img49{ background:url(../pic/BTN_PlundertheSea1.png); background-position: 0px 0px;}
+.img50{ background:url(../pic/BTN_MHBlackjack1.png); background-position: 0px 0px;}
+.img51{ background:url(../pic/BTN_OffsideandSeek1.png); background-position: 0px 0px;}
+.img52{ background:url(../pic/BTN_Munchkins2.png); background-position: 0px 0px;}
+.img53{ background:url(../pic/BTN_MumbaiMagic1.png); background-position: 0px 0px;}
+.img54{ background:url(../pic/BTN_GoldSeries_MHHoldEmHighPoker1.png); background-position: 0px 0px;}
+.img55{ background:url(../pic/BTN_LuckyNumbers1.png); background-position: 0px 0px;}
+.img56{ background:url(../pic/BTN_Legacy2.png); background-position: 0px 0px;}
+.img57{ background:url(../pic/BTN_Kathmandu1.png); background-position: 0px 0px;}
+.img58{ background:url(../pic/BTN_Joker80001.png); background-position: 0px 0px;}
+.img59{ background:url(../pic/BTN_Hitman1.png); background-position: 0px 0px;}
+.img60{ background:url(../pic/BTN_HappyNewYear3.png); background-position: 0px 0px;}
+.img61{ background:url(../pic/BTN_HandToHandCombat1.png); background-position: 0px 0px;}
+.img62{ background:url(../pic/BTN_GoldCoast3.png); background-position: 0px 0px;}
+.img63{ background:url(../pic/BTN_BunnyBoiler1.png); background-position: 0px 0px;}
+.img64{ background:url(../pic/BTN_BonusPokerDeluxe1.png); background-position: 0px 0px;}
+.img65{ background:url(../pic/BTN_BonusPoker1.png); background-position: 0px 0px;}
+.img66{ background:url(../pic/BTN_AroundTheWorld.png); background-position: 0px 0px;}
+.img67{ background:url(../pic/BTN_AllAces1.png); background-position: 0px 0px;}
+.img68{ background:url(../pic/BTN_RRKing1.png); background-position: 0px 0px;}
+.img69{ background:url(../pic/BTN_Robojack_SquareButton.png); background-position: 0px 0px;}
+.img70{ background:url(../pic/BTN_RedHotDevil.jpg); background-position: 0px 0px;}
+.img71{ background:url(../pic/BTN_Cyberstud1.png); background-position: 0px 0px;}
+.img72{ background:url(../pic/BTN_Playboy1.png); background-position: 0px 0px;}
+.img73{ background:url(../pic/BTN_HighSociety.png); background-position: 0px 0px;}
+.img74{ background:url(../pic/BTN_GoldenDragon6.png); background-position: 0px 0px;}
+.img75{ background:url(../pic/BTN_FortuneCookie7.png); background-position: 0px 0px;}
+.img76{ background:url(../pic/BTN_FootballStar2.png); background-position: 0px 0px;}
+.img77{ background:url(../pic/BTN_FireHawk.png); background-position: 0px 0px;}
+.img78{ background:url(../pic/BTN_EnchantedWoods1.png); background-position: 0px 0px;}
+.img79{ background:url(../pic/BTN_DrWattsUp1.png); background-position: 0px 0px;}
+.img80{ background:url(../pic/BTN_DolphinQuest.png); background-position: 0px 0px;}
+.img81{ background:url(../pic/BTN_CrazyChameleons1.png); background-position: 0px 0px;}
+.img82{ background:url(../pic/BTN_CoolBuck1.png); background-position: 0px 0px;}
+.img83{ background:url(../pic/BTN_CashCrazy9.png); background-position: 0px 0px;}
+.img84{ background:url(../pic/BTN_Carnaval2.png); background-position: 0px 0px;}
+.img85{ background:url(../pic/BTN_Butterflies.png); background-position: 0px 0px;}
+.img86{ background:url(../pic/BTN_BushTelegraph1.png); background-position: 0px 0px;}
+.img87{ background:url(../pic/BTN_BootyTime.png); background-position: 0px 0px;}
+.img88{ background:url(../pic/BTN_Baccarat2.png); background-position: 0px 0px;}
+.img89{ background:url(../pic/BTN_Avalon_HD.png); background-position: 0px 0px;}
+.img90{ background:url(../pic/BTN_AvalonII.png); background-position: 0px 0px;}
+.img91{ background:url(../pic/BTN_USRoulette1.png); background-position: 0px 0px;}
+.img92{ background:url(../pic/BTN_BigTop1.png); background-position: 0px 0px;}
+.img93{ background:url(../pic/BTN_CosmicCat1.png); background-position: 0px 0px;}
+.img94{ background:url(../pic/BTN_CrazyChameleons1.png); background-position: 0px 0px;}
+.img95{ background:url(../pic/BTN_GoldSeries_EuroRoulette1.png); background-position: 0px 0px;}
+.img96{ background:url(../pic/BTN_FrenchRoulette1.png); background-position: 0px 0px;}
+.img97{ background:url(../pic/BTN_FortuneCookie7.png); background-position: 0px 0px;}
+.img98{ background:url(../pic/BTN_FruitSlots1.png); background-position: 0px 0px;}
+.img99{ background:url(../pic/BTN_GeniesGems2.png); background-position: 0px 0px;}
+.img100{ background:url(../pic/BTN_GoldenDragon6.png); background-position: 0px 0px;}
+.img101{ background:url(../pic/BTN_ImmortalRomance1.png); background-position: 0px 0px;}
+.img102{ background:url(../pic/BTN_JokerPoker1.png); background-position: 0px 0px;}
+.img103{ background:url(../pic/BTN_Keno3.png); background-position: 0px 0px;}
+.img104{ background:url(../pic/BTN_LouisianaDouble1.png); background-position: 0px 0px;}
+.img105{ background:url(../pic/BTN_LadyInRed2.png); background-position: 0px 0px;}
+.img106{ background:url(../pic/BTN_LuckyWitch1.png); background-position: 0px 0px;}
+.img107{ background:url(../pic/BTN_MermaidsMillions1.png); background-position: 0px 0px;}
+.img108{ background:url(../pic/BTN_Moonshine1.png); background-position: 0px 0px;}
+.img109{ background:url(../pic/BTN_PremierRacing1.png); background-position: 0px 0px;}
+.img110{ background:url(../pic/BTN_MysticDreams1.png); background-position: 0px 0px;}
+.img111{ background:url(../pic/BTN_OrientalFortune2.png); background-position: 0px 0px;}
+.img112{ background:url(../pic/BTN_PharaohsFortune2.png); background-position: 0px 0px;}
+.img113{ background:url(../pic/BTN_TombRaider2.png); background-position: 0px 0px;}
+.img114{ background:url(../pic/BTN_TombRaiderSotS1.png); background-position: 0px 0px;}
+.img115{ background:url(../pic/BTN_TrickOrTreat2.png); background-position: 0px 0px;}
+.img116{ background:url(../pic/BTN_TripleMagic1.png); background-position: 0px 0px;}
+.img117{ background:url(../pic/BTN_UntamedBengalTiger1.png); background-position: 0px 0px;}
+.img118{ background:url(../pic/BTN_GirlswithGuns1.png); background-position: 0px 0px;}
+.img119{ background:url(../pic/BushTelegraph.png); background-position: 0px 0px;}
+.img120{ background:url(../pic/AgeOfDiscovery.png); background-position: 0px 0px;}
+.img121{ background:url(../pic/BTN_Hitman1.png); background-position: 0px 0px;}
+.img122{ background:url(../pic/BTN_HotShot3.png); background-position: 0px 0px;}
+.img123{ background:url(../pic/HouseofDragons.png); background-position: 0px 0px;}
+.img124{ background:url(../pic/BTN_JingleBells6.png); background-position: 0px 0px;}
+.img125{ background:url(../pic/BTN_KingArthur.png); background-position: 0px 0px;}
+.img126{ background:url(../pic/BTN_MonkeysMoney1.png); background-position: 0px 0px;}
+.img127{ background:url(../pic/BTN_MayanPrincess1.png); background-position: 0px 0px;}
+.img128{ background:url(../pic/BTN_LadiesNite5.png); background-position: 0px 0px;}
+.img129{ background:url(../pic/BTN_KingsofCash1.png); background-position: 0px 0px;}
+.img130{ background:url(../pic/BTN_GoldSeries_HighSpeedPoker1.png); background-position: 0px 0px;}
+.img131{ background:url(../pic/BTN_TheDarkKnight2.png); background-position: 0px 0px;}
+.img132{ background:url(../pic/BTN_Moonshine1.png); background-position: 0px 0px;}
+.img133{ background:url(../pic/BTN_JurassicJackpot1.png); background-position: 0px 0px;}
+.img134{ background:url(../pic/BTN_LionsShare1.png); background-position: 0px 0px;}
+.img135{ background:url(../pic/BTN_PartyTime1.png); background-position: 0px 0px;}
+.img136{ background:url(../pic/BTN_PharaohsFortune2.png); background-position: 0px 0px;}
+.img137{ background:url(../pic/BTN_PiggyFortunes.png); background-position: 0px 0px;}
+.img138{ background:url(../pic/BTN_PiratesParadise4.png); background-position: 0px 0px;}
+.img139{ background:url(../pic/BTN_BreakdaBankAgainMegaSpin1.png); background-position: 0px 0px;}
+.img140{ background:url(../pic/BTN_Thunderstruck1.png); background-position: 0px 0px;}
+.img141{ background:url(../pic/BTN_ThunderstruckTwo1.png); background-position: 0px 0px;}
+.img142{ background:url(../pic/BTN_PremierRacing1.png); background-position: 0px 0px;}
+.img143{ background:url(../pic/BTN_PremierTrotting1.png); background-position: 0px 0px;}
+.img144{ background:url(../pic/BTN_PremierRoulette9.png); background-position: 0px 0px;}
+.img145{ background:url(../pic/BTN_SureWin6.png); background-position: 0px 0px;}
+.img146{ background:url(../pic/BTN_RedDog1.png); background-position: 0px 0px;}
+.img147{ background:url(../pic/BTN_TheDarkKnightRises.png); background-position: 0px 0px;}
+.img148{ background:url(../pic/BTN_JurassicPark.png); background-position: 0px 0px;}
+.img149{ background:url(../pic/BTN_GrannyPrix1.png); background-position: 0px 0px;}
+.img150{ background:url(../pic/BTN_BigTop1.png); background-position: 0px 0px;}
+.img151{ background:url(../pic/BTN_DiamondDeal1.png); background-position: 0px 0px;}
+.img152{ background:url(../pic/BTN_ReelsRoyce1.png); background-position: 0px 0px;}
+.img153{ background:url(../pic/BTN_JewelThief2.png); background-position: 0px 0px;}
+.img154{ background:url(../pic/BTN_RacingForPinks.png); background-position: 0px 0px;}
+.img155{ background:url(../pic/BTN_ReelStrike1.png); background-position: 0px 0px;}
+.img156{ background:url(../pic/BTN_KillerClubs1.png); background-position: 0px 0px;}
+.img157{ background:url(../pic/BTN_CentreCourt1.png); background-position: 0px 0px;}
+.img158{ background:url(../pic/BTN_GopherGold2.png); background-position: 0px 0px;}
+.img159{ background:url(../pic/BTN_7Oceans1.png); background-position: 0px 0px;}
+.img160{ background:url(../pic/BTN_WheelOfWealth1.png); background-position: 0px 0px;}
+.img161{ background:url(../pic/BTN_MayanBingo1.png); background-position: 0px 0px;}
+.img162{ background:url(../pic/BTN_ElectroBingo1.png); background-position: 0px 0px;}
+.img163{ background:url(../pic/BTN_EnchantedWoods1.png); background-position: 0px 0px;}
+.img164{ background:url(../pic/BTN_Germinator1.png); background-position: 0px 0px;}
+.img165{ background:url(../pic/BTN_TwistedCircus.png); background-position: 0px 0px;}
+.img166{ background:url(../pic/BTN_SambaBingo1.png); background-position: 0px 0px;}
+.img167{ background:url(../pic/BTN_CashClams2.png); background-position: 0px 0px;}
+.img168{ background:url(../pic/BTN_CouchPotato2.png); background-position: 0px 0px;}
+.img169{ background:url(../pic/BTN_DoubleMagic1.png); background-position: 0px 0px;}
+.img170{ background:url(../pic/BTN_FlyingAce2.png); background-position: 0px 0px;}
+.img171{ background:url(../pic/BTN_GoldCoast3.png); background-position: 0px 0px;}
+.img172{ background:url(../pic/BTN_JackpotExpress1.png); background-position: 0px 0px;}
+.img173{ background:url(../pic/BTN_RocktheBoat18.png); background-position: 0px 0px;}
+.img174{ background:url(../pic/BTN_RomanRiches11.png); background-position: 0px 0px;}
+.img175{ background:url(../pic/BTN_TripleMagic1.png); background-position: 0px 0px;}
+.img176{ background:url(../pic/BTN_Elementals2.png); background-position: 0px 0px;}
+.img177{ background:url(../pic/BTN_FishParty1.png); background-position: 0px 0px;}
+.img178{ background:url(../pic/BTN_GoodToGo2.png); background-position: 0px 0px;}
+.img179{ background:url(../pic/BTN_Harveys1.png); background-position: 0px 0px;}
+.img180{ background:url(../pic/BTN_Hohoho1.png); background-position: 0px 0px;}
+.img181{ background:url(../pic/BTN_ReelGems1.png); background-position: 0px 0px;}
+.img182{ background:url(../pic/BTN_RRHearts&Tarts1.png); background-position: 0px 0px;}
+.img183{ background:url(../pic/BTN_SecretAdmirer1.png); background-position: 0px 0px;}
+.img184{ background:url(../pic/BTN_SpringBreak2.png); background-position: 0px 0px;}
+.img185{ background:url(../pic/BTN_TallyHo1.png); background-position: 0px 0px;}
+.img186{ background:url(../pic/BTN_CoolWolf1.png); background-position: 0px 0px;}
+.img187{ background:url(../pic/BTN_Keno3.png); background-position: 0px 0px;}
+.img188{ background:url(../pic/BTN_GoldSeries_Baccarat1.png); background-position: 0px 0px;}
+.img189{ background:url(../pic/BTN_DeucesWild1.png); background-position: 0px 0px;}
+.img190{ background:url(../pic/BTN_DeucesJoker1.png); background-position: 0px 0px;}
+.img191{ background:url(../pic/BTN_DoubleDoubleBonus1.png); background-position: 0px 0px;}
+.img192{ background:url(../pic/BTN_5ReelDrive1.png); background-position: 0px 0px;}
+.img193{ background:url(../pic/BTN_BigTop1.png); background-position: 0px 0px;}
+.img194{ background:url(../pic/BTN_Cashapillar1.png); background-position: 0px 0px;}
+.img195{ background:url(../pic/BTN_DeckTheHalls1.png); background-position: 0px 0px;}
+.img196{ background:url(../pic/BTN_GreatGriffin1.png); background-position: 0px 0px;}
+.img197{ background:url(../pic/BTN_RRKing1.png); background-position: 0px 0px;}
+.img198{ background:url(../pic/BTN_somanymonsters.png); background-position: 0px 0px;}
+.img199{ background:url(../pic/BTN_somuchcandy.png); background-position: 0px 0px;}
+.img200{ background:url(../pic/BTN_somuchsushi.png); background-position: 0px 0px;}
+.img201{ background:url(../pic/BTN_SunQuest3.png); background-position: 0px 0px;}
+.img202{ background:url(../pic/BTN_UntamedGiantPanda.png); background-position: 0px 0px;}
+.img203{ background:url(../pic/BTN_WinningWizards1.png); background-position: 0px 0px;}
+.img204{ background:url(../pic/BTN_FinerReelsofLife.png); background-position: 0px 0px;}
+.img205{ background:url(../pic/BTN_MaxDamage1.png); background-position: 0px 0px;}
+.img206{ background:url(../pic/BTN_BattlestarGalactica1.png); background-position: 0px 0px;}
+.img207{ background:url(../pic/BTN_TitansOfTheSun_Theia.png); background-position: 0px 0px;}
+.img208{ background:url(../pic/BTN_AlaskanFishing1.png); background-position: 0px 0px;}
+.img209{ background:url(../pic/BTN_AllAmerican1.png); background-position: 0px 0px;}
+.img210{ background:url(../pic/BTN_ArcticAgents.png); background-position: 0px 0px;}
+.img211{ background:url(../pic/BTN_BigBreak1.png); background-position: 0px 0px;}
+.img212{ background:url(../pic/BTN_BigChef.png); background-position: 0px 0px;}
+.img213{ background:url(../pic/BTN_BigKahuna_SL1.png); background-position: 0px 0px;}
+.img214{ background:url(../pic/BTN_BunnyBoilerGold1.png); background-position: 0px 0px;}
+.img215{ background:url(../pic/BTN_Crocodopolis.png); background-position: 0px 0px;}
+.img216{ background:url(../pic/BTN_CryptCrusade1.png); background-position: 0px 0px;}
+.img217{ background:url(../pic/BTN_CryptCrusadeGold1.png); background-position: 0px 0px;}
+.img218{ background:url(../pic/BTN_DawnoftheBread1.png); background-position: 0px 0px;}
+.img219{ background:url(../pic/BTN_DrLove.png); background-position: 0px 0px;}
+.img220{ background:url(../pic/BTN_Dogfather2.png); background-position: 0px 0px;}
+.img221{ background:url(../pic/BTN_EaglesWings1.png); background-position: 0px 0px;}
+.img222{ background:url(../pic/BTN_FatLadySings1.png); background-position: 0px 0px;}
+.img223{ background:url(../pic/BTN_FoamyFortunes1.png); background-position: 0px 0px;}
+.img224{ background:url(../pic/BTN_FreezingFuzzballs1.png); background-position: 0px 0px;}
+.img225{ background:url(../pic/BTN_HairyFairies1.png); background-position: 0px 0px;}
+.img226{ background:url(../pic/BTN_HellBoy1.png); background-position: 0px 0px;}
+.img227{ background:url(../pic/BTN_HellGrannies.png); background-position: 0px 0px;}
+.img228{ background:url(../pic/BTN_IrishEyes.png); background-position: 0px 0px;}
+.img229{ background:url(../pic/BTN_JekyllandHyde.png); background-position: 0px 0px;}
+.img230{ background:url(../pic/BTN_LuckyLeprechaunsLoot.png); background-position: 0px 0px;}
+.img231{ background:url(../pic/BTN_MugshotMadness1.png); background-position: 0px 0px;}
+.img232{ background:url(../pic/BTN_PharoahsGems1.png); background-position: 0px 0px;}
+.img233{ background:url(../pic/BTN_PhantomCash.png); background-position: 0px 0px;}
+.img234{ background:url(../pic/BTN_ParadiseFound.png); background-position: 0px 0px;}
+.img235{ background:url(../pic/BTN_PiggyFortunes.png); background-position: 0px 0px;}
+.img236{ background:url(../pic/BTN_OffsideandSeek1.png); background-position: 0px 0px;}
+.img237{ background:url(../pic/BTN_PurePlatinum1.png); background-position: 0px 0px;}
+.img238{ background:url(../pic/BTN_RollerDerby.png); background-position: 0px 0px;}
+.img239{ background:url(../pic/BTN_RugbyStar.png); background-position: 0px 0px;}
+.img240{ background:url(../pic/BTN_SlamFunk1.png); background-position: 0px 0px;}
+.img241{ background:url(../pic/BTN_SoccerSafari1.png); background-position: 0px 0px;}
+.img242{ background:url(../pic/BTN_Spingo.png); background-position: 0px 0px;}
+.img243{ background:url(../pic/BTN_StarScape1.png); background-position: 0px 0px;}
+.img244{ background:url(../pic/BTN_SteamPunkHeroes.png); background-position: 0px 0px;}
+.img245{ background:url(../pic/BTN_SurfSafari.png); background-position: 0px 0px;}
+.img246{ background:url(../pic/BTN_SuperZeroes1.png); background-position: 0px 0px;}
+.img247{ background:url(../pic/BTN_TensOrBetterPowerPoker1.png); background-position: 0px 0px;}
+.img248{ background:url(../pic/BTN_SweetHarvest1.png); background-position: 0px 0px;}
+.img249{ background:url(../pic/BTN_TheLostPrincessAnastasia.png); background-position: 0px 0px;}
+.img250{ background:url(../pic/BTN_TurtleyAwesome1.png); background-position: 0px 0px;}
+.img251{ background:url(../pic/BTN_VictorianVillian.png); background-position: 0px 0px;}
+.img252{ background:url(../pic/BTN_WhackaJackpot1.png); background-position: 0px 0px;}
+.img253{ background:url(../pic/BTN_TigerVsBear.png); background-position: 0px 0px;}
+.img254{ background:url(../pic/BTN_WhiteBuffalo.png); background-position: 0px 0px;}
+.img255{ background:url(../pic/BTN_WildCatch.png); background-position: 0px 0px;}
+.img256{ background:url(../pic/BTN_WildChampions1.png); background-position: 0px 0px;}
+.img257{ background:url(../pic/BTN_GoldSeries_DoubleExposureBlackjack1.png); background-position: 0px 0px;}
+.img258{ background:url(../pic/BTN_GoldSeries_MultiWheelRoulette1.png); background-position: 0px 0px;}
+.img259{ background:url(../pic/BTN_GoldSeries_MHPerfectPairsBlackjack1.png); background-position: 0px 0px;}
+.img260{ background:url(../pic/BTN_DrWattsUp1.png); background-position: 0px 0px;}
+.img261{ background:url(../pic/BTN_LuckyKoi.png); background-position: 0px 0px;}
+.img262{ background:url(../pic/BTN_MHAtlanticCityBlackjack1.png); background-position: 0px 0px;}
+.img263{ background:url(../pic/BTN_ArcticAgents.png); background-position: 0px 0px;}
+.img264{ background:url(../pic/BTN_AroundTheWorld.png); background-position: 0px 0px;}
+.img265{ background:url(../pic/BTN_BigFive1.png); background-position: 0px 0px;}
+.img266{ background:url(../pic/BTN_ChiefsFortune1.png); background-position: 0px 0px;}
+.img267{ background:url(../pic/BTN_DroneWars.png); background-position: 0px 0px;}
+.img268{ background:url(../pic/BTN_GeniesGems2.png); background-position: 0px 0px;}
+.img269{ background:url(../pic/BTN_InItToWinIt.png); background-position: 0px 0px;}
+.img270{ background:url(../pic/default.png); background-position: 0px 0px;}
+.img271{ background:url(../pic/BTN_MadHatters1.png); background-position: 0px 0px;}
+.img272{ background:url(../pic/BTN_MajorMillions1.png); background-position: 0px 0px;}
+.img273{ background:url(../pic/BTN_PollenNation1.png); background-position: 0px 0px;}
+.img274{ background:url(../pic/BTN_PremierRacing1.png); background-position: 0px 0px;}
+.img275{ background:url(../pic/BTN_RivieraRiches1.png); background-position: 0px 0px;}
+.img276{ background:url(../pic/SurfSafari_Button.png); background-position: 0px 0px;}
+.img277{ background:url(../pic/BTN_TotemTreasure1.png); background-position: 0px 0px;}
+.img278{ background:url(../pic/BTN_robojack1.png); background-position: 0px 0px;}
+.img279{ background:url(../pic/BTN_SantasWildRide1.png); background-position: 0px 0px;}
+.img280{ background:url(../pic/BTN_WhatonEarth1.png); background-position: 0px 0px;}
+.img281{ background:url(../pic/BTN_VegasDreams.png); background-position: 0px 0px;}
+.img282{ background:url(../pic/BTN_TreasureNile1.png); background-position: 0px 0px;}
+.img283{ background:url(../pic/BTN_TrickOrTreat2.png); background-position: 0px 0px;}
+.img284{ background:url(../pic/BTN_Tunzamunni1.png); background-position: 0px 0px;}
+.img285{ background:url(../pic/BTN_AcesFacesPowerPoker1.png); background-position: 0px 0px;}
+.img286{ background:url(../pic/BTN_LeaguesOfFortune1.png); background-position: 0px 0px;}
+.img287{ background:url(../pic/BTN_InItToWinIt.png); background-position: 0px 0px;}
+.img288{ background:url(../pic/BTN_GoldSeries_3CardPoker1.png); background-position: 0px 0px;}
+.img289{ background:url(../pic/BTN_AcesFacesPowerPoker1.png); background-position: 0px 0px;}
+
+.xin1{ background:url(../pic/BTN_108Heroes.png); background-position: 0px 0px;}
+.xin2{ background:url(../pic/BTN_WildOrient.png); background-position: 0px 0px;}
+.xin3{ background:url(../pic/BTN_Bridesmaids.png); background-position: 0px 0px;}
+.xin4{ background:url(../pic/BTN_VinylCountdown4.png); background-position: 0px 0px;}
+.xin5{ background:url(../pic/BTN_TallyHo1.png); background-position: 0px 0px;}
+.xin6{ background:url(../pic/BTN_SunQuest3.png); background-position: 0px 0px;}
+.xin7{ background:url(../pic/BTN_BreakDaBankAgain1.png); background-position: 0px 0px;}
+.xin8{ background:url(../pic/BTN_RRHeartsTarts1.png); background-position: 0px 0px;}
+.xin9{ background:url(../pic/BTN_RRDiamondGlitz1.png); background-position: 0px 0px;}
+.xin10{ background:url(../pic/BTN_LeaguesOfFortune1.png); background-position: 0px 0px;}
+.xin11{ background:url(../pic/BTN_LadiesNite5.png); background-position: 0px 0px;}
+.xin12{ background:url(../pic/BTN_FrozenDiamonds.png); background-position: 0px 0px;}
+.xin13{ background:url(../pic/BTN_KaraokeParty.png); background-position: 0px 0px;}
+.xin14{ background:url(../pic/BTN_ReelSpinner.png); background-position: 0px 0px;}
+.xin15{ background:url(../pic/BTN_ElectricDiva.png); background-position: 0px 0px;}
+.xin16{ background:url(../pic/BTN_NinjaMagic.png); background-position: 0px 0px;}
+.xin17{ background:url(../pic/BTN_PrettyKitty.png); background-position: 0px 0px;}
+.xin18{ background:url(../pic/BTN_WinSumDimSum.png); background-position: 0px 0px;}
+.xin19{ background:url(../pic/BTN_BarBarBlacksheep.png); background-position: 0px 0px;}
+.xin20{ background:url(../pic/BTN_PeekaBoo5Reel.png); background-position: 0px 0px;}
+.xin21{ background:url(../pic/BTN_RiverofRiches.png); background-position: 0px 0px;}
+.xin22{ background:url(../pic/BTN_RabbitintheHat.png); background-position: 0px 0px;}
+.xin23{ background:url(../pic/BTN_PenguinSplash.png); background-position: 0px 0px;}
+.xin24{ background:url(../pic/BTN_LegendOfOlympus.png); background-position: 0px 0px;}
+.xin25{ background:url(../pic/BTN_KittyCabana.png); background-position: 0px 0px;}
+.xin26{ background:url(../pic/BTN_ForsakenKingdom.png); background-position: 0px 0px;}
+.xin27{ background:url(../pic/BTN_BigChef.png); background-position: 0px 0px;}
+.xin28{ background:url(../pic/BTN_Ariana.png); background-position: 0px 0px;}
+.xin29{ background:url(../pic/BTN_AdventurePalace.png); background-position: 0px 0px;}
+.xin30{ background:url(../pic/BTN_ScaryFriends.png); background-position: 0px 0px;}
+.xin31{ background:url(../pic/BTN_ZanyZebra1.png); background-position: 0px 0px;}
+.xin32{ background:url(../pic/BTN_WinningWizards1.png); background-position: 0px 0px;}
+.xin33{ background:url(../pic/BTN_WhatonEarth1.png); background-position: 0px 0px;}
+.xin34{ background:url(../pic/BTN_UntamedWolfPack1.png); background-position: 0px 0px;}
+.xin35{ background:url(../pic/BTN_Triangulation.png); background-position: 0px 0px;}
+.xin36{ background:url(../pic/BTN_MonkeyKeno.png); background-position: 0px 0px;}
+.xin37{ background:url(../pic/BTN_Pistoleras.png); background-position: 0px 0px;}
+.xin38{ background:url(../pic/BTN_WheelOfWealth1.png); background-position: 0px 0px;}
+.xin39{ background:url(../pic/BTN_TigerMoon.png); background-position: 0px 0px;}
+.xin40{ background:url(../pic/BTN_FinerReelsofLife1.png); background-position: 0px 0px;}
+.xin41{ background:url(../pic/BTN_Terminator2_SquareButton_option.png); background-position: 0px 0px;}
+.xin42{ background:url(../pic/BTN_TensOrBetterPowerPoker1.png); background-position: 0px 0px;}
+.xin43{ background:url(../pic/BTN_TensOrBetter1.png); background-position: 0px 0px;}
+.xin44{ background:url(../pic/BTN_StashoftheTitans1.png); background-position: 0px 0px;}
+.xin45{ background:url(../pic/BTN_StarScape1.png); background-position: 0px 0px;}
+.xin46{ background:url(../pic/BTN_SpringBreak2.png); background-position: 0px 0px;}
+.xin47{ background:url(../pic/BTN_Spingo.png); background-position: 0px 0px;}
+.xin48{ background:url(../pic/BTN_Spectacular3.png); background-position: 0px 0px;}
+.xin49{ background:url(../pic/BTN_SovereignoftheSevenSeas.png); background-position: 0px 0px;}
+.xin50{ background:url(../pic/BTN_Shoot.png); background-position: 0px 0px;}
+.xin51{ background:url(../pic/BTN_WorldcupMania5.png); background-position: 0px 0px;}
+.xin52{ background:url(../pic/BTN_WasabiSan4.png); background-position: 0px 0px;}
+.xin53{ background:url(../pic/BTN_Twister3.png); background-position: 0px 0px;}
+.xin54{ background:url(../pic/BTN_ThreeWheeler1.png); background-position: 0px 0px;}
+.xin55{ background:url(../pic/BTN_ThousandIslands5.png); background-position: 0px 0px;}
+.xin56{ background:url(../pic/BTN_RatPack1.png); background-position: 0px 0px;}

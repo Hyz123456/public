@@ -1,0 +1,31 @@
+/* 头部 */
+html,body,div,h1,h2,h3,h4,h5,h6,p,span,em,a,img,ul,li,ol,form,button,input,textarea,dl,dt,dd,iframe{margin:0;padding:0;}
+body{text-align:left;font:14px/1.5 "\5FAE\8F6F\96C5\9ED1","\5B8B\4F53","Arial",sans-serif;background:#e2e2e2 url("images/bodybg.gif") repeat 0 0;color:#888;}
+a {cursor: pointer;color:#000;text-decoration: none;outline: 0 none;}
+a:hover,a:focus{text-decoration:none;color:#CD2407;}
+h1,h2,h3,h4,h5,h6,em{font-size:14px;font-weight:normal;}
+ol,ul{list-style:none;}
+em{font-style: normal;}
+img{border:0;vertical-align:middle;}
+
+/* 全局 */
+.header{background:url(images/h_bg.png) repeat-x;border-top:5px solid #423127;height:79px;width:100%;}
+.top{width:980px;margin:0px auto;position:relative;}
+.logo{float:left;width:548px;height:69px;background: url(images/logo.png) no-repeat;margin-top:3px;}
+.text{font-size:14px;color:#333;margin:43px 0px 0px 145px;}
+.tel{width:197px;height:44px;background:url(images/tel.png) no-repeat;position:absolute;top:15px;right:170px;}
+.sethome{float:right;font-size:12px;line-height:26px;color:#953c00;background:url(images/home.png) no-repeat;width:140px;height:66px;}
+.sethome a{text-decoration:none;margin:0 10px;color:#953c00;}
+.wrap{margin:10px auto;width:980px;overflow:hidden;}
+.center{background:#fff;overflow:hidden;}
+.big_tit{background:url(images/title_bg.png) no-repeat;width:980px;height:50px;}
+.big_tit h2{font-size:16px;color:#fff;line-height:48px;padding-left:15px;}
+.nav_box{width:957px;margin:10px auto;background:#f7f7f7;border:1px solid #eee;overflow:hidden;}
+.nav_li{float:left;width:142px;height:46px;border:2px solid #dedede; background:#fff;float:left;margin:8px 5px 8px 8px;text-align:center;line-height:46px;font-size:15px; cursor:pointer;}
+.nav_li:hover{width:142px;height:46px;border:2px solid #ffc42b;float:left;margin:8px 5px 8px 8px;text-align:center;line-height:46px;font-size:15px;}
+.nav_li em {margin-left:5px; vertical-align:middle;}
+.wrap_b{background:url(images/wrap_b.png) repeat-x;height:4px;}
+.footer{width:980px;margin:10px auto;text-align:center;color:#333;line-height:25px;}
+.footer a{margin:0px 5px;}
+.clear{
+	clear:both;}

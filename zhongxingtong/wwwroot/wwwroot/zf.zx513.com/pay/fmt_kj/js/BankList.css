@@ -1,0 +1,179 @@
+﻿.BankList {
+    overflow: hidden;
+    position: relative;
+    list-style-type: none;
+}
+
+    .BankList li {
+        width: 178px;
+        height: 38px;
+        border-color: #d9d9d9;
+        border-style: dotted;
+        border-width: 1px;
+        position: relative;
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+
+        .BankList li.Cur {
+            border: 1px solid #0E90D2;
+        }
+
+a#More {
+    bottom: -1px;
+    color: #0094ff;
+    cursor: pointer;
+    position: absolute;
+    right: 75px;
+}
+
+.BankList li.Cur span.check {
+    background-image: url(../../Images/Icon_Check.png);
+    background-repeat: no-repeat;
+    display: block;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    bottom: 0;
+    right: 0;
+}
+
+.BankList li span.BankType_Saving, .BankList li span.BankType_Credit {
+    background-repeat: no-repeat;
+    display: block;
+    position: absolute;
+    width: 79px;
+    height: 16px;
+    top: 11px;
+    right: 41px;
+}
+
+.BankList li span.BankType_Saving {
+    background-image: url(../../Images/BankType_Saving.png);
+}
+
+.BankList li span.BankType_Credit {
+    background-image: url(../../Images/BankType_Credit.png);
+}
+
+.BankList.Ext_Width348 li {
+    width: 346px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-align: center;
+    padding-left: 0;
+}
+
+.BankList.Ext_Width730 {
+    margin-top: 19px;
+    height: 60px;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    overflow: visible;
+}
+
+    .BankList.Ext_Width730 li {
+        width: 728px;
+        height: 58px;
+        margin-bottom: 0;
+        border: 1px solid #B0C2E1;
+        margin-bottom: -1px;
+        background-color: #FFFFFF;
+        display: none;
+    }
+
+        .BankList.Ext_Width730 li.Cur {
+            border-color: #B0C2E1;
+            margin-top: 0;
+            display: block;
+        }
+
+        .BankList.Ext_Width730 li span[class^=BankLogo_150_40] {
+            position: absolute;
+            left: 20px;
+            top: 5px;
+            border: none;
+        }
+
+        .BankList.Ext_Width730 li span.CardNo {
+            position: absolute;
+            left: 206px;
+            top: 19px;
+            color: #333333;
+            font-size: 11pt;
+            font-weight: 700;
+        }
+
+        .BankList.Ext_Width730 li span[class^=BankType] {
+            left: 355px;
+            top: 20px;
+        }
+
+        .BankList.Ext_Width730 li span.BgColor, .BankList.OtherBank li span.BgColor {
+            background-color: rgba(14, 144, 210,0);
+            width: 728px;
+            height: 58px;
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        .BankList.Ext_Width730 li.Cur span.BgColor, .BankList.OtherBank li.Cur span.BgColor {
+            background-color: rgba(14, 144, 210,.1);
+        }
+
+.BankList.OtherBank {
+    height: 60px;
+}
+
+    .BankList.OtherBank li {
+        width: 683px;
+        height: 58px;
+        line-height: 58px;
+        text-align: left;
+        border: 1px solid #EAEAEA;
+        margin-bottom: 0;
+        padding-left: 45px;
+        color: #999999;
+        font-size: 11pt;
+        font-weight: 700;
+    }
+
+        .BankList.OtherBank li:hover {
+            border: 1px solid #B0C2E1;
+        }
+
+        .BankList.OtherBank li.Cur {
+            color: #000000;
+        }
+
+.ChangeBankCur {
+    background-color: #ffffff;
+    border: 1px solid #b1c3e1;
+    color: #333333;
+    cursor: pointer;
+    font-size: 9pt;
+    height: 33px;
+    line-height: 33px;
+    text-align: center;
+    width: 88px;
+    display: block;
+    position: absolute;
+    right: 150px;
+    top: 32px;
+    z-index: 9999;
+}
+
+.TextShowConter {
+    border: none;
+    color: #000;
+    background-color: #fff;
+    font-weight: 700;
+    font-size: 11pt;
+    margin-top: 4px;
+}

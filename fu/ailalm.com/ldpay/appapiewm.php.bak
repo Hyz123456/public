@@ -1,0 +1,145 @@
+<?php
+
+?>
+<?php  session_start();
+error_reporting(0);
+include_once 'safemode.php';
+require_once 'config.php';
+if($trade_no!='' && $cny!='' && $type!='' && $key!='' && $mobile!='')
+{
+	$result=mysql_query("select * from ewmszb where appid='$key' and cny='$cny' and pay='$type'");
+	if(mysql_num_rows($result)>0)
+	{
+		$tim=time();
+		if($cny.$type==$_SESSION['go']&& $_SESSION['timm']>$tim)
+		{
+			$fenzuid=$_SESSION['fenzuid'];
+			$ewm=$_SESSION['name'];
+			$idold=$_SESSION['ewmidn'];
+			$timm=$tim+300;
+			$beizhu=$_SESSION['beizhu'];
+			$appid=$_SESSION['appidold'];
+			$payold=$_SESSION['payold'];
+			$trade_noold=$_SESSION['trade_no'];
+			$mobileok=1;
+			$exec='select * from ewmddh where name=\'' .$beizhu."' and appid='$appid' and uid='$trade_noold' and dingdanok=0 and pay='$payold' and timm>'$tim' ORDER BY id DESC";
+			$result=mysql_fetch_assoc(mysql_query($exec));
+			$id2=$result['id'];
+			if($id2>0)
+			{
+				mysql_query("Update ewmddh set timm='$timm',uid='$trade_no' where id=".$id2);
+				mysql_query("Update ewmszb set timm='$timm' where id=".$idold);
+			}
+			else
+			{
+				$sql="select * from ewmszb where timm<'$tim' and appid='$key' and cny='$cny' and pay='$type' ORDER BY name asc";
+				$ewmm=mysql_fetch_assoc(mysql_query($sql));
+				$id=$ewmm['id'];
+				if($id!='')
+				{
+					$timm=$tim+300;
+					$ewm=$ewmm['picurl'];
+					$fenzuid=$ewmm['fenzuid'];
+					$_SESSION['fenzuid']=$ewmm['fenzuid'];
+					$_SESSION['ewmidn']=$ewmm['id'];
+					$_SESSION['go']=$cny.$type;
+					$_SESSION['name']=$ewm;
+					$_SESSION['timm']=$timm;
+					$nameuser=$ewmm['name'];
+					$_SESSION['beizhu']=$ewmm['name'];
+					$_SESSION['appidold']=$key;
+					$_SESSION['payold']=$type;
+					$_SESSION['trade_no']=$trade_no;
+					$_SESSION['ewmurl']=$ewmm['ewmurl'];
+					$mobileok=1;
+					mysql_query("Update ewmszb set timm='$timm' where id=".$id);
+					mysql_query("INSERT INTO ewmddh (pay,name,cny,uid,appid,timm) VALUES('{$type}
+				','{$nameuser}
+			','{$cny}
+		','{$trade_no}
+	','{$key}
+','{$timm}
+')");
+}
+else
+{
+$mobileok=0;
+if($type==1)$ewm=$payali;
+if($type==2)$ewm=$payten;
+if($type==3)$ewm=$paywx;
+}
+}
+}
+else
+{
+$sql="select * from ewmszb where timm<'$tim' and appid='$key' and cny='$cny' and pay='$type' ORDER BY name asc";
+$ewmm=mysql_fetch_assoc(mysql_query($sql));
+$id=$ewmm['id'];
+if($id!='')
+{
+$timm=$tim+300;
+$ewm=$ewmm['picurl'];
+$fenzuid=$ewmm['fenzuid'];
+$_SESSION['fenzuid']=$ewmm['fenzuid'];
+$_SESSION['ewmidn']=$ewmm['id'];
+$_SESSION['go']=$cny.$type;
+$_SESSION['name']=$ewm;
+$_SESSION['timm']=$timm;
+$nameuser=$ewmm['name'];
+$_SESSION['beizhu']=$ewmm['name'];
+$_SESSION['appidold']=$key;
+$_SESSION['payold']=$type;
+$_SESSION['trade_no']=$trade_no;
+$_SESSION['ewmurl']=$ewmm['ewmurl'];
+$mobileok=1;
+mysql_query("Update ewmszb set timm='$timm' where id=".$id);
+mysql_query("INSERT INTO ewmddh (pay,name,cny,uid,appid,timm) VALUES('{$type}
+','{$nameuser}
+','{$cny}
+','{$trade_no}
+','{$key}
+','{$timm}
+')");
+}
+else
+{
+$mobileok=0;
+if($type==1)$ewm=$payali;
+if($type==2)$ewm=$payten;
+if($type==3)$ewm=$paywx;
+}
+}
+if($type==1)
+{
+$logo='alipay-logo';
+$qr='css/ali.png';
+$qrna='&#25163;&#26426;&#25903;&#20184;&#23453;';
+$uourldown='https://mobile.alipay.com/index.htm';
+}
+if($type==2)
+{
+$logo='tenpay-logo';
+$qr='css/tenpay.png';
+$qrna='&#36130;&#20184;&#36890;&#38065;&#21253;';
+$uourldown='https://mqq.tenpay.com/web/qq_wallet/';
+}
+if($type==3)
+{
+$logo='wxpay-logo';
+$qr='css/wxpay.png';
+$qrna='&#24494;&#20449;&#38065;&#21253;';
+$uourldown='http://weixin.qq.com/';
+}
+}
+else
+{
+echo '&#25509;&#21475;&#21442;&#25968;&#38169;&#35823;&#65281;&#26159;&#21542;&#32570;&#23569;&#21442;&#25968;&#65292;&#65;&#80;&#80;&#73;&#68;&#26159;&#21542;&#27491;&#30830;&#65292;&#20108;&#32500;&#30721;&#24179;&#21488;&#26159;&#21542;&#35774;&#32622;&#37329;&#39069;&#32452;&#19982;&#23545;&#24212;&#30340;&#20108;&#32500;&#30721;&#12290;';
+exit;
+}
+}
+else
+{
+echo '&#25509;&#21475;&#21442;&#25968;&#38169;&#35823;&#65281;&#26159;&#21542;&#32570;&#23569;&#21442;&#25968;&#20256;&#36882;&#12290;';
+exit;
+}
+?>

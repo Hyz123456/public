@@ -1,0 +1,1 @@
+﻿ alert('添加失败,同名文件已经存在了');var index = parent.layer.getFrameIndex(window.name);parent.layer.close(index);

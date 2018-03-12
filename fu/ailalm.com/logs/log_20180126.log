@@ -1,0 +1,40 @@
+/index.php/cgi/common.cgi
+/controller/cgi load fail.
+2018-01-26 01:46:02
+189.62.152.169
+
+/index.php/manager/html
+/controller/manager load fail.
+2018-01-26 04:23:02
+182.140.142.174
+
+/index.php/manager/html
+/controller/manager load fail.
+2018-01-26 08:05:22
+36.102.213.216
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-01-26 09:36:22
+80.82.78.50
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-01-26 09:36:24
+80.82.78.50
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-01-26 09:36:30
+80.82.78.50
+
+/index.php/manager/html
+/controller/manager load fail.
+2018-01-26 12:56:08
+27.148.158.163
+
+/index.php/phpmyadmin/scripts/setup.php
+/controller/phpmyadmin load fail.
+2018-01-26 16:24:14
+66.111.57.41
+

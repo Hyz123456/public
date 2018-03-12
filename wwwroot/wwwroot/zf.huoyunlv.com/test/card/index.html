@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf8">
+    <title>付款接口测试</title>
+    <style>
+    html,body,div,p,span,ul,dl,ol,h1,h2,h3,h4,h5,h6,table,td,tr{padding:0;margin:0}
+    .content{width:500px;margin:100px auto;border:1px solid #ddd}
+    h1{margin-bottom:30px;background-color:#eee;;border-bottom:1px solid #ddd;padding:10px;text-align: center}
+    table{border-collapse:collapse;width:90%;margin:20px auto}
+    table tr td{height:40px;font-size:14px}
+    input,select{width:100%;line-height:25px}
+    button{font-size:16px}
+    </style>
+</head>
+<body>
+<div class="content">
+    <h1>点卡付款接口测试</h1>
+    <form action="pay.php" method="post" target="_blank">
+        <table>
+            <tr>
+                <td width="120">版本号：</td>
+                <td>
+                    <select name="version">
+                        <option value="1.0">1.0</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>商户编号：</td>
+                <td><input type="text" name="customerid" value="20080000"></td>
+            </tr>
+
+            <tr>
+                <td>商户订单号：</td>
+                <td><input type="text" name="sdorderno" value="t00000030001"></td>
+            </tr>
+
+            <tr>
+                <td>订单金额：</td>
+                <td><input type="text" name="total_fee" value="1.00"></td>
+            </tr>
+
+            <tr>
+                <td>支付编号：</td>
+                <td>
+                    <select name="paytype" onchange="changePay(this.options[this.selectedIndex].value)">
+                        <option value="szx">移动神州行</option>
+                        <option value="ltk">联通一卡充</option>
+                        <option value="dxk">电信国卡</option>
+                        <option value="jwk">骏网一卡通</option>
+                        <option value="sdk">盛大一卡通</option>
+                        <option value="qqk">QQ币充值卡</option>
+						         <option value="gyk">光宇一卡通</option>
+                        <option value="wmk">完美一卡通</option>
+                        <option value="ztk">征途一卡通</option>
+                        <option value="wyk">网易一卡通</option>
+                        <option value="shk">搜狐一卡通</option>
+                        <option value="jyk">久游一卡通</option>
+                        <option value="thk">天宏一卡通</option>
+                        <option value="zyk">纵游一卡通</option>
+                        <option value="txk">天下一卡通</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>充值卡面值：</td>
+                <td>
+                    <select name="cardvalue" id="cardvalue">
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>充值卡卡号：</td>
+                <td><input type="text" name="cardnum" value=""></td>
+            </tr>
+
+            <tr>
+                <td>充值卡密码：</td>
+                <td><input type="text" name="cardpwd" value=""></td>
+            </tr>
+
+            <tr>
+                <td>异步通知URL：</td>
+                <td><input type="text" name="notifyurl" value="http://www.7foo.com/test/pay/notify.php"></td>
+            </tr>
+
+            <tr>
+                <td>订单备注：</td>
+                <td><input type="text" name="remark" value=""></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td><button type="submit">提交测试</button></td>
+            </tr>
+        </table>
+    </form>
+</div>
+<script>
+var card=new Array();
+card['szx']=[10,20,30,50,100,200,300,500];
+card['ltk']=[10,20,30,50,100,200,300,500];
+card['dxk']=[10,20,30,50,100,300];
+card['jwk']=[5,6,10,15,20,30,50,100,120];
+card['sdk']=[1,2,3,5,9,10,15,25,30,35,45,50,100,300,350,1000];
+card['qqk']=[5,10,15,30,60,100];
+card['wmk']=[15,30,50,100];
+card['shk']=[5,10,15,30,40,100];
+card['jyk']=[5,10,20,25,30,50,100];
+card['thk']=[5,10,15,30,50,100];
+card['zyk']=[10,15,30,50,100];
+card['txk']=[10,20,30,40,50,60,70,80,90,100];
+function changePay(pname){
+    var str='';
+    for(i=0;i<card[pname].length;i++){
+        str=str+'<option value="'+card[pname][i]+'">'+card[pname][i]+'元面值</option>';
+    }
+    document.getElementById('cardvalue').innerHTML=str;
+}
+changePay('szx');
+</script>
+</body>
+</html>

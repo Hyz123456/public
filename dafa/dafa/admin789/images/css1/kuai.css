@@ -1,0 +1,8 @@
+.head, .bg_tr{
+    color: #505050;
+	box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.51) !important;
+	background: rgb(239, 239, 239) !important;
+}
+.btn_wrap { margin: 0 !important;  padding: 40px 0 80px !important; }
+body { background: rgb(223, 223, 223) !important; }
+.btn_wrap a:hover, .smallBtn a:hover{     color: orange !important; box-shadow: 1px 5px 8px rgba(0, 0, 0, 0.51) !important; background: rgb(255, 255, 255) !important; }

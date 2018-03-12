@@ -1,0 +1,1 @@
+﻿ alert('添加失败,二维码图片不存在');var index = parent.layer.getFrameIndex(window.name);parent.layer.close(index);

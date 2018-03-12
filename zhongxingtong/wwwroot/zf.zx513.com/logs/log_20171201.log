@@ -1,0 +1,400 @@
+/index.php/woqu/orders
+error in E:\wwwroot\c.dker.org\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1034 Incorrect key file for table 'wy_orders'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]E:\wwwroot\c.dker.org\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-01 05:54:02
+125.69.67.109
+
+/index.php/layui/css/layui.css
+/controller/layui load fail.
+2017-12-01 06:05:20
+125.69.67.109
+
+/index.php/public/css/global.css
+/controller/public load fail.
+2017-12-01 06:05:20
+125.69.67.109
+
+/index.php/public/css/index.css
+/controller/public load fail.
+2017-12-01 06:05:20
+125.69.67.109
+
+/index.php/hep
+/controller/hep load fail.
+2017-12-01 06:49:37
+125.69.67.109
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 07:25:44
+125.69.67.109
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 07:25:47
+125.69.67.109
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 07:25:50
+125.69.67.109
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 07:46:30
+125.69.67.109
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 16:25:55
+119.4.212.100
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 16:25:57
+119.4.212.100
+
+/index.php/demo/admin.html
+/controller/demo load fail.
+2017-12-01 16:30:30
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.ttf
+/controller/assets load fail.
+2017-12-01 16:40:17
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 16:40:17
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:40:17
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:40:17
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.woff
+/controller/assets load fail.
+2017-12-01 16:40:18
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:41:13
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.ttf
+/controller/assets load fail.
+2017-12-01 16:41:13
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:41:13
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 16:41:13
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.woff
+/controller/assets load fail.
+2017-12-01 16:41:13
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:42:55
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.ttf
+/controller/assets load fail.
+2017-12-01 16:42:55
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:42:55
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 16:42:55
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.woff
+/controller/assets load fail.
+2017-12-01 16:42:56
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:42:58
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:42:58
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 16:42:58
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:43:16
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:46:54
+119.4.212.100
+
+/index.php/assets/fonts/icomoon.ttf
+/controller/assets load fail.
+2017-12-01 16:47:06
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 16:47:48
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 16:47:48
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 16:47:48
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 17:57:06
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 17:57:06
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 17:57:07
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 18:04:24
+119.85.26.153
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 18:04:24
+119.85.26.153
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 18:04:24
+119.85.26.153
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 18:04:50
+14.106.160.65
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 18:04:50
+14.106.160.65
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 18:04:50
+14.106.160.65
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 18:23:15
+117.61.0.141
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 18:23:15
+117.61.0.141
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 18:23:16
+117.61.0.141
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 18:23:36
+117.61.0.141
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 18:23:37
+117.61.0.141
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 18:23:37
+117.61.0.141
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 19:46:15
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 19:46:15
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 19:46:15
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 19:47:12
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 19:47:13
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 19:47:14
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:07:51
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:07:51
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:07:51
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:35:26
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:35:26
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:35:27
+119.4.212.100
+
+/index.php/¡¢
+/controller/¡¢ load fail.
+2017-12-01 20:36:18
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:36:22
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:36:22
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:36:23
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:42:25
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:42:25
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:42:25
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:42:31
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:42:31
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:42:31
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:43:44
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:43:44
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:43:44
+119.4.212.100
+
+/index.php/assets/img/button-close.svg
+/controller/assets load fail.
+2017-12-01 20:44:09
+119.4.212.100
+
+/index.php/assets/img/logo-white.svg
+/controller/assets load fail.
+2017-12-01 20:44:09
+119.4.212.100
+
+/index.php/assets/img/button-back.svg
+/controller/assets load fail.
+2017-12-01 20:44:10
+119.4.212.100
+

@@ -1,0 +1,100 @@
+<?php
+require_once 'inc.php';
+
+
+
+function sign($para) {
+	$arg  = "";
+	while (list ($key, $val) = each ($para)) {
+		$arg.=$val;
+	}
+	//去掉最后一个&字符
+	//$arg = substr($arg,0,count($arg)-2);
+	
+	//如果存在转义字符，那么去掉转义
+	if(get_magic_quotes_gpc()){$arg = stripslashes($arg);}
+	
+	return $arg;
+}
+function createLinkstring($para) {
+	$arg  = "";
+	while (list ($key, $val) = each ($para)) {
+		$arg.=$key."=".$val."&";
+	}
+	//去掉最后一个&字符
+	$arg = substr($arg,0,count($arg)-2);
+	
+	//如果存在转义字符，那么去掉转义
+	if(get_magic_quotes_gpc()){$arg = stripslashes($arg);}
+	
+	return $arg;
+}
+
+
+
+//测试环境地址:https://devapi.tfcpay.com/v2/netpay
+//生产环境地址:https://api.tfcpay.com/v2/netpay
+
+$key			=	$userkey;		//MD5密钥，安全检验码
+
+
+$data['mid']				=		$userid;  //商户号
+$data['orderNo']			=		$_GET['orderid']; //商户订单号
+$data['amount']				=		$_GET['price'];
+$data['bankCode']			=		 GetBankCode($_GET['bankcode']);
+
+$data['notifyUrl']			=		"http://".$_SERVER['HTTP_HOST']."/pay/yilian_bank/notifyUrl.php";
+$data['returnUrl']			=		"http://".$_SERVER['HTTP_HOST']."/pay/yilian_bank/returnUrl.php";
+
+$data['currencyType']		=		"CNY";
+
+			
+
+$data['subject']			=		"pay";
+$data['body']				=		"pay";
+
+$data['cardType']			=		"01";
+
+$data['noise']				=		"123123ed".time();
+
+
+ksort($data);
+
+
+//print_r($data);
+
+
+$md5						=		md5(createLinkstring($data)."&".$key);
+
+
+
+//$md5						=		bin2hex($md5);
+
+
+$sign						=		strtoupper($md5);
+
+
+
+
+$data['sign']				=		$sign;
+
+//echo $sign
+
+
+?>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>lodding...</title>
+</head>
+<body onLoad="document.dinpayForm.submit();">
+<form name="dinpayForm" method="post" action="https://api.tfcpay.com/v2/netpay"><!-- 注意 非UTF-8编码的商家网站 此地址必须后接编码格式 -->
+<?php
+ foreach($data as $k=>$v)
+ {
+            echo "<input type=\"hidden\" name=\"{$k}\" value=\"{$v}\" />\n";
+ }
+?>
+</form>
+</body>
+</html>

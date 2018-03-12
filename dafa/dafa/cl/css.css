@@ -1,0 +1,245 @@
+body{ margin:0px; padding:0px; font-size:12px; font-family:Arial;}
+ul,li,dl,dt,dd,form{ margin:0px; padding:0px; list-style-type:none;}
+.fl{ float:left;}
+.fr{ float:right;}
+.cl{ clear:both;}
+a img{ border:none;}
+a{ text-decoration:none;}
+a:hover { color:yellow;}
+.topLink1{ margin-left:17px;}
+.topLink1 li{ float:left;}
+.ulTem1 li{ float:left;}
+
+.top{ background-image:url(topBg2.jpg); width:100%;}
+.box1{ width:1070px; margin:0px auto;}
+.top1{ background-image:url(topBg1.jpg); height:145px; background-position:center; background-repeat:no-repeat;}
+.topL{ width:400px;}
+.topR{ width:580px;}
+
+.countryUl{ float:right; height:30px; display:block;}
+.countryUl li{ float:left; color:#b3b3b3; padding-top:8px; margin-right:7px;}
+.countryUl li a{ color:#b3b3b3;}
+.countryUl li a:hover{ color:#fffc00;}
+
+.topLogin{ float:left; margin-left:17px; height:24px;margin-top:25px;}
+.topLogin li{ float:left;color: #ffe4ac;height:24px;margin-right:3px;}
+.topLogin .xx{background: #111;border: 1px solid #666;}
+.topLogin li{ }
+.is-login-wrap{}
+.is-login-wrap li{ float:left;}
+.is-login-wrap li{ margin-right:0px;}
+
+.loginUid{ color: #ffe4ac;width:135px; height:24px;}
+.loginUid input{ background:none; outline:none; border:none; width:80px; margin-left:5px; line-height:24px;}
+.loginPwd{ width:165px; height:24px;margin-right:3px;position: relative;}
+.loginPwd input{ background:none; outline:none; border:none;}
+.forget{position:absolute;right:2px;top:2px;width:50px;height:18px;border:1px solid #222;text-align:center;color:#FFF;background:#888;border-radius:2px;    line-height: 18px;}
+
+.loginCk { width:100px; height:24px;}
+.loginCk input{ background:none; outline:none; border:none;width:60px; margin-left:5px; line-height:21px; float:left;}
+.loginCk img{  float:right;margin-right: 1px;margin-top: 2px;}
+
+.loginRegBtn a{ position:absolute; margin-top:-25px;}
+.topMenu a{ display:block; background-repeat:no-repeat; float:left; background-position-x:0px;}
+.topMenu a{text-align: center;margin: 0 20px;font: 15px/38px "Microsoft YaHei";font-weight:500;color:#FFF;}
+.topMenu a:hover{color:rgb(208, 182, 121);}
+a.menu1{color: #ffc000;}
+a.menu8{color:rgb(208, 182, 121);}
+
+
+
+.indexBanner{ background-image:url(index.jpg); background-repeat:no-repeat; background-position:center; height:504px;}
+.indexMain{ background-image:url(indexBg1.jpg); height:508px;}
+.zxxx{ background-image:url(zxgg1.jpg); background-repeat:no-repeat; height:45px; background-position:center;}
+
+
+.footfoot{}
+.footfoot{ color:#FFFFFF; line-height:25px;}
+.footfoot a{ color:#FFFFFF;}
+.footfoot a:hover{ color:#fffc00;}
+
+/*²ÊÆ±¿ªÊ¼*/
+.banner-attr {
+    height: 239px;
+    width: 1480px;
+    position: absolute;
+    text-align: center;
+    background-position: center;
+}
+
+.common-content-wrap {
+    width: 100%;
+    background: url(/cl/tpl/wishful/ver1/image/main-bg.jpg) repeat-x #9E7920;
+    height: auto;
+    overflow: hidden;
+    padding: 0 0 10px 0px;
+}
+
+.page-lottery-wrap {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    text-align: justify;
+    *text-justify: distribute-all-lines;
+}
+
+    .page-lottery-wrap ul {
+        display: inline-block;
+        *display: inline;
+        zoom: 1;
+        margin-bottom: 20px;
+        width: 321px;
+    }
+
+        .page-lottery-wrap ul li {
+            float: left;
+            width: 321px;
+        }
+
+.page-lottery-list-box {
+    width: 321px;
+    height: 135px;
+    float: left;
+    position: relative;
+    background: url(/cl/tpl/wishful/ver1/image/lottery-box.png) no-repeat;
+    font-family: "å¾®è½¯é›…é»‘";
+}
+
+.lottery-pho-attr {
+    position: absolute;
+    top: 17px;
+    right: 22px;
+}
+
+.lottery-attr {
+    position: absolute;
+    bottom: 8px;
+    color: fff;
+    text-align: center;
+}
+
+.lottery-title {
+    float: left;
+    width: 90px;
+    height: 20px;
+    left: 35px;
+    color: #181818;
+    top: 24px;
+    font-size: 14px;
+}
+
+.lottery-rule-btn {
+    width: 110px;
+    height: 30px;
+    left: 30px;
+    bottom: 41px;
+    line-height: 30px;
+    font-size: 14px;
+}
+/*²ÊÆ±½áÊø*/
+
+/**»ÃµÆÆ¬**/
+/* flexslider */
+.flexslider{position:relative;height:632px;}
+.slides{position:relative;z-index:1;}
+.slides li{height:632px;background-position:center;} 
+.flex-control-nav{position:absolute;bottom:45px;z-index:2;width:100%;text-align:center;}
+.flex-control-nav li{display:inline-block;width:14px;height:14px;margin:0 5px;*display:inline;zoom:1;}
+.flex-control-nav a{display:inline-block;width:14px;height:14px;line-height:40px;overflow:hidden;background:url(../pic/dot.png) right 0 no-repeat;cursor:pointer;}
+.flex-control-nav .flex-active{background-position:0 0;}
+
+.flex-direction-nav{position:absolute;z-index:3;width:100%;top:45%;}
+.flex-direction-nav li a{display:block;width:45px;height:100px;overflow:hidden;cursor:pointer;position:absolute;opacity:0.1;}
+.flex-direction-nav li a:hover{opacity:0.5;}
+.flex-direction-nav li a.flex-prev{left:40px;background:url(../pic/prev.png)  left center no-repeat;}
+.flex-direction-nav li a.flex-next{right:40px;background:url(../pic/next.png) right center no-repeat;}
+
+/* about */
+.mtab-menual li.mtab {
+    background-image:url(/cl/tpl/newtem/tab.png);
+    color: #000;
+    font-weight: bold;
+    height: 23px;
+    line-height: 23px;
+    text-align: center;
+    /*width: 75px;*/
+}
+
+.mtab-menual li {
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    margin-right: 20px;
+    position: relative;
+    text-align: center;
+    padding: 0px 4px;
+}
+
+/*ÅÜ¶¯*/
+#index-bottom-line{background:url(../images/index/index-arrow-line.jpg?=593) repeat-x;height:4px;width:100%;}
+.arrow{position:relative;}
+#arrow-icon{background:url(../images/index/arrow.jpg?=593) no-repeat;width:27px;height:11px;display:block;position:absolute;left:45%;}
+#index-service{height:607px;border-bottom:1px solid #cecece;width:100%;background:#eeeeee;}
+.service-box-attr{width:326px;height:403px;float:left;margin-right:10px;display:inline;margin-top:15px; }
+#index-service .last{margin-right:0px;}
+.service-info-hd{height:97px;width:100%;border-bottom:1px solid #e2e2e2;position:relative;}
+.service-title-attr{width:160px;height:40px;display:block;background:url(globle.png?=593) no-repeat;position:absolute;top:35px;left:33px;}
+.add-icon{background:url(globle.png?=593) no-repeat -187px -1px;height: 52px;position: absolute;right: -1px;top: 25px;width: 42px;}
+.service-title-1{background-position:0px -115px;}
+.service-title-2{background-position:0px -153px;}
+.service-title-3{background-position:0px -195px;}
+.cc-item1 { height: 100px;margin: 24px 0 0 30px;position: relative;width: 260px;}
+.cc-item2{height: 105px;margin: 40px 0 0 25px;position: relative;width: 286px;}
+.cci-btn{height: 19px;position: absolute;right: 0;text-align: right;top: 0;width: 49px;background:url(globle.png?=593) no-repeat 0px -25px;}
+.cci-txt {color: #555555;font-size: 12px;height: 45px;left: 0;position: absolute;text-shadow: 0 1px 0 #FFFFFF;top: 32px;width: 286px;}
+.cci-title{display:none; color: #757575;font-size: 18px;height: 24px;left: 0;line-height: 18px;position: absolute;text-shadow: 0 1px 0 #FFFFFF;top: 0;white-space: nowrap;width: 218px;}
+.cci-avg { display:none; color: #999999;font-size: 12px;height: 12px;left: 0;line-height: 12px;position: absolute;top: 24px;width: 60px;}
+.cci-unit{color: #464445;font-size: 28px;height: 32px;line-height: 34px;position: absolute;right: 0;text-align: center;top: 0;width: 40px; margin-top:0px;}
+.cci-num {color: #464445;font-size: 44px;height: 44px;line-height: 32px;position: absolute;right: 40px;text-align: right;top: 0;width: 80px; margin-top:0px;}
+.load-box{height: 45px;position: absolute;top: 30px;width: 240px;}
+.load-tip{width: 240px; position: relative;}
+.cci-load {background:url(globle.png?=593) no-repeat 0px -244px;height: 8px;left: 0;overflow: hidden;position: absolute;top: 70px;width: 240px;}
+.cntBox{color:#fff;margin:5px;width:26px;text-align:center}
+.SD-tipbox {background-color: #444444;border: 1px solid #444444;font-size: 12px;position: absolute;top: 7px;z-index: 100;}
+.SD-tipbox p {line-height: 1.5;color:#fff;}
+.SD-tipbox .SD-tipbox-down {bottom: 9px;left: 50%;margin-left: -8px;}
+.SD-tipbox .SD-tipbox-direction {position: absolute;}
+.SD-tipbox .SD-tipbox-direction em {color: #444444;}
+.SD-tipbox .SD-tipbox-down span {top: -1px;}
+.SD-tipbox .SD-tipbox-direction span {color: #444444;}
+.SD-tipbox .SD-tipbox-direction em, .SD-tipbox .SD-tipbox-direction span {font-family: Simsun;font-size: 16px;height: 19px;line-height: 21px;overflow: hidden;position: absolute;width: 17px;}
+.load-s {background:url(globle.png?=593) no-repeat 0px -325px;height: 10px;left: 0;position: absolute;top: 0;width: 5px;}
+.load-e {height: 10px;left: 0;overflow: hidden;position: absolute;top: 0;width: 240px;}
+.load-rate {background:url(globle.png?=593) no-repeat 0px -325px;height: 10px;left: -99%;position: absolute;top: 0;width: 240px;}
+.cci-visa {background:url(globle.png?=593) no-repeat 0px -289px;height: 16px;left: 0;position: absolute;top: 24px;width: 50px;}
+.cci-mscd {background:url(globle.png?=593) no-repeat -59px -289px;height: 16px;left: 60px;position: absolute;top: 24px;width: 46px;}
+.cci-agcy {color: #999999;font-size: 12px;height: 12px;left: 0;line-height: 12px;position: absolute;top: 46px;width: 140px;}
+.cci-unit2 {color: #464445;font-size: 28px;height: 32px;line-height: 34px;position: absolute;right: 0;text-align: center;top: 26px;width: 40px;}
+.cci-num2 {color: #464445;font-size: 44px;height: 28px;line-height: 32px;position: absolute;right: 40px;text-align: right;top: 0px;width: 80px;}
+.ff-help {height: 112px;width: 326px;padding:0px 30px;width:266px;!important;}
+.ffh-item {display:inline;float: left;height: 16px;margin: 25px 0 5px 3px;width: 85px;}
+.help-line{border-bottom:1px solid #e2e2e2; height: 112px;}
+.ffhi-a {color: #808080;float: left;height: 16px;line-height: 16px;margin-left: 5px;text-shadow: 0 1px 0 #FFFFFF;white-space: nowrap;width: 75px;font-size:14px;}
+.cci-band{background:url(../images/common/leb.jpg?=593) no-repeat;width:262px;height:142px;}
+.cci-comper{color: #757575;font-size: 18px;height: 24px;left: 0;line-height: 18px;position: absolute;text-shadow: 0 1px 0 #FFFFFF;top:-30px;white-space: nowrap;width: 120px;}
+.cci_scoll{width:0px; height:0px; overflow:hidden;}
+.cci_scoll div{width:10px; height:10px; overflow:scroll;}
+.cci_scoll div div{width:10px; height:9999px;}
+/*ÅÜ¶¯ end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

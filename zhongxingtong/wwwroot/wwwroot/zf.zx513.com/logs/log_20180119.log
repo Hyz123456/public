@@ -1,0 +1,170 @@
+/pay/fmt_kj/ajax.php
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'xieyi' cannot be null
+INSERT INTO wy_xieyi (yinhang,xieyi,dingdan) VALUES(?,?,?)
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2018-01-19 00:06:09
+222.182.62.148
+
+/pay/fmt_kj/ajax.php
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'xieyi' cannot be null
+INSERT INTO wy_xieyi (yinhang,xieyi,dingdan) VALUES(?,?,?)
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2018-01-19 00:08:19
+222.182.62.148
+
+/pay/fmt_kj/ajax.php
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'xieyi' cannot be null
+INSERT INTO wy_xieyi (yinhang,xieyi,dingdan) VALUES(?,?,?)
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2018-01-19 00:08:49
+222.182.62.148
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 09:37:24
+61.151.218.119
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 10:31:15
+171.44.163.158
+
+/index.php/pay/jhz_qq/helloweba.png
+/controller/pay load fail.
+2018-01-19 11:07:38
+218.201.82.172
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 11:08:48
+183.3.227.102
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 11:09:18
+183.3.227.102
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 11:36:24
+106.2.234.11
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 11:36:36
+106.2.234.11
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 11:42:59
+117.136.38.45
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 11:43:23
+117.136.38.45
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 11:53:36
+117.136.38.45
+
+/index.php/beilai/login
+/controller/beilai load fail.
+2018-01-19 12:17:26
+36.102.228.92
+
+/index.php/beilai/login
+/controller/beilai load fail.
+2018-01-19 12:18:18
+36.102.228.92
+
+/index.php/beilai/login
+/controller/beilai load fail.
+2018-01-19 12:18:26
+61.129.10.43
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2018-01-19 13:24:26
+27.15.131.177
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:41:57
+106.2.234.11
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:41:57
+106.2.234.11
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:44:46
+27.9.174.210
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:46:33
+101.199.108.118
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:46:56
+101.199.108.118
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 13:48:45
+182.118.20.146
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2018-01-19 15:23:04
+106.80.199.34
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 15:27:13
+116.50.137.229
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 15:33:14
+116.50.137.229
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 17:28:20
+223.104.106.97
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 17:28:24
+106.2.234.11
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 17:38:14
+223.104.106.97
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 18:41:29
+110.83.149.135
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2018-01-19 21:35:51
+223.104.106.1
+

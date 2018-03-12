@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>订单通知</title>
+<style>
+span{color:red}
+</style>
+<script src="/static/common/jquery.min.js"></script>
+</head>
+<body>
+<input type="text" name="t" value="30">
+<input type="submit" value="开始通知">
+<input type="button" name="stop" value="停止">
+<p>当前通知时间间隔：<span id="time"></span> 秒 当前通知状态：<span id="status"></span></p>
+<div id="content">
+    <span class="stime"></span> <span class="etime"></span>
+</div>
+
+<script>
+$(function(){
+    $('#time').text($.trim($('[name=t]').val()));
+	$('#status').text('通知停止');
+});
+var int;
+$('[type=submit]').click(function(){
+    $('#content .stime').text('开始：'+new Date());
+    $('#time').text($.trim($('[name=t]').val()));
+	$('#status').text('正在通知');
+	$('#status').css({'color':'green'});
+	var t=$.trim($('[name=t]').val());
+    int=window.setInterval("send()",t*1000);
+});
+
+$('[name=stop]').click(function(){
+    window.clearInterval(int);
+    $('#status').text('停止');
+	$('#status').css({'color':'red'});
+});
+
+function send(){
+    $.post('/ordernotify',{t:new Date().getTime()},function(ret){
+	    if(ret.status=='1'){
+            $('#content .etime').text('当前：'+ret.etime);
+            //$('#content p:first').prepend('<p>stime=>'+ret.stime+' etime=>'+ret.etime+' time=>'+ret.time+'</p>');
+		}
+	},'json');
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<div style="display:none" id="orderInfo">
+    <div class="ico_title">支付测试</div>
+    <div class="form_wrap account">
+	<div class="form_list">
+            <span class="list_title">商户号：</span>
+            <span class="list_val">
+                <input name="MerchantNo" value="8000000000035" readonly maxlength="32" size="32" placeholder="长度32">
+            </span>
+            <i>*</i><em>平台分配</em>
+        </div>
+        <div class="form_list">
+            <span class="list_title">外部订单号：</span>
+            <span class="list_val">
+                <input name="OutTradeNo" value="24234234234" maxlength="32" size="32" placeholder="长度32">
+            </span>
+            <i>*</i><em>长度32</em>
+        </div>
+        <div class="form_list">
+            <span class="list_title">商品名称：</span>
+            <span class="list_val">
+                <input name="Body" value="测试购买商品" maxlength="100" size="100" placeholder="">
+            </span>
+            <i>*</i><em>长度100</em>
+        </div>
+        <div class="form_list">
+            <span class="list_title">商品介绍：</span>
+            <span class="list_val">
+                <input name="Attach" value="附加信息" maxlength="200" size="200" placeholder="">
+            </span>
+        </div>
+        <div class="form_list">
+            <span class="list_title">支付通道：</span>
+            <span class="list_val">
+                <select name="PayWay">
+                        <option value="10000168">234</option>
+                        <option value="10000168">微信</option>
+                        <option value="10000169">支付宝</option>
+                        <option value="10000170">QQ</option>
+                    </select>
+            </span>
+            <i>*</i><em>下拉选择</em>
+        </div>
+        <div class="form_list">
+            <span class="list_title">金额：</span>
+            <span class="list_val">
+                <input name="Amount" value="1000" placeholder="单位：分">
+            </span>
+            <i>*</i><em>单位：分 整型</em>
+        </div>
+        <div class="form_list">
+            <span class="list_title">备注：</span>
+            <span class="list_val">
+                <input name="Remark" value="" placeholder="">
+            </span>
+        </div>
+        <input type="hidden" name="Key" value="234234234"><!--商户密钥-->
+		<input type="hidden" name="NotifyUrl" value="http://zf.byaob.com/pay/zyf_weixin/result.php"><!--商户密钥-->
+        <div class="form_list">
+            <span class="list_title"></span>
+            <span id="tijiao" class="list_val submit btn btn_blue">确定</span>
+        </div>
+    </div>
+</div>

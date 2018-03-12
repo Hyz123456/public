@@ -1,0 +1,3540 @@
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:25
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:25
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:25
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:25
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:43:25
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:41
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:41
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:41
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:43:41
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:43:41
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:18
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:18
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:18
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:18
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:44:18
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:19
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:19
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:19
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:44:19
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:44:20
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:09
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:09
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:09
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:09
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:46:09
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:10
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:10
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:10
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:46:10
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:46:10
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:49:15
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:49:15
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:49:15
+121.69.103.38
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 00:49:15
+121.69.103.38
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 00:49:15
+121.69.103.38
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:11:11
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:11:11
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:11:11
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/usership
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT sum(realmoney*uprice) as income FROM wy_orders where is_state=? and is_ship=? and userid=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:16:00
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:16:01
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 01:16:02
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:16:56
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:16:57
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:16:59
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:16:59
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:12
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:12
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:15
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:18
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:20
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:25
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:25
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:29
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:29
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:31
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:48
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:17:48
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:08
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:08
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:13
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:21
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:21
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:30
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:32
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:32
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:39
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:44
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:49
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:51
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:54
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:54
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:59
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orderinfo' is marked as crashed and should be repaired
+DELETE FROM wy_orderinfo where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:18:59
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 01:19:05
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 01:19:55
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 01:19:55
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 01:19:55
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:19:56
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:19:59
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:05
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:09
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.remark from wy_orders a LEFT JOIN wy_orderinfo b ON b.id=a.orderinfoid where a.addtime>=? and a.addtime<=?   ORDER BY a.id desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]118
+[class]WY\app\libs\Model
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orders' is marked as crashed and should be repaired
+SELECT sum(a.total_fee) as money FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=? and a.is_state=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orders' is marked as crashed and should be repaired
+SELECT sum(a.realmoney) as money FROM wy_orders a where a.addtime>=? and a.addtime<=? and a.is_state=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orders' is marked as crashed and should be repaired
+SELECT sum(a.realmoney*a.uprice) as money FROM wy_orders a where a.addtime>=? and a.addtime<=? and a.is_state=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1194 Table 'wy_orders' is marked as crashed and should be repaired
+SELECT sum((a.wprice-IF(a.gprice>0,a.gprice,a.uprice))*realmoney) as money FROM wy_orders a where a.addtime>=? and a.addtime<=? and a.is_state=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 01:20:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:23
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:25
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:28
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:30
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:31
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:37
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:44
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 01:20:45
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 01:20:45
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 01:20:45
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:49
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:49
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:49
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:20:49
+175.161.158.20
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 01:20:49
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:21:25
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:21:25
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:21:25
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:21:25
+175.161.158.20
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 01:21:25
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zf\wy_orders.MYI'; try to repair it
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 01:21:27
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:17
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:17
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:17
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:17
+123.151.77.91
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 09:28:17
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:25
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:47
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:47
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:47
+123.151.77.91
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 09:28:47
+123.151.77.91
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 09:28:47
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:40:31
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:40:31
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:40:31
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:40:31
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 20:40:32
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:41:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:41:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:41:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:41:12
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 20:41:13
+106.2.234.13
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-18 20:42:11
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:35
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:35
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:41
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 20:43:42
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:47
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:47
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:47
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:49
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:43:50
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:21
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:21
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:21
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:44
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:45
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:45
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:45
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:48
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:48
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:48
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:56
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:56
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:56
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:57
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:44:57
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:44:57
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:47:16
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:47:16
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:47:16
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:47:16
+175.161.158.20
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 20:47:18
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:48:53
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:48:53
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:48:53
+175.161.158.20
+
+/index.php/bielai/users/del
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+DELETE FROM wy_orders where userid=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]217
+[class]WY\app\libs\Db
+2017-12-18 20:49:18
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:49:20
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 20:49:25
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 20:49:25
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 20:49:25
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 20:49:26
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 20:49:26
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 20:49:26
+175.161.158.20
+
+/index.php/static/assets/css/app1.css
+/controller/static load fail.
+2017-12-18 20:49:46
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:50:52
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:50:52
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:50:52
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-18 20:51:10
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-18 20:51:10
+175.161.158.20
+
+/index.php/bielai/ordersua
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-18 20:51:10
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:51:19
+175.161.158.20
+
+/index.php/bielai/orders
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:51:20
+175.161.158.20
+
+/index.php/view/editor4/kindeditor-min.js
+/controller/view load fail.
+2017-12-18 20:51:46
+175.161.158.20
+
+/index.php/view/editor4/lang/zh_CN.js
+/controller/view load fail.
+2017-12-18 20:51:46
+175.161.158.20
+
+/index.php/bielai/ordernotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select * from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid where a.addtime >= ? AND a.addtime <= ?    
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordernotify.php
+[line]57
+[class]WY\app\libs\Model
+2017-12-18 20:51:47
+175.161.158.20
+
+/index.php/bielai/ordernotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid where a.addtime >= ? AND a.addtime <= ?   ORDER BY a.id desc LIMIT 0,20
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\ordernotify.php
+[line]63
+[class]WY\app\libs\Model
+2017-12-18 20:51:47
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:52:18
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:52:18
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:52:18
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:52:20
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 20:52:20
+175.161.158.20
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 20:52:20
+175.161.158.20
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:33
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:33
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:33
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:33
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:07:34
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:08:02
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:08:02
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:08:02
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:12
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:12
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:10:13
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:13
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:13
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:13
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:13
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:10:14
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:10:35
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:10:36
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:06
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:11:07
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:15
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:15
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:15
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:15
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:11:16
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:16
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:16
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:16
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:11:16
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:11:17
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:17:31
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:31
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:17:31
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:17:32
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:32
+106.2.234.13
+
+/index.php/member
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-18 21:17:32
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:38
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:38
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:38
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:38
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:17:38
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:40
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:40
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:40
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:40
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:17:44
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:48
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:48
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:48
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:48
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:17:48
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:57
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:57
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:57
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:17:57
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:17:58
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:10
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:32:11
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:35
+106.2.234.13
+
+/index.php/bielai/
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\zf.zx513.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-18 21:32:35
+106.2.234.13
+
+/index.php/bielai/orders/getnotify
+error in D:\wwwroot\zf.zx513.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zf\wy_orders' is marked as crashed and should be repaired
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\zf.zx513.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-18 21:32:36
+106.2.234.13
+

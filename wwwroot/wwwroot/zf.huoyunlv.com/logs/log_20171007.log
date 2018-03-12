@@ -1,0 +1,150 @@
+/index.php/images/30ps_com_06.jpg
+/controller/images load fail.
+2017-10-07 01:07:14
+113.82.191.218
+
+/index.php/images/30ps_com_06.jpg
+/controller/images load fail.
+2017-10-07 02:33:58
+113.82.191.218
+
+/index.php/dedecms/data/admin/ver.txt
+/controller/dedecms load fail.
+2017-10-07 04:42:08
+66.188.18.226
+
+/index.php/images/30ps_com_06.jpg
+/controller/images load fail.
+2017-10-07 10:52:02
+175.7.43.0
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:20:25
+117.24.161.58
+
+/index.php/houtai
+/controller/houtai load fail.
+2017-10-07 16:20:53
+117.24.161.58
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:52:26
+125.84.81.84
+
+/index.php/demo/images/favicon.ico
+/controller/demo load fail.
+2017-10-07 16:52:27
+125.69.67.109
+
+/index.php/apisubmit
+/controller/apisubmit load fail.
+2017-10-07 16:52:47
+125.69.67.109
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:02
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:10
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:13
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:21
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:25
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:28
+125.84.81.84
+
+/index.php/static/common/glyphicons-halflings-regular.eot
+/controller/static load fail.
+2017-10-07 16:53:36
+125.84.81.84
+
+/index.php/apisubmit
+/controller/apisubmit load fail.
+2017-10-07 16:53:58
+125.69.67.109
+
+/index.php/apisubmit
+/controller/apisubmit load fail.
+2017-10-07 16:54:14
+125.69.67.109
+
+/index.php/images/30ps_com_06.jpg
+/controller/images load fail.
+2017-10-07 18:22:47
+223.150.172.1
+
+/index.php/demo/images/favicon.ico
+/controller/demo load fail.
+2017-10-07 23:22:45
+119.4.212.100
+
+/index.php/apisubmit
+error in E:\www.i12i.com\app\libs\Db.php 80
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.aclid' in 'field list'
+select a.id,a.acpcode,a.gateway,a.is_state,b.is_state as is_state_acc,b.channelid,a.aclid from wy_acc a LEFT JOIN wy_userprice b ON b.channelid=a.id where b.userid=? and a.acwid=?    
+[file]E:\www.i12i.com\app\controller\apisubmit.php
+[line]76
+[class]WY\app\libs\Model
+2017-10-07 23:40:58
+119.4.212.100
+
+/index.php/apisubmit
+error in E:\www.i12i.com\app\libs\Db.php 80
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.aclid' in 'field list'
+select a.id,a.acpcode,a.gateway,a.is_state,b.is_state as is_state_acc,b.channelid,a.aclid from wy_acc a LEFT JOIN wy_userprice b ON b.channelid=a.id where b.userid=? and a.acwid=?    
+[file]E:\www.i12i.com\app\controller\apisubmit.php
+[line]76
+[class]WY\app\libs\Model
+2017-10-07 23:41:03
+119.4.212.100
+
+/index.php/demo/images/favicon.ico
+/controller/demo load fail.
+2017-10-07 23:41:44
+119.4.212.100
+
+/index.php/demo/images/favicon.ico
+/controller/demo load fail.
+2017-10-07 23:50:05
+119.4.212.100
+
+/index.php/archiver/tid-630.html
+/controller/archiver load fail.
+2017-10-07 23:55:25
+42.236.12.170
+
+/index.php/archiver/tid-93.html
+/controller/archiver load fail.
+2017-10-07 23:55:25
+180.153.236.165
+
+/index.php/archiver/tid-640.html
+/controller/archiver load fail.
+2017-10-07 23:55:26
+42.236.12.130
+
+/index.php/demo/images/favicon.ico
+/controller/demo load fail.
+2017-10-07 23:57:47
+119.4.212.100
+

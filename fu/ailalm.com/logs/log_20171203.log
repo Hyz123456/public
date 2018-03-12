@@ -1,0 +1,1155 @@
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 126 Incorrect key file for table '.\zhifu\wy_orders.MYI'; try to repair it
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:16:04
+117.136.47.175
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:16:08
+112.17.245.177
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:16:48
+36.98.69.99
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:17:04
+118.115.72.190
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:17:19
+118.115.72.190
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:17:41
+36.98.69.99
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:18:01
+123.151.77.72
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '49635' for key 'PRIMARY'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:18:14
+36.98.69.99
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:23:27
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:23:27
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:23:27
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:24:11
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:24:11
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:24:11
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:24:37
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:24:37
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 10:24:37
+218.75.55.4
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 10:30:45
+123.56.219.12
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:00:53
+106.38.134.168
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:00:53
+106.38.134.168
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:00:53
+106.38.134.168
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:00:59
+106.38.134.168
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:01:07
+106.38.134.168
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:46:08
+106.80.196.47
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:46:08
+106.80.196.47
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:46:08
+106.80.196.47
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 11:52:10
+42.156.251.194
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 11:52:13
+42.156.251.194
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:09
+124.109.18.223
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and is_state<? and addtime>=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 11:59:09
+124.109.18.223
+
+/index.php/member
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:09
+124.109.18.223
+
+/index.php/member/takecash
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:12
+124.109.18.223
+
+/index.php/member/takecash
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime>=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:12
+124.109.18.223
+
+/index.php/member/takecash
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:12
+124.109.18.223
+
+/index.php/member/takecash/getFee
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:15
+124.109.18.223
+
+/index.php/member/takecash/getFee
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT sum(realmoney*uprice) as income FROM wy_orders where userid=? and is_state=? and is_ship=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 11:59:17
+124.109.18.223
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:46
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:46
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:46
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:58
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:58
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:03:58
+112.65.48.34
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 12:16:14
+117.136.39.208
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 12:16:36
+117.136.39.208
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:17
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:17
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:17
+112.65.48.34
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:37
+106.38.134.168
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:37
+106.38.134.168
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:37
+106.38.134.168
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:23:44
+106.38.134.168
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:24:05
+106.38.134.168
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:24:36
+106.38.134.168
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:30:51
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:30:51
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:30:51
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:30:55
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:12
+106.80.195.64
+
+/index.php/laiba/ordersua
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select userid from wy_orders  where addtime>=? and addtime<=? GROUP BY userid   
+[file]D:\wwwroot\ailalm.com\app\controller\admfor035\ordersua.php
+[line]62
+[class]WY\app\libs\Model
+2017-12-03 12:31:18
+106.80.195.64
+
+/index.php/laiba/ordersua
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc LIMIT 0,20
+[file]D:\wwwroot\ailalm.com\app\controller\admfor035\ordersua.php
+[line]69
+[class]WY\app\libs\Model
+2017-12-03 12:31:18
+106.80.195.64
+
+/index.php/laiba/ordersua
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select userid,sum(total_fee) as total_fee,count(userid) as total_orders,sum(realmoney*uprice) as total_income,sum((wprice-IF(gprice>0,gprice,uprice))*realmoney) as pt_income from wy_orders  where addtime>=? and addtime<=? GROUP BY userid  ORDER BY userid desc 
+[file]D:\wwwroot\ailalm.com\app\controller\admfor035\ordersua.php
+[line]70
+[class]WY\app\libs\Model
+2017-12-03 12:31:18
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:21
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:26
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:26
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:26
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:36
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:31:57
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:32:11
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:32:12
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:32:55
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:32:55
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 12:32:55
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:33:08
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:33:08
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 12:33:08
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:33:21
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:33:21
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 12:33:21
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:13
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:21
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:23
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:23
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:24
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 12:35:25
+106.80.195.64
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 12:37:07
+183.3.226.234
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 145 Table '.\zhifu\wy_orders' is marked as crashed and should be repaired
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 12:39:25
+183.3.226.234
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'accounts' in 'field list'
+INSERT INTO wy_orders (userid,accounts,agentid,orderid,acpcode,sdorderno,total_fee,channelid,addtime,lastime,is_paytype,orderinfoid) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]199
+[class]WY\app\libs\Db
+2017-12-03 12:43:24
+106.80.195.64
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:18:47
+124.109.18.223
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:18:55
+124.109.18.223
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:18:57
+124.109.18.223
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:18:59
+124.109.18.223
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:19:02
+124.109.18.223
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 13:19:04
+124.109.18.223
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 17:28:31
+115.239.212.9
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 18:21:45
+42.156.250.242
+
+/pay/dlb_dalipay/send.php
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+select * from wy_orders  where orderid=?    
+[file]D:\wwwroot\ailalm.com\app\model\Handleorder.php
+[line]65
+[class]WY\app\libs\Model
+2017-12-03 18:21:50
+42.156.250.242
+
+/index.php/login
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+select * from wy_users  where left(salt,20)=?    
+[file]D:\wwwroot\ailalm.com\app\model\Verifyuser.php
+[line]34
+[class]WY\app\libs\Model
+2017-12-03 18:59:35
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_payments' doesn't exist
+SELECT COUNT(*) AS num FROM wy_payments where is_state=? and ship_type=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_payments' doesn't exist
+SELECT sum(money) as money FROM wy_payments where is_state=? and ship_type=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_payments' doesn't exist
+SELECT COUNT(*) AS num FROM wy_payments where is_state=? and ship_type=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_payments' doesn't exist
+SELECT sum(money) as money FROM wy_payments where is_state=? and ship_type=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]209
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+SELECT COUNT(*) AS num FROM wy_users where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+SELECT COUNT(*) AS num FROM wy_users where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+SELECT COUNT(*) AS num FROM wy_users where is_state=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+SELECT COUNT(*) AS num FROM wy_users where is_agent=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where is_state=? and addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where addtime>=? and addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/orders/getnotify
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+select a.*,b.orderid from wy_ordernotify a LEFT JOIN wy_orders b ON b.id=a.orid    ORDER BY a.id desc LIMIT 10
+[file]D:\wwwroot\ailalm.com\app\controller\admfor035\orders.php
+[line]169
+[class]WY\app\libs\Model
+2017-12-03 19:00:08
+106.80.195.64
+
+/index.php/laiba/orders
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders a where a.addtime>=? and a.addtime<=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:10
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:34
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+select * from wy_users  where id=?    
+[file]D:\wwwroot\ailalm.com\app\controller\api.php
+[line]60
+[class]WY\app\libs\Model
+2017-12-03 19:00:34
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:00:53
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+select * from wy_users  where id=?    
+[file]D:\wwwroot\ailalm.com\app\controller\api.php
+[line]60
+[class]WY\app\libs\Model
+2017-12-03 19:00:53
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[HY000]: General error: 1017 Can't find file: 'wy_orders' (errno: 2)
+SELECT COUNT(*) AS num FROM wy_orders where userid=? and sdorderno=?
+[file]D:\wwwroot\ailalm.com\app\libs\Model.php
+[line]204
+[class]WY\app\libs\Db
+2017-12-03 19:02:08
+106.80.195.64
+
+/index.php/apisubmit
+error in D:\wwwroot\ailalm.com\app\libs\Db.php 80
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zhifu.wy_users' doesn't exist
+select * from wy_users  where id=?    
+[file]D:\wwwroot\ailalm.com\app\controller\api.php
+[line]60
+[class]WY\app\libs\Model
+2017-12-03 19:02:08
+106.80.195.64
+
+/index.php/demo/need/layer.css
+/controller/demo load fail.
+2017-12-03 20:24:56
+122.224.9.96
+
+/index.php/style/images/ny.jpg
+/controller/style load fail.
+2017-12-03 21:48:34
+36.102.208.117
+
+/index.php/static/images/header-profile.png
+/controller/static load fail.
+2017-12-03 23:35:58
+124.109.18.223
+

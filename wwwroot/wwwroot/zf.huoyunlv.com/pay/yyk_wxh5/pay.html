@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="description"
+	content="作为第三方金融服务提供商，与工商银行、招商银行、建设银行、农业银行、民生银行等多家国 内银行及VISA、MasterCard外卡组织紧密合作，为个人客户提供在线支付、电话支付、虚拟账户理财服务， 为企业商户提供银行网关支付、代收代付、委托结算以及B2B转款等多项增值业务。">
+<link href="css/test.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<table width="50%" border="0" align="center" cellpadding="0"
+	cellspacing="0" style="border: solid 1px #107929">
+	<tr>
+		<td>
+		<table width="100%" border="0" align="center" cellpadding="5"
+			cellspacing="1">
+			</tr>
+
+			<tr>
+				<td height="30" colspan="2" bgcolor="#6BBE18"><span
+					style="color: #FFFFFF">感谢您使用平台</span></td>
+			</tr>
+			<tr>
+				<td colspan="2" bgcolor="#CEE7BD">产品通用支付接口演示：</td>
+			</tr>
+			<form method="post" action="pay.php" targe="_blank">
+			 
+			 <tr>
+				<td align="left">&nbsp;&nbsp;银行编码</td>
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="bankCode" id="bankCode" placeholder="银行编码" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;"></span>
+				</td>
+			</tr>
+
+			<tr>
+				<td align="left" width="30%">&nbsp;&nbsp;充值卡号</td>
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="cardNo" id="cardNo" placeholder="充值卡号" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;"></span></td>
+			</tr>
+
+			<tr>
+				<td align="left">&nbsp;&nbsp;充值卡密码</td>
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="cardPwd" id="cardPwd" placeholder="充值卡密码" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;"></span></td>
+			</tr>
+
+
+			<tr>
+				<td align="left">&nbsp;&nbsp;商品信息</td>
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="memberGoods" id="memberGoods" placeholder="商品信息" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span></td>
+			</tr>
+
+
+			
+			<tr>
+				<td align="left">&nbsp;&nbsp;异步通知地址</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="noticeSysaddress" id="noticeSysaddress" placeholder="异步通知地址" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span>
+			</tr>
+			<tr>
+				<td align="left">&nbsp;&nbsp;同步跳转地址</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="noticeWebaddress" id="noticeWebaddress" placeholder="同步跳转地址" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;"></span>
+			</tr>
+
+			<tr>
+				<td align="left">&nbsp;&nbsp;产品编码</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="productNo" id="productNo" placeholder="产品编码" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span>
+			</tr>
+			<tr>
+				<td align="left">&nbsp;&nbsp;订单金额</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="requestAmount" id="requestAmount" placeholder="订单金额" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span>
+			</tr>
+			<tr>
+				<td align="left">&nbsp;&nbsp;商户编号</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="trxMerchantNo" id="trxMerchantNo" placeholder="商户编号" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span>
+			</tr>
+			<tr>
+				<td align="left">&nbsp;&nbsp;商户订单号</td>
+				<!--<td align="left">&nbsp;&nbsp;<input type="text" name="p_Type" /> -->
+				<td align="left">&nbsp;&nbsp;<input size="50" type="text"
+					name="trxMerchantOrderno" id="trxMerchantOrderno" placeholder="商户订单号" />&nbsp;<span
+					style="color: #FF0000; font-weight: 100;">*</span>
+			</tr>
+								
+			<tr>
+				<td align="left">&nbsp;</td>
+				<td align="left">&nbsp;&nbsp;<input type="submit" value="马上支付" /></td>
+			</tr>
+			</form>
+			<tr>
+				<td height="5" bgcolor="#6BBE18" colspan="2"></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+</body>
+</html>

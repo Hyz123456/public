@@ -1,0 +1,1 @@
+﻿ alert('添加失败,二维码重复上传');var index = parent.layer.getFrameIndex(window.name);parent.layer.close(index);

@@ -1,0 +1,132 @@
+*{ margin:0; padding:0; }
+li{ list-style: none; }
+img{ border: none;  vertical-align: baseline; }
+a{ text-decoration: none; }
+body {
+    font-family: Arial,Sans-Serif;
+    color: #333;
+    font-size: 12px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 1024px !important; margin: auto;
+}
+
+#head_top {
+	width: auto;
+	padding-top: 26px;
+	overflow: hidden;
+    background: #8A4102 url(../images/head_bg_ft.jpg) repeat-x left top;
+    border-bottom: 1px solid #fff;
+}
+.head_left {
+	float: left;
+	width: 240px;
+	text-align: center;
+	color: #fff;
+}
+.head_left p:nth-of-type(1){ font-weight: bold; }
+.head_right {
+	width: 760px;
+	float: right;
+	overflow: hidden;
+}
+.head_right a {
+	float: left;
+	width: 116px;
+	height: 37px;
+	margin-right: 3px;
+	background: #493218;
+	line-height: 37px;
+	text-align: center;
+	color: #E7B565;
+	font-weight: bold;
+	font-size: 14px;
+}
+.head_right a:hover {
+	color: #F8C100;
+}
+
+.head_right a.active {
+	background: #850E02;
+	color: #F8C100;
+}
+#head_bottom {
+	width: 100%;
+	background: #493721;
+	overflow: hidden;
+}
+
+.money_reload {
+	float: left;
+	width: 240px;
+	font-weight: bold;
+	padding: 5px 0;
+	margin-top: 30px;
+	text-indent: 50px;
+	color: #fff;
+    background: url(../images/head_credit_icon.gif) no-repeat 12px top;
+}
+.money_reload .reload{
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin-left: 5px;
+	cursor: pointer;
+	vertical-align: bottom;
+	background-image: url(../images/head_credit_refresh.gif);
+}
+.money_reload .reload:hover { background-position: 0 bottom; }
+
+.bisai {
+	float: right;
+	width: 782px;
+	overflow: hidden;
+	border-left: 1px solid #fff;
+	display: none;
+}
+#head_bottom>div.active { display: block; }
+.bisai>div{
+	width: 100%;
+	border-top: 1px solid #fff;
+	height: 28px;
+	line-height: 28px;
+	background: #5D370B;
+	overflow: hidden;
+	color: #fff;
+}
+.bisai>div:nth-of-type(1){
+	border-top: none;
+}
+
+.bisai .bisai_bottom { display: none; background: #260707; }
+.bisai .bisai_bottom.active { display: block;}
+.bisai:nth-last-of-type(1) .bisai_top{ height: 56px !important; }
+.bisai_top a, .bisai_bottom a {
+	display: inline-block;
+	color: #fff;
+	padding-left: 20px;
+	margin-left: 10px;
+}
+.bisai_top a:nth-of-type(1){background: url(../images/head_ball_ft.gif) no-repeat 0 50%; }
+.bisai_top a:nth-of-type(2){background: url(../images/head_ball_bk.gif) no-repeat 0 50%; }
+.bisai_top a:nth-of-type(3){background: url(../images/head_ball_tn.gif) no-repeat 0 50%; }
+.bisai_top a:nth-of-type(4){background: url(../images/head_ball_vb.gif) no-repeat 0 50%; }
+.bisai_top a:nth-of-type(5){background: url(../images/head_ball_bs.gif) no-repeat 0 50%; }
+
+.bisai_top a:hover, .bisai_bottom a:hover {
+	color: #F9C100;
+}
+
+.bisai_top a.active, .bisai_bottom a.active {
+	color: #F9C100;
+}
+
+
+.bisai_bottom a {
+	background: none;
+	padding: 0;
+}
+.bisai_bottom a:nth-last-of-type(1){ float: right; margin-right: 30px;}
+#bet_div{
+	background: rgb(227, 207, 170);
+}

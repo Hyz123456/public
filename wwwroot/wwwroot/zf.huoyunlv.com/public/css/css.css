@@ -1,0 +1,29 @@
+body{background: #f2f2f2;}
+
+
+.tpl-login{
+    padding: 30px 30px 30px;
+    background-color: #fff;
+    border-radius: 4px;
+	margin-top:90px;
+	border: 1px solid #e6e6e6;
+}
+
+.tpl-login-logo{
+background: url(../img/logo.png) center no-repeat;
+max-width: 159px;
+    height: 205px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.layui-form-item .layui-btn{width:100%;background-color: #32c5d2;margin-top:10px}
+
+
+.layui-form-onswitch {
+    border-color: #32c5d2;
+    background-color: #32c5d2;
+}
+
+.yanzheng img{width:100%;height:36px}
+.yanzheng{border: 1px solid #e6e6e6;border-left:0;}

@@ -1,0 +1,178 @@
+﻿.divQRCode {
+    margin: 122px 0px 0px 75px;
+    /*border: 1px solid #CECECE;*/
+    width: 288px;
+    height: 288px;
+    position:absolute; left:356px; top:28px;
+}
+
+#imgExample {
+    margin: -440px 84px 0px 84px;
+    float: right;
+    margin-right: 170px;
+}
+
+.divShow div {
+    margin-top: 20px;
+}
+
+    .divShow div span.Hint {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .divShow div span.Contant {
+        float: right;
+        margin-right: 170px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+        .divShow div span.Contant span {
+            color: #f60;
+            font-weight: bold;
+        }
+
+    .divShow div span.Sum {
+        font-size: 13px;
+        line-height: 35px;
+        color: gray;
+    }
+
+.billInfo {
+    list-style: none;
+    font-size: 13px;
+    line-height: 25px;
+    width: 600px;
+}
+
+    .billInfo li {
+        width: 280px;
+        float: left;
+    }
+
+.codeImg {
+    border: 1px solid #a6bbd7;
+    width: 300px;
+    height: 40px;
+    background-color: #fff;
+    background-color: #a6bbd7;
+    line-height: 40px;
+    font-weight: 700;
+    font-family: 'Microsoft YaHei';
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    /*margin: 0px 0px 0px 75px;*/
+    position:absolute; left:-75px; top:-122px;
+}
+
+.divHasPay {
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: 700;
+    font-family: 'Microsoft YaHei';
+    text-align: center;
+    font-size: 15px;
+    margin: 0px 0px 0px 75px;
+}
+
+.divLine {
+    height: 400px;
+    width: 1px;
+    float: left;
+    position: absolute;
+    border-left: 1px solid #eee;
+    margin: -380px 0px 0px 450px;
+}
+
+.divQRCode table {
+    margin: 33px;
+}
+
+.divQRCode canvas {
+    /*margin: 33px;*/
+        position:absolute; left:-75px; top:-122px;
+}
+
+#divQRCode {
+    width: 300px;
+    height: 300px;
+}
+
+    #divQRCode table {
+        /*margin: 21px;*/
+        margin: 42px 42px 13px 42px;
+    }
+
+    #divQRCode canvas {
+        /*margin: 21px;*/
+        /*margin: 42px 42px 13px 42px;*/
+            position:absolute; left:-75px; top:-122px;
+    }
+
+.paySuccessBtn,.linkService {
+    display: block;
+    border: 1px solid #0fa4db;
+    background-color: #00aeef;
+    width: 140px;
+    height: 31px;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    font-weight: normal;
+    float:left;
+    outline:none;
+    cursor:pointer;
+    font-family: Arial;
+}
+.linkService {
+    line-height:29px;
+    margin-right: 13px;
+    text-decoration:none;
+    width:139px;
+    height:29px;
+}
+    .linkService:hover {
+        color:white;
+        text-decoration:none;
+    }
+
+.view-switch {
+    width: 146px;
+    height: 400px;
+    padding-top: 126px;
+    cursor: pointer;
+    position: relative;
+    margin: -450px -570px 0px 0px;
+}
+
+.fn-left {
+    float: right;
+}
+
+.switch-tip {
+    text-align: center;
+}
+
+.switch-tip-btn {
+    display: block;
+    width: 106px;
+    height: 36px;
+    margin: 6px auto 0;
+    border: 1px solid #0fa4db;
+    background-color: #00aeef;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+    .switch-tip-btn:hover {
+        color: #fff;
+        text-decoration: none;
+    }

@@ -1,0 +1,81 @@
+﻿.divQRCode {
+    margin: 122px 0px 0px 75px;
+    border: 1px solid #CECECE;
+    width: 300px;
+    height: 300px;
+}
+
+#imgExample {
+    margin: -380px 84px 0px 84px;
+    float: right;
+}
+
+.divShow div {
+    margin-top: 20px;
+}
+
+    .divShow div span.Hint {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .divShow div span.Contant {
+        float: right;
+        margin-right: 170px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+        .divShow div span.Contant span {
+            color: #f60;
+            font-weight: bold;
+        }
+
+    .divShow div span.Sum {
+        font-size: 13px;
+        line-height: 35px;
+        color: gray;
+    }
+
+.billInfo {
+    list-style: none;
+    font-size: 13px;
+    line-height: 25px;
+    width: 600px;
+}
+
+    .billInfo li {
+        width: 280px;
+        float: left;
+    }
+
+#ifeQRCode {
+    width: 300px;
+    height: 300px;
+    border: none;
+    display: none;
+}
+
+.codeImg {
+    border: 1px solid #a6bbd7;
+    width: 300px;
+    height: 40px;
+    background-color: #fff;
+    background-color: #a6bbd7;
+    line-height: 40px;
+    font-weight: 700;
+    font-family: 'Microsoft YaHei';
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    margin: 0px 0px 0px 75px;
+}
+
+.divLine {
+    height: 400px;
+    width: 1px;
+    float: left;
+    position: absolute;
+    border-left: 1px solid #eee;
+    margin: -380px 0px 0px 485px;
+}

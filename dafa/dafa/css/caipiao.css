@@ -1,0 +1,480 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-6-29, 17:17:09
+    Author     : admin
+*/
+input, select, textarea {
+    -webkit-appearance: none;
+}
+html{
+    height: 100%;
+    overflow: hidden;
+}
+body{
+    background: url("/pic/bg.jpg?v=u91dedfdb") no-repeat;
+    position: relative;
+    width:100%;
+    overflow: hidden;
+}
+.seList{
+    position: absolute;
+    transition:200ms ease-in-out;
+    -webkit-transition:200ms ease-in-out;
+    transition:0;
+    z-index: 2;
+    background: url("/pic/bg.jpg?v=u91dedfdb") no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+.seLisT3 .popover-backdrop{
+    display: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(138, 138, 138, 0.25);
+}
+.seLisT3 .active{
+    display: block;
+    
+}
+.popover-backdrop .popover-wrapper{
+    right: 0;
+    position: absolute;
+    top: 0.33rem;
+    background: #FFF;
+    right: 2.5%;
+    border-radius: 5px;
+}
+.popover-backdrop .popover-wrapper .list a{
+        display: block;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.2),0 -1px 0 rgba(0,0,0,.23);
+        padding: 0.1rem;
+        color:#000;
+}
+.popover-backdrop .popover-wrapper .popover-arrow{
+    position: absolute;
+    display: block;
+    top: -0.05rem;
+    width: 0.15rem;
+    height: 0.15rem;
+    overflow: hidden;
+    background: #FFF;
+    right: 10px;
+    border-radius: 3px;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+#seList2{
+transition:200ms ease-in-out;
+-webkit-transition:200ms ease-in-out;
+transform: translate3d(50%, 0px, 0px);
+box-shadow: -1px 0 2px rgba(0,0,0,.2),1px 0 2px rgba(0,0,0,.2);
+}
+.seLisT3 aside{
+    width: inherit;
+    border: none;
+    background:   rgba(255,255,255,.02);     
+    text-indent: 0;
+}
+.seLisT3 aside .lottery_time{
+    color: #FFF;
+    border: none;
+    background: rgba(255,255,255,.02);    
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 0 2.5%;
+    width: 95%;
+    height: 0.3rem;
+    line-height: 0.3rem;
+    text-indent:0;
+}
+
+.seLisT3 aside .lottery_time #typename{
+    background: url("/pic/binding_right.png") right no-repeat;
+    background-size: 1.2em;
+    padding: 1em 1.4em 1em 0;
+}
+
+.seLisT3 aside .lottery_time .span_right{
+        float: right;   
+}
+.seLisT3 aside .lottery_time .span_right #ion-navicon{
+    background: url(/pic/ion-navicon.png) center no-repeat;
+    width: 40px;
+    outline: none;
+    min-height: 29px;
+    border: 0;
+    float: right;
+    height: 0.3rem;
+}
+.seLisT3 .lottery_num{
+    border: none;
+}
+
+.seLisT3 .lottery_num p{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+    width: 95%;
+    padding: 0 2.5%;
+    padding-bottom: 2.5%;
+    height: inherit;
+}
+.seLisT3 .lottery_num p:nth-of-type(1) span{
+    font-size: 1em;
+    color: #fff;
+    margin: 0;
+    margin-right: 0.09rem;
+}
+.seLisT3 .lottery_num p:nth-of-type(1) em{
+    box-shadow: inset 1px -6px 10px #fff;
+    width: 0.19rem;
+    height: 0.19rem;
+    border-radius: .9rem;
+    background: #d5d5d5;
+    margin-left: 0.03rem;
+}
+.lottery_num p:nth-of-type(2){
+    text-indent:0;
+}
+.seLisT3 .lottery_num p:nth-of-type(2) span.uu{
+    float: left;
+    margin: 0 0.05rem 0 0.08rem;
+    margin-left: 0 !important;
+    font-size: 0.14rem;
+    color: #fff;
+    text-indent: 0;
+    margin-right: 0.09rem;
+}
+.seLisT3 .lottery_num p:nth-of-type(2) span.ng-binding{
+    font-size: 0.14rem;
+    color: #fff;
+}
+.seLisT3 .lottery_num p:nth-of-type(2) span#djs{
+    margin-left:0;
+    box-shadow: inset 1px 1px 0 rgba(250,250,250,.22),0 1px 0 rgba(0,0,0,.22);
+    background-color: rgba(250,250,250,.15);
+    padding: 1px 3px;
+    border-radius: 2px 2px 2px 2px;
+    font-size: 0.14rem;
+    color: #fff;
+}
+
+.seLisT3 .lotterListBox{
+    background: none;
+}
+.seLisT3 .lottery_kind{
+    display: none;
+}
+.seLisT3 .lotterListBox{
+    width: inherit;
+    padding: 0;
+}
+.seLisT3 .lotterListBox .lotteryBtn{
+    width: 25%;
+    float: left;
+    background-color: rgba(0,0,0,.15);
+    box-shadow: 1px 0 0 rgba(255,255,255,.48);
+    overflow-y: auto;
+}
+.seLisT3 .lotterListBox .lotteryBtn a{
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.2),0 -1px 0 rgba(0,0,0,.23);
+    padding: 0.05rem 0;
+    background: rgba(250,250,250,.11);
+    text-align: center;
+    border: 0;
+    display: block;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}
+.seLisT3 .lotterListBox .lotteryBtn a .smallround{
+    position: absolute;
+    width: 0.05rem;
+    height: 0.05rem;
+    border-radius: 0.1rem;
+    top: 0.05rem;
+    left: 0.05rem;
+    border-bottom: 1px solid rgba(250,250,250,.5);
+    background-color: rgba(0,0,0,.3);
+}
+.seLisT3 .lotterListBox .lotteryBtn a .menus-choose{
+    background-color: #fffb22;
+    border-bottom: none;
+}
+.seLisT3 .lotterListBox .lotteryBtn a.active{
+    color: #fff;
+    box-shadow: inset -1px 3px 7px rgba(0,0,0,.34);
+    background-color: rgba(0,0,0,.23);
+    border: 0;
+}
+.box nav span{
+    width: 16%;
+    margin:0 0.3%;
+}
+    
+/*.seLisT3 .lotterListBox .numBox p span:nth-of-type(1),.seLisT3 .lotterListBox .numBox p span:nth-of-type(3){
+    width: 0.39rem;
+}
+.seLisT3 .lotterListBox .numBox p span:nth-of-type(2),.seLisT3 .lotterListBox .numBox p span:nth-of-type(4){
+    width: initial;
+}*/
+.seLisT3 p span.bg_red, .box p span.bg_blue, .seLisT3 p span.bg_green{
+    width: 0.25rem !important;
+    box-shadow: inset 1px -6px 10px #fff;
+    height: 0.25rem;
+    border-radius: .9rem;
+    background: #d5d5d5;
+    margin-left: 0.03rem;
+    line-height: 0.25rem;
+    font-size: 0.14rem;
+}
+.seLisT3 .lotterListBox .numBox{
+    box-shadow: 1px 0 0 rgba(255,255,255,.48);
+    float: right;
+    color: #FFF;
+    overflow-y:auto; 
+}
+.seLisT3 .lotterListBox .numBox nav{
+    border-bottom: 1px solid rgba(255,255,255,.4);
+}
+.seLisT3 .lotterListBox .numBox nav span{
+    width: 100% !important;
+    font-size: 0.15rem !important;
+}
+.seLisT3 .lotterListBox .numBox nav:nth-of-type(1){
+    display: none;
+}
+.box p input{
+    display: none;
+}
+.seLisT3 .lotterListBox .numBox nav:nth-of-type(2) span{
+    width: 100%;
+    font-size: 0.15rem;
+}
+.seLisT3 .lotterListBox .numBox nav span b.jcoloer{
+    color: #000;
+}
+.seLisT3 .lotterListBox .numBox nav:nth-of-type(3) span{
+    width: 100%;
+    font-size: 0.12rem;
+}
+.seLisT3 .lotterListBox .numBox nav:nth-of-type(4) span{
+    width: 100%;
+    font-size: 0.12rem;
+}
+.numBox p dis{
+    display: block;
+    float: left;
+    width: 49.5%;
+    height: 97%;
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,.2);
+} 
+.numBox p dis span{
+    width: initial;
+    font-size: 0.15rem;
+    text-shadow: 0 1px 0 rgba(255,255,255,.23);
+    font-weight: bolder;
+    color: rgba(0,0,0,.5);
+}
+.numBox p dis span:nth-of-type(2){
+    padding-left: 0.05rem;
+}
+.numBox p dis:nth-of-type(1){
+    border-right: 1px solid rgba(255,255,255,.2);
+}
+.box p{
+    border:0;
+    display: block;
+}
+.box p span{
+     color: #FFF;
+}
+section .sub{
+/*    height: 77px !important;*/
+    height: 0.63rem;
+    padding:0;
+    background-color: rgba(0,0,0,.39);
+    border-top: 1px solid rgba(255,255,255,.8);
+    overflow: hidden;
+}
+
+section .sub  #reset,section .sub  #submit{
+    float: none;
+    width: 0.5rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    margin: 0.05rem;
+}
+section .sub  #reset{
+    background: #4574c1;
+    color: #fff;
+}
+section .sub  #submit{
+    background: #d3563e;
+    color: #fff;
+}
+section .sub .col-50{
+    flex: 0 0 50%;
+    max-width: 50%;
+    display: block;
+    padding: 0.05rem;
+    width: 100%;
+    float: left;
+    height: 100%;
+}
+section .sub .row{
+    
+}
+section .sub .col-50 .ng-binding{
+    padding-bottom: 5px;
+    font-size: 0.13rem;
+        color: #FFF;
+}
+section .sub .col-50 .ng-binding .text-yellow{
+    color: #ffd200;
+    font-weight: 700;
+}
+section .sub .col-50 #money_sub{
+    text-decoration: none;
+    position: absolute;
+    padding-left: .5em;
+    border-radius: 0;
+    text-align: left;
+}
+#newid{
+    background: url("/pic/binding_left.png") right no-repeat;
+    background-size: 1.2em;
+    padding: 1em 1.4em 1em 0;
+}
+
+
+.seList_right{
+    overflow: auto;
+    width: 50%;
+    position: absolute;
+    top: 0;
+/*    display: none;*/
+}
+.seList_right .caiBox{
+    height: 100%;
+}
+.seList_right .caiBox .chebiandegao{
+    overflow-y: auto;
+}
+.seList_right .caiBox .cpyx{
+    display: block;
+    text-align: center;
+    padding: 0.5em 0;
+    font-size: 1.3em;
+    color: #FFF;
+    font-weight: bolder;
+}
+
+.seList_right .caiBox ul li{
+    height: 0.44rem;
+    line-height: 0.44rem;
+}
+.seList_right .caiBox ul li a{
+    display: block;
+    padding-left: 1em;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.2),0 -1px 0 rgba(0,0,0,.23);
+    color: #FFF;
+}
+mark{
+    background: rgba(255,255,255,.02);
+    color: #FFF;
+}
+
+
+.xuanz{
+    background: rgba(0,0,0,.4);
+    text-shadow: 0 0 0 rgba(255,255,255,.23);
+    box-shadow: inset 0 1px 5px rgba(0,0,0,.3);
+    border-right: 1px solid rgba(0,0,0,.3);
+    border-bottom: 1px solid rgba(0,0,0,.3);
+}
+.xuanz span.bg_blue, .xuanz span.bg_green{
+    color: #000;
+}
+.xuanz span{
+    color: #FFF;
+}
+
+
+
+
+.seLisT1{
+    
+}
+.seLisT1 .lottery_time{
+    height: 0.3rem;
+    text-align: center;
+    position: relative;
+    padding: 0 2.5%;
+    width: 95%;
+    box-shadow: -1px 1px 2px rgba(0,0,0,.5);
+    background: transparent;
+}
+.seLisT1 .lottery_time span{
+    margin: 0;
+    display: block;
+    font-size: 0.2rem;
+    height: 0.3rem;
+    line-height: 0.3rem;
+    color: #FFF;
+}
+.seLisT1 .lottery_time .fanhui{
+    padding: 0.12rem;
+    border-radius: 0.12rem;
+    background: url(../img/index_ico.png) center no-repeat;
+    background-size: 90%;
+    position: absolute;
+    left: 0.1rem;
+    top: 0.03rem;
+}
+.seLisT1 .lottery_num table {width: 100%;    color: #FFF;}
+.seLisT1 .lottery_num table tr.Piclis{
+    display: none;
+}
+.seLisT1 .lottery_num table tr.Piclis{
+    display: none;
+}
+.seLisT1 .lottery_num table tr.active{
+    display: table-row;
+}
+.seLisT1 .lottery_num table tr td{
+    margin: 1px;
+    margin-bottom: 1px;
+    background: hsla(0,0%,100%,.2);
+    box-shadow: inset 1px 1px hsla(0,0%,100%,.2);
+}
+.seLisT1 .lottery_num table tr td div{    padding: 0.09rem 0.03rem;position: relative;}
+.seLisT1 .lottery_num table tr td.active div i{background: url(/pic/xuanzhegou.png) center no-repeat; position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 0.1rem;
+    right: 0.05rem;
+}
+.seLisT1 .lotterListBox .numBox{
+    display: none;
+        position: relative;
+}
+.seLisT1 .lotterListBox .active{
+    display: block;
+}
+.seLisT1 .lotterListBox .numBox a{
+        display: block;
+        z-index: 2;
+        padding: 16px 49px 16px 16px;
+        border: none;
+            background: rgba(0,0,0,.2);
+    color: #fff;
+        border-bottom: 1px solid rgba(128, 128, 128, 0.96);
+}
+
+

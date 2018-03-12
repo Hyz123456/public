@@ -1,0 +1,154 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-6-26, 14:25:02
+    Author     : admin
+*/
+
+/*导航 开始*/
+* {
+        margin: 0;
+        padding: 0;
+}
+#box_body {
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+.nav_bg{
+        width: 100%;
+        background-image: url(/pic/nav_bg1.png);
+        background-repeat:repeat-x;
+        height: 35px;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+}
+
+.nav-items li {
+        float: left;
+        margin-right: -3px;
+        list-style: none;
+        height: 35px;
+}
+
+.nav-items li a {
+        text-decoration: none;
+}
+
+.nav-item {
+        color: #605144;
+        font-weight: bold;
+}
+.nav_top_bg{
+        background-image: url(/pic/nav_top_bg.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: 1px;
+        padding-top: 1px;
+        position: absolute;
+        z-index: 9999;
+        width: 156px;
+        margin-top: 10px;
+}
+
+#nav4 .small:hover {
+         background-image: url(/pic/nav_bg_1.png);
+        background-repeat:repeat-x;
+        text-decoration: none;
+        color: #fffff;
+}
+.small,
+.eventtext {
+        display: block;
+        color: #fff;
+        line-height: 35px;
+}
+
+#nav4 span {
+        font-size: 12px;
+        font-weight: bold;
+        float: left;
+        line-height: 35px;
+        height: 35px;
+}
+
+#nav4 .small{
+        cursor: pointer;
+        text-align: center;
+        width: 75px;
+}
+#nav4 .small .sj_img{
+        float: right;
+        position: relative;
+        top: 11px;
+}
+#nav4 .eventtext a {
+        height: 35px;
+        float: left;
+        min-width: 70px;
+        text-align: center;
+
+}
+
+#nav4 .eventtext a:hover {
+        background-image: url(/pic/nav_hover.png);
+        background-repeat:repeat-x;
+        min-width: 70px;
+        height: 35px;
+        color: #FFFFFF;
+}
+
+.eventtext {
+        background-image: url(/pic/nav_bg_2.png);
+        background-repeat:repeat-x;
+        height: 35px;
+        line-height: 35px;
+        vertical-align: middle;
+}
+
+ .current {
+        color: #FFFFFF;
+        background-image: url(/pic/nav_hover.png);
+        background-repeat:repeat-x;
+        text-align: center;
+}
+.hide{display: none;}
+.selected{
+        color: #FFFFFF; 
+    background-image: url(/pic/nav_bg_1.png);
+        background-repeat:repeat-x;
+        height: 35px;
+        }
+#nav4 .img_left{
+        background-image: url(/pic/img_left.png);
+        background-repeat: no-repeat;
+        width: 2px;
+        height: 35px;
+        padding:0px;
+        margin-top: 2px;}
+.img{
+                position: relative;
+                left: 7px;
+                float: right;
+        }
+.img_lt{
+        position: relative;
+        left:6px;
+}
+.em{
+        padding-left: 13px;
+}
+.btl{
+        border-top-left-radius:8px
+}
+/*导航 结束*/
+.about_tops {
+    position: absolute;
+    left: 50%;
+    margin-left: -530px;
+    top: -120px;
+    width: 1100px;
+    height: 126px;
+}

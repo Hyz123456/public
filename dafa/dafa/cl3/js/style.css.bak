@@ -1,0 +1,37 @@
+﻿*{margin:0;padding:0;}
+.w1000{ width:1000px; margin:0 auto;}
+.clear{ clear:both;}
+a{ text-decoration:none;color:#fff; font-size:12px;}
+body{font-size:12px; font-family: "宋体";}
+.flag{ position:relative; top: 3px;}
+
+
+
+
+.menu{height:40px;position:relative;}
+.menu .list{width:1000px;margin:0 auto; height:40px}
+.menu .list ul{ width: 1050px}
+.menu .list li{    float: left; position: relative; width: 98px; height: 40px; margin-right: 15px;text-align: center;}
+.menu .list li .hot{ position: absolute; right:0px; top:-5px}
+.menu .list li.last{}
+.menu .list a{    display: block;
+    color: #fff;
+    font-size: 18px;
+    font-family: "Microsoft Yahei";
+    height: 40px;
+    line-height: 40px;}
+.menu .list a:hover{background:#855a19;}
+
+.menu .box{position:absolute;left:0px;top:40px;width:100%;overflow:hidden;height:0;filter:alpha(opacity=0);opacity:0; background: url(/imgs/menubox.png) repeat-x;}
+.menu .cont{position:relative; height: 150px; width: 1000px; margin: 0 auto;}
+
+.menulive{ background:url(/imgs/menuslots.png) no-repeat;}
+.menuslots{background:url(/imgs/menulive.png) no-repeat; }
+.menusports{ background:url(/imgs/menulottery.png) no-repeat;}
+.menulottery{ background:url(/imgs/menusports.png) no-repeat;}
+.cont .jr{height:42px; line-height:40px; display:block;font-size: 14px; font-family: "Microsoft Yahei"; color:#fff;}
+.cont span{height:42px; line-height:40px;  display:block; position:absolute; left:15px; bottom:0; width:120px;font-size: 16px; font-family: "Microsoft Yahei"; color:#fff; text-align:center}
+.menulottery .jr{ font-size:16px;}
+.cont .jr:hover{ color:#fff100}
+
+

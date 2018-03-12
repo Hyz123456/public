@@ -1,0 +1,111 @@
+body{background: #e9ecf3}
+body .layui-layout-admin .site-demo{
+	    bottom: 0;
+}
+
+.layui-body{
+	background: #e9ecf3;
+}
+
+.biankuang{
+	background: #ffffff;
+	padding:13px;
+	border-radius: 4px;
+}
+
+
+
+.biankuang .title{
+
+	padding:5px;
+
+}
+
+
+.biankuang .titletd{
+
+	padding:10px;
+
+}
+
+
+
+.bi{border-color: #009688;}
+
+.layui-btn-primary:hover{border-color: #000;}
+
+
+.kuang{
+
+	height:140px;
+	padding:10px;
+	padding-left:25px;
+	border-radius: 4px;
+
+}
+
+.kuang .title{
+	padding-top:20px;
+	margin-bottom: 15px;
+}
+
+.kuang .widget-statistic-value{
+
+	font-size: 46px;
+    line-height: 46px;
+	margin-bottom: 8px;
+}
+
+.kuang .miyaoa{
+
+	font-size: 20px;
+    line-height: 20px;
+	margin-bottom: 8px;
+}
+
+
+
+.shuzi1{
+	background: #ca7824;
+	color:#fff;
+}
+
+.shuzi2{
+	background: #0569b3;
+	color:#ffffff;
+}
+
+.shuzi3{
+	background: #009688;
+	color:#ffffff;
+}
+
+.shuzi4{
+	background: #333332;
+	color:#ffffff;
+}
+
+.shuzi5{
+	background: #009688;
+	color:#ffffff;
+}
+
+.shuzi6{
+	background: #8E44AD;
+	color:#ffffff;
+}
+
+
+
+
+
+blockquote{
+	margin-top:10px;
+	margin-bottom:10px
+}
+
+.huise{background: #BEBEC5}
+
+td{word-break: break-all}
+
+body .layui-layout-admin .footer-demo{padding:0;height:0}

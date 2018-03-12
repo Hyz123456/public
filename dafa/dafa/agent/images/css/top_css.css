@@ -1,0 +1,117 @@
+
+table{
+font-size:12px;
+}
+BODY {
+	FONT-SIZE: 12px;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: #fff;
+}
+A ,.maifen , td[valign="middle"]{
+	TEXT-DECORATION: none;
+	COLOR: #fff; font-weight:bold;
+	-webkit-transition: .2s all linear;
+	-moz-transition: .2s all linear;
+	-o-transition: .2s all linear;
+	transition: .2s all linear;
+}
+
+
+A:active {
+	COLOR: #1E5494
+}
+.topbar {background:url(/Images/top_tt_bg.gif) no-repeat;
+	COLOR: #1E5494
+}
+.topbar A:link {
+	COLOR: #1E5494
+}
+.topbar A:visited {
+	COLOR: #1E5494
+}
+.topbar A:hover {
+	
+	 COLOR: #8B0000; TEXT-DECORATION: none
+}
+.STYLE2 {color: #fff; }
+.STYLE3 {color: #fff;}
+.STYLE4 {color: #FFFFFF}
+
+table .brand{
+	    float: left;
+    display: block;
+    padding: 10px 18px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #777777;
+    /* font-family: georgia, serif; */
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+.brand .second {
+    color: #fff;
+    font-weight: bold;
+}
+
+small {
+    font-size: 85%;
+}
+.maifen{
+	margin-left: 0px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.maifen i.active{
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-width: 5px 5px 0;
+    border-style: solid;
+    border-color: #fff transparent transparent;
+    margin: 0 auto;
+    position: relative;
+    left: -3px;
+}
+
+.maifen i.actives{ 
+	display: inline-block;
+    width: 0;
+    height: 0;
+    border-width: 0 5px 5px;
+    border-style: solid;
+    border-color: transparent transparent #fff;
+    margin: 0 auto;
+    position: relative;
+    left: -3px;
+}
+
+.maifen:hover {
+	background: #797878;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+
+td[valign="middle"] a{
+	color: inherit;
+    display: block;
+    height: 26px;
+    line-height: 26px;
+    background: #5a5a5a;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+td[valign="middle"] a:hover {
+	    background: #1d3730;
+    text-shadow: 1px 1px 4px rgba(120, 8, 127, 0.82);
+}
+
+
+a[target="main"]:hover{
+	color: #a0a0a0;
+}
+
+.subbg a[target="main"]:hover{
+   color: inherit;
+}

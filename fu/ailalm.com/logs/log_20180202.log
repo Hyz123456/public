@@ -1,0 +1,55 @@
+/index.php/manager/html
+/controller/manager load fail.
+2018-02-02 01:42:28
+58.218.213.45
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 02:17:04
+80.82.78.50
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 02:17:04
+80.82.78.50
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 02:17:09
+80.82.78.50
+
+/index.php/invoker/readonly
+/controller/invoker load fail.
+2018-02-02 19:22:31
+222.186.172.48
+
+/index.php/phpmyadmin/scripts/setup.php
+/controller/phpmyadmin load fail.
+2018-02-02 20:35:31
+66.118.142.140
+
+/index.php/egateway/egateway.asmx
+/controller/egateway load fail.
+2018-02-02 21:10:57
+195.22.127.24
+
+/index.php/EGateway/EGateway.asmx
+/controller/EGateway load fail.
+2018-02-02 21:10:57
+195.22.127.24
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 22:30:38
+172.82.166.210
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 22:30:40
+172.82.166.210
+
+/index.php/cache/global/img/gs.gif
+/controller/cache load fail.
+2018-02-02 22:30:46
+172.82.166.210
+
